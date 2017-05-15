@@ -1,0 +1,22 @@
+.paper {
+    font-weight: 900;
+    font-size: 12pt;
+}
+
+.authors {
+    font-size: 13pt;
+    
+}
+
+.journal {
+    font-style: italic;
+}
+
+.journal.title {
+    font-weight: 900;
+}
+
+.talks {
+    font-weight: 900;
+    
+}
