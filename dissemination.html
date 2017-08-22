@@ -9,6 +9,12 @@
         <link rel="stylesheet" type="text/css" href="style/style.css" title="style" />
         <link rel="stylesheet" type="text/css" href="style_custom.css" title="style" />
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+        <!-- jquery -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+        <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+        <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
     </head>
 
     <body>
@@ -62,7 +68,7 @@
 
                     <div class="row">
                         <div class="col-md-6 col-xs-6">
-                            <img style="width:500px;height:auto;" src="images/icps_group.jpg" alt="ICPS group pic">
+                            <img style="width:500px;height:auto;" src="images/icps_group.jpg" alt="ICPS group pic" id="icpsGroup">
                         </div>
                         <div class="col-md-6 col-xs-6">
                             <img style="width:500px;height:auto;" src="images/icps_fasci.jpg" alt="ICPS organizers at work">
@@ -70,7 +76,7 @@
                     </div>
 
                     <br>
-                    
+
                     <div class="row" style="text-align:center">
                         <div class="col-md-6 col-xs-6">
                             Interviewed by the Municipality of Torino (in Italian) - <a href="https://www.youtube.com/watch?v=0e8I3PT5Rww" target="_blank">YouTube</a>
@@ -100,9 +106,9 @@
                             <img style="width:500px;height:auto;" src="images/icps_polito.jpg" alt="ICPS lab visits">
                         </div>
                     </div>
-                    
+
                     <br>
-                    
+
                     <div class="row" style="color:#999999;font-size:10px;font-style:oblique;text-align:right">
                         <div class="col-md-6 col-xs-6"></div>
                         <div class="col-md-5 col-xs-5">
@@ -114,7 +120,39 @@
                 </div> <!-- end content-->
             </div> <!-- end site_content-->
 
+            <style>
+                /* hovering captions */
+                .hoverCap {
+                    color: cadetblue;
+                    font-weight: bold;
+                    text-align: center;
+                    position:absolute;
+                    z-index:1000;
+                    top:50%;
+                    bottom:50%;
+                }
+            </style>
+
+            <script>
+                // hovering images
+
+                $('img').hover(
+                    function(){
+                        $(this).css('opacity','.5');
+                        var a = $(this).attr('alt');
+                        $(this).parent().append('<div class="hoverCap">' + a + '</div>');
+                    },
+                    function(){
+                        $(this).css('opacity','1');
+                        $(this).next().remove('.title');
+                    }
+
+
+            </script>
+
             <!-- END ICPS -->
+
+
 
             </body>
         </html>
