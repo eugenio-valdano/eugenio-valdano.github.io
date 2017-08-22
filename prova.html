@@ -21,7 +21,7 @@
     </head>
 
     <body>
-        
+
         <div id="bamba">cane</div>
 
         <div class="row">
@@ -60,9 +60,15 @@
                     $(this).css('opacity','1');
                     $(this).next().remove('.hoverCap');
                 }
-                
-                
+
+
                 $("#bamba").text("gatto");
+
+            if (jQuery) {
+                alert("jquery is loaded");
+            } else {
+                alert("Not loaded");
+            }
 
 
         </script>
