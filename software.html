@@ -8,8 +8,8 @@
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
         <!-- redirect to github 
-        <meta http-equiv="refresh" content="3;URL=https://github.com/eugenio-valdano"> -->
-        
+<meta http-equiv="refresh" content="3;URL=https://github.com/eugenio-valdano"> -->
+
         <!-- jquery -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
         <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
@@ -21,41 +21,6 @@
     </head>
 
     <body>
-        
-        <script>
-            // redirection with countdown
-            
-            var seconds = 3; // seconds to wait
-
-            function countdown() {
-                
-                document.getElementById("secondi").innerHTML = seconds.toString();
-                /*
-                seconds = seconds - 1;
-                if (seconds < 0) {
-                    window.location.assign("https://github.com/eugenio-valdano"); // redirection
-                } else {
-                    document.getElementById("secondi").innerHTML = seconds;  // update written countdown
-                    window.setTimeout("countdown()", 1000); // call the function after x milliseconds
-                }
-                */
-            }
-
-            // Run countdown function
-            countdown();
-
-            
-            /*
-            function f () {
-                document.getElementById("secondi").innerHTML = "arrivederci";
-            }
-
-            window.setTimeout("f()", 1000);
-            */
-            
-        </script>
-
-
 
         <div id="main" style="text-align:left">
             <div id="header">
@@ -78,7 +43,7 @@
                     </ul>
                 </div>
             </div>
-            
+
             <!--<h3><a href="https://github.com/eugenio-valdano/" target="_blank">Taking you to my Github page in <span id="secondi2"></span> seconds!</a></h3>-->
 
             <div id="site_content">
@@ -86,12 +51,46 @@
                 <div id="content">
                     <!-- insert the page content here -->
 
-                    <h3>Taking you to my <a href="https://github.com/eugenio-valdano/" target="_blank">Github page</a> in <span id="secondi">BAH</span> seconds!</h3>
+                    <h3>Taking you to my <a href="https://github.com/eugenio-valdano/" target="_blank">Github page</a> in <span id="secondi">BEH</span> seconds!</h3>
 
                     <a href="https://github.com/eugenio-valdano">
                         <img src="images/github.png"  width="40" height="40" border="0" alt="Github">
                     </a>
                 </div>
             </div>
+
+            <script>
+                // redirection with countdown
+
+                var seconds = 3; // seconds to wait
+
+                function countdown() {
+
+                    document.getElementById("secondi").innerHTML = seconds.toString();
+                    /*
+                seconds = seconds - 1;
+                if (seconds < 0) {
+                    window.location.assign("https://github.com/eugenio-valdano"); // redirection
+                } else {
+                    document.getElementById("secondi").innerHTML = seconds;  // update written countdown
+                    window.setTimeout("countdown()", 1000); // call the function after x milliseconds
+                }
+                */
+                }
+
+                // Run countdown function
+                countdown();
+
+
+                /*
+            function f () {
+                document.getElementById("secondi").innerHTML = "arrivederci";
+            }
+
+            window.setTimeout("f()", 1000);
+            */
+
+            </script>
+
             </body>
         </html>
