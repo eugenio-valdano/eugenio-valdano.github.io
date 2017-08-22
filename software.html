@@ -51,32 +51,36 @@
                 <div id="content">
                     <!-- insert the page content here -->
 
-                    <h3>Taking you to my <a href="https://github.com/eugenio-valdano/" target="_blank">Github page</a> in <span id="secondi">BEH</span> seconds!</h3>
+                    <div class="row">
+                        <div class="col-md-2"></div>
+                        <div class="col-md-4" style="text-align:center">
+                            <a href="https://github.com/eugenio-valdano">
+                                <img src="images/github.png"  width="40" height="40" border="0" alt="Github">
+                            </a>
+                        </div>
+                        <div class="col-md-4">
+                            <h3>Taking you to my <a href="https://github.com/eugenio-valdano/" target="_blank">Github page</a> in <span id="secondi">BEH</span> seconds!</h3>
+                        </div>
+                        <div class="col-md-2"></div>
+                    </div>
 
-                    <a href="https://github.com/eugenio-valdano">
-                        <img src="images/github.png"  width="40" height="40" border="0" alt="Github">
-                    </a>
+                    <br>
+                    
+                    <div class="row">
+                        <div class="col-md-2"></div>
+                        <div class="col-md-4" style="text-align:center">
+                            <button onclick="goBack()" class="btn btn-info">Go Back</button>
+                        </div>
+                        <div class="col-md-4"></div>
+                        <div class="col-md-2"></div>
+                    </div>
+
                 </div>
             </div>
 
-            <!-- form to detect if the user is coming back -->
-            <form name="ignore_me">
-                <input type="hidden" id="page_is_dirty" name="page_is_dirty" value="0" />
-            </form>
-
             <script>
-                // check if the user is coming back to the page. if so, redirect to home
-                var dirty_bit = document.getElementById('page_is_dirty');
-                if (dirty_bit.value == '1') {
-                    window.location.assign("index.html");
-                }
-                function mark_page_dirty() {
-                    dirty_bit.value = '1';
-                }
-                mark_page_dirty();
-
                 // redirection with countdown
-                var seconds = 3; // seconds to wait
+                var seconds = 5; // seconds to wait
                 function countdown() {
                     if (seconds <= 0) {
                         window.location.assign("https://github.com/eugenio-valdano"); // redirection
@@ -89,6 +93,11 @@
 
                 // Run countdown function
                 countdown();
+
+                // go back button
+                function goBack() {
+                    window.history.back();
+                }
 
             </script>
 
