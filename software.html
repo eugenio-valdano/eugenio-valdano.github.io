@@ -61,35 +61,19 @@
 
             <script>
                 // redirection with countdown
-
                 var seconds = 3; // seconds to wait
-
                 function countdown() {
-
-                    document.getElementById("secondi").innerHTML = seconds.toString();
-                    /*
-                seconds = seconds - 1;
-                if (seconds < 0) {
-                    window.location.assign("https://github.com/eugenio-valdano"); // redirection
-                } else {
-                    document.getElementById("secondi").innerHTML = seconds;  // update written countdown
-                    window.setTimeout("countdown()", 1000); // call the function after x milliseconds
-                }
-                */
+                    seconds = seconds - 1;
+                    if (seconds < 0) {
+                        window.location.assign("https://github.com/eugenio-valdano"); // redirection
+                    } else {
+                        document.getElementById("secondi").innerHTML = seconds;  // update written countdown
+                        window.setTimeout("countdown()", 1000); // call the function after x milliseconds
+                    }
                 }
 
                 // Run countdown function
                 countdown();
-
-
-                /*
-            function f () {
-                document.getElementById("secondi").innerHTML = "arrivederci";
-            }
-
-            window.setTimeout("f()", 1000);
-            */
-
             </script>
 
             </body>
