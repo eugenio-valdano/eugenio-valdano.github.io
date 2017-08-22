@@ -12,21 +12,24 @@
     </head>
 
     <body>
-
-        <div id="site_content">
-            <div id="content">
-                1<span id="cane">ciao</span>
-            </div>
-        </div>
-
+        
         <script>
+            var caro = 3;
             function f () {
-                document.getElementById("cane").innerHTML = "arrivederci";
+                document.getElementById("cane").innerHTML = caro;
             }
 
             window.setTimeout("f()", 1000);
             //f();
         </script>
+
+        <div id="site_content">
+            <div id="content">
+                bamba: <span id="cane">ciao</span>
+            </div>
+        </div>
+
+        
 
 
     </body>
