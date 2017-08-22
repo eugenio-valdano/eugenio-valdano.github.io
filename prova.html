@@ -16,63 +16,11 @@
         <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 
         <!-- redirect -->
-        <!-- <meta http-equiv="refresh" content="0;URL=index.html"> -->
+        <meta http-equiv="refresh" content="0;URL=index.html">
 
     </head>
 
     <body>
-
-        <div id="bamba">cagnone</div>
-
-        <div class="row">
-            <div class="col-md-6">
-
-                <img style="width:500px;height:auto;" src="images/icps_logo.png" alt="legenda qui">
-
-
-            </div>
-            <div class="col-md-6"></div>
-        </div>
-
-        <style>
-            /* hovering captions */
-            .hoverCap {
-                color: cadetblue;
-                font-weight: bold;
-                text-align: center;
-                position:absolute;
-                z-index:1000;
-                top:50%;
-                bottom:50%;
-            }
-        </style>
-
-        <script>
-            // hovering images
-
-            $('img').hover(
-                function(){
-                    $(this).css('opacity','.5');
-                    var a = $(this).attr('alt');
-                    $(this).parent().append('<div class="hoverCap">' + a + '</div>');
-                },
-                function(){
-                    $(this).css('opacity','1');
-                    $(this).next().remove('.hoverCap');
-                }
-            )
-
-            if (jQuery) {
-                alert("jquery is loaded");
-            } else {
-                alert("Not loaded");
-            }
-
-
-        </script>
-
-
-
     </body>
 
 </html>
