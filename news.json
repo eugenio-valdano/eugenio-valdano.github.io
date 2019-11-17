@@ -1,0 +1,98 @@
+[
+    {
+        "name": "epfl",
+        "type": "talk",
+        "href": "https://network-science.epfl.ch/",
+        "head": "Invited talk @ EPFL",
+        "body": "I will be in Lausanne, Switzerland to talk at the EPFL Workshop on Engineering in Network Science.",
+        "date": "2019-06-07"
+    },
+    {
+        "name": "netmob",
+        "type": "talk",
+        "href": "http://netmob.org/",
+        "head": "Contributed talk @ NETMOB",
+        "body": "In Oxford, UK to talk at the NETMOB conference on mobile phone data.",
+        "date": "2019-07-10"
+    },
+    {
+        "name": "oxford",
+        "type": "talk",
+        "href": "https://www.maths.ox.ac.uk/groups/networks/networks-seminar",
+        "head": "Seminar @ Math Institute, University of Oxford",
+        "body": "In Oxford, UK to give a seminar at the Mathematical Institute.",
+        "date": "2019-07-09"
+    },
+    {
+        "name": "cnr",
+        "type": "talk",
+        "href": "https://www.isc.cnr.it/",
+        "head": "Seminar @ CNR",
+        "body": "In Rome, Italy to give a seminar @ Sapienza University and CNR.",
+        "date": "2019-10-21"
+    },
+    {
+        "name": "cri",
+        "type": "talk",
+        "href": "https://cri-paris.org/",
+        "head": "Seminar @ CRI",
+        "body": "In Paris, France to give a seminar @ Center for Research and Interdisciplinarity (CRI).",
+        "date": "2019-10-24"
+    },
+    {
+        "name": "hivTrans",
+        "type": "talk",
+        "href": "https://www.virology-education.com/event/upcoming/14th-hiv-transmission-2019/",
+        "head": "Contributed talk @ HIV Transmission Workshop, NIAID, NIH",
+        "body": "In Rockville, MD, USA to talk @ 14th HIV Transmission Workshop",
+        "date": "2019-10-24"
+    },
+    {
+        "name": "sammba",
+        "type": "talk",
+        "href": "https://www.pasteur.fr/en",
+        "head": "Seminar @ Pasteur Inst.",
+        "body": "In Paris, France, to give a seminar at Pasteur Institute",
+        "date": "2019-06-04"
+    },
+    {
+        "name": "ospedali",
+        "type": "paper",
+        "href": "https://www.medrxiv.org/content/10.1101/19007724v1",
+        "head": "New preprint on medRxiv",
+        "body": "Reorganization of nurse scheduling reduces the risk of healthcare associated infections",
+        "date": "2019-10-18"
+    },
+    {
+        "name": "rankRed",
+        "type": "paper",
+        "href": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.9.031050",
+        "head": "New article on Physical Review X",
+        "body": "Exact rank-reduction of network models",
+        "date": "2019-09-18"
+    },
+    {
+        "name": "PrEP",
+        "type": "paper",
+        "href": "https://arxiv.org/abs/1906.09085",
+        "head": "New preprint on arXiv",
+        "body": "Evaluating the impact of PrEP on HIV and gonorrhea on a networked population of female sex workers",
+        "date": "2019-07-02"
+    },
+    {
+        "name": "multipartite",
+        "type": "paper",
+        "href": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006876",
+        "head": "New article on PLOS Computational Biology",
+        "body": "Endemicity and prevalence of multipartite viruses under heterogeneous between-host transmission",
+        "date": "2019-03-18"
+    },
+    {
+        "name": "cr7_2",
+        "type": "event",
+        "href": "https://complexity72h.weebly.com/",
+        "head": "Complexity72h - Second Edition",
+        "body": "Organizing the 2nd edition of the workshop Complexity72h in Lucca, Italy,",
+        "date": "2019-06-17 to 2019-06-21"
+    }
+]
