@@ -50,3 +50,13 @@
 .spazietto {
     margin-top: 40px; /* define margin as you see fit */
 }
+
+.righelloGrigio {
+    vertical-align: middle;
+    background-color: #d3d3d3;
+}
+
+.righelloBianco {
+    vertical-align: middle;
+    background-color: whitesmoke;
+}
