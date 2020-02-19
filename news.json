@@ -94,5 +94,29 @@
         "head": "Complexity72h - Second Edition",
         "body": "Organizing the 2nd edition of the workshop Complexity72h in Lucca, Italy,",
         "date": "2019-06-17 to 2019-06-21"
+    },
+    {
+        "name": "cov_euro",
+        "type": "paper",
+        "href": "https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.4.2000057",
+        "head": "New paper on Eurosurveillance",
+        "body": "Novel coronavirus (2019-nCoV) early-stage importation risk to Europe, January 2020",
+        "date": "2020-01-30"
+    },
+    {
+        "name": "cov_lancet",
+        "type": "paper",
+        "href": "https://www.thelancet.com/lancet/article/S0140-6736(20)30411-6",
+        "head": "New paper on The Lancet",
+        "body": "Preparedness and vulnerability of African countries against importations of COVID-19: a modelling study",
+        "date": "2020-02-19"
+    },
+    {
+        "name": "sosink",
+        "type": "paper",
+        "href": "https://www.thelancet.com/journals/lanhiv/article/PIIS2352-3018(19)30407-2/fulltext#articleInformation",
+        "head": "New paper on The Lancet HIV",
+        "body": "HIV transmission and source-sink dynamics in sub-Saharan Africa",
+        "date": "2020-02-14"
     }
 ]
