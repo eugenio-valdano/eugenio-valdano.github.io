@@ -44,7 +44,15 @@
         "type": "press coverage",
         "href": "https://www.youtube.com/watch?v=xV5dbwD4hQ0&t=2s",
         "head": "Video-interview with AISF",
-        "body": "Interview with the Italian Association of Physics Students on COVID-19",
+        "body": "Interview with the Italian Association of Physics Students on COVID-19 (in Italian)",
         "date": "2020-04-05"
+    },
+    {
+        "name": "lemonde",
+        "type": "press coverage",
+        "href": "https://www.lemonde.fr/societe/article/2020/05/11/coronavirus-le-confinement-a-eu-un-fort-impact-sur-la-mobilite-en-france_6039345_3224.html",
+        "head": "Interview on Le Monde",
+        "body": "Coronavirus : le confinement a eu un fort impact sur la mobilité en France (in French)",
+        "date": "2020-05-11"
     }
 ]
