@@ -38,5 +38,13 @@
         "head": "New report",
         "body": "Population mobility reductions during COVID-19 epidemic in France under lockdown",
         "date": "2020-05-11"
+    },
+    {
+        "name": "aisf",
+        "type": "press coverage",
+        "href": "https://www.youtube.com/watch?v=xV5dbwD4hQ0&t=2s",
+        "head": "Video-interview with AISF",
+        "body": "Interview with the Italian Association of Physics Students on COVID-19",
+        "date": "2020-04-05"
     }
 ]
