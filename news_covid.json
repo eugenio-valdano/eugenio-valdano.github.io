@@ -1,0 +1,34 @@
+[
+    {
+        "name": "cov_euro",
+        "type": "paper",
+        "href": "https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.4.2000057",
+        "head": "New paper on Eurosurveillance",
+        "body": "Novel coronavirus (2019-nCoV) early-stage importation risk to Europe, January 2020",
+        "date": "2020-01-30"
+    },
+    {
+        "name": "cov_lancet",
+        "type": "paper",
+        "href": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30411-6/fulltext",
+        "head": "New paper on The Lancet",
+        "body": "Preparedness and vulnerability of African countries against importations of COVID-19: a modelling study",
+        "date": "2020-02-19"
+    },
+    {
+        "name": "echos",
+        "type": "press coverage",
+        "href": "https://www.lesechos.fr/pme-regions/innovateurs/les-mobiles-aident-a-modeliser-les-scenarios-de-sortie-du-confinement-1191101",
+        "head": "Interview on Les Echos",
+        "body": "Les mobiles aident à modéliser les scénarios de sortie du confinement (in French)",
+        "date": "2020-04-01"
+    },
+    {
+        "name": "importation",
+        "type": "paper",
+        "href": "https://www.medrxiv.org/content/10.1101/2020.02.24.20027326v1",
+        "head": "New medRXiv preprint",
+        "body": "Lessons learnt from 288 COVID-19 international cases: importations over time, effect of interventions, underdetection of imported cases",
+        "date": "2020-02-25"
+    }
+]
