@@ -54,5 +54,13 @@
         "head": "Interview on Le Monde",
         "body": "Coronavirus : le confinement a eu un fort impact sur la mobilité en France (in French)",
         "date": "2020-05-11"
+    },
+    {
+        "name": "inserm_video",
+        "type": "press coverage",
+        "href": "https://www.youtube.com/watch?v=6X40azKsAuc&feature=emb_logo",
+        "head": "Video-interview Inserm Press Room",
+        "body": "Comment évaluer l’impact du confinement sur la mobilité ? (in French)",
+        "date": "2020-05-13"
     }
 ]
