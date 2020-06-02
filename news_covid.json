@@ -62,5 +62,21 @@
         "head": "Video-interview Inserm Press Room",
         "body": "Comment évaluer l’impact du confinement sur la mobilité ? (in French)",
         "date": "2020-05-13"
+    },
+    {
+        "name": "pharmaradio",
+        "type": "press coverage",
+        "href": "https://www.pharmaradio.fr/",
+        "head": "Interview on Pharmaradio",
+        "body": "On importation risk to Europe (in French)",
+        "date": "2020-01-28"
+    },
+    {
+        "name": "importation",
+        "type": "paper",
+        "href": "https://www.medrxiv.org/content/10.1101/2020.05.29.20097097v1",
+        "head": "New medRXiv preprint",
+        "body": "Population mobility reductions during COVID-19 epidemic in France under lockdown",
+        "date": "2020-06-02"
     }
 ]
