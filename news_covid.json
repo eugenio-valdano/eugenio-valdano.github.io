@@ -78,5 +78,13 @@
         "head": "New medRXiv preprint",
         "body": "Population mobility reductions during COVID-19 epidemic in France under lockdown",
         "date": "2020-06-02"
+    },
+    {
+        "name": "ldhLockdown",
+        "type": "paper",
+        "href": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30243-0/fulltext",
+        "head": "New paper on The Lancet Digital Health",
+        "body": "Demographic factors, socioeconomic factors, risk aversion impacted mobility during the first lockdown in France",
+        "date": "2020-10-28"
     }
 ]
