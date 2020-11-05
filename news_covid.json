@@ -86,5 +86,13 @@
         "head": "New paper on The Lancet Digital Health",
         "body": "Demographic factors, socioeconomic factors, risk aversion impacted mobility during the first lockdown in France",
         "date": "2020-10-28"
+    },
+    {
+        "name": "leparisien",
+        "type": "press coverage",
+        "href": "https://www.leparisien.fr/societe/confinement-francais-et-parisiens-bien-plus-mobiles-qu-au-printemps-05-11-2020-8406746.php",
+        "head": "Interview on Le Parisien",
+        "body": "Mobility on the first day of the second lockdown (in French)",
+        "date": "2020-11-05"
     }
 ]
