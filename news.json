@@ -102,5 +102,21 @@
         "head": "New paper on The Lancet HIV",
         "body": "HIV transmission and source-sink dynamics in sub-Saharan Africa",
         "date": "2020-02-14"
+    },
+    {
+        "name": "ou_ise",
+        "type": "talk",
+        "href": "https://www.ou.edu/coe/ise",
+        "head": "Seminar @ University of Oklahoma",
+        "body": "Invited seminar at the School of Industrial and Systems Engineering",
+        "date": "2020-09-25"
+    },
+    {
+        "name": "eufmd",
+        "type": "talk",
+        "href": "https://www.eufmd.info/os20faster",
+        "head": "Keynote @ EuFMD Open Session 2020",
+        "body": "I will be talking at the open session of the European Commission for the control of Foot-and-Mouth Disease",
+        "date": "2020-12-08"
     }
 ]
