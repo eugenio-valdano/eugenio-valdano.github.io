@@ -94,5 +94,21 @@
         "head": "Interview on Le Parisien",
         "body": "Mobility on the first day of the second lockdown (in French)",
         "date": "2020-11-05"
+    },
+    {
+        "name": "lefigaro",
+        "type": "press coverage",
+        "href": "https://www.lefigaro.fr/sciences/coronavirus-l-ile-de-france-respecte-mieux-le-reconfinement-que-le-reste-du-pays-20201112",
+        "head": "Interview on Le Figaro",
+        "body": "Mobility during 1st v 2nd lockdown in France (in French)",
+        "date": "2020-11-13"
+    },
+    {
+        "name": "report_mob2",
+        "type": "report",
+        "href": "https://www.epicx-lab.com/uploads/9/6/9/4/9694133/inserm_covid-19-lockdown2-mobility_20201112.pdf",
+        "head": "Mobility during the first week of 1st and 2nd lockdown in France",
+        "body": "Analyzing mobility during the first days of 2nd LD in France, and comparing them to 1st LD",
+        "date": "2020-11-12"
     }
 ]
