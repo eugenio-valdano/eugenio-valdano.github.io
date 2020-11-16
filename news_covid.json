@@ -33,9 +33,9 @@
     },
     {
         "name": "phones_france",
-        "type": "paper",
+        "type": "report",
         "href": "http://www.epicx-lab.com/uploads/9/6/9/4/9694133/inserm-covid-19_report_mobility_fr_lockdown-20200511.pdf",
-        "head": "New report",
+        "head": "Mobility during lockdown in France",
         "body": "Population mobility reductions during COVID-19 epidemic in France under lockdown",
         "date": "2020-05-11"
     },
