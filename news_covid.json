@@ -110,5 +110,21 @@
         "head": "Mobility during the first week of 1st and 2nd lockdown in France",
         "body": "Analyzing mobility during the first days of 2nd LD in France, and comparing them to 1st LD",
         "date": "2020-11-12"
+    },
+    {
+        "name": "leparisien2",
+        "type": "press coverage",
+        "href": "https://www.leparisien.fr/societe/comment-ce-reconfinement-bouleverse-la-mobilite-des-francais-14-11-2020-8408340.php",
+        "head": "Interview on Le Parisien",
+        "body": "Comment ce reconfinement bouleverse la mobilité des Français (in French)",
+        "date": "2020-11-15"
+    },
+    {
+        "name": "lemonde_decodeurs",
+        "type": "press coverage",
+        "href": "https://www.lemonde.fr/les-decodeurs/article/2020/11/15/reconfinement-six-graphiques-qui-montrent-que-les-francais-sont-plus-mobiles-qu-en-mars_6059796_4355770.html",
+        "head": "Interview on Le Monde",
+        "body": "Confinement : six graphiques qui montrent que les Français sont plus mobiles qu’en mars",
+        "date": "2020-11-15"
     }
 ]
