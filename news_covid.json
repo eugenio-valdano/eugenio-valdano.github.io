@@ -124,7 +124,15 @@
         "type": "press coverage",
         "href": "https://www.lemonde.fr/les-decodeurs/article/2020/11/15/reconfinement-six-graphiques-qui-montrent-que-les-francais-sont-plus-mobiles-qu-en-mars_6059796_4355770.html",
         "head": "Interview on Le Monde",
-        "body": "Confinement : six graphiques qui montrent que les Français sont plus mobiles qu’en mars",
+        "body": "Confinement : six graphiques qui montrent que les Français sont plus mobiles qu’en mars (in French)",
         "date": "2020-11-15"
+    },
+    {
+        "name": "francetvinfo",
+        "type": "press coverage",
+        "href": "https://www.francetvinfo.fr/sante/maladie/coronavirus/confinement/infographies-confinement-neuf-graphiques-pour-comprendre-l-augmentation-des-deplacements-par-rapport-au-printemps_4179825.html",
+        "head": "Interview on Franceinfo",
+        "body": "Confinement : neuf graphiques pour comprendre l'augmentation des déplacements par rapport au printemps (in French)",
+        "date": "2020-11-17"
     }
 ]
