@@ -134,5 +134,29 @@
         "head": "Interview on Franceinfo",
         "body": "Confinement : neuf graphiques pour comprendre l'augmentation des déplacements par rapport au printemps (in French)",
         "date": "2020-11-17"
+    },
+    {
+        "name": "lemonde_cfew",
+        "type": "press coverage",
+        "href": "https://www.lemonde.fr/planete/article/2021/02/16/malgre-le-couvre-feu-la-baisse-des-deplacements-des-francais-est-moins-importante-qu-espere_6070089_3244.html",
+        "head": "Interview on Le Monde",
+        "body": "On mobility restrictions (in French)",
+        "date": "2021-02-16"
+    },
+    {
+        "name": "journal_dimanche",
+        "type": "press coverage",
+        "href": "https://www.lejdd.fr/Societe/Sante/covid-19-voici-comment-travaillent-les-modelisateurs-qui-dessinent-les-courbes-utilisees-par-les-autorites-4026725",
+        "head": "Interview on Le Journal du Dimanche",
+        "body": "On infectious disease modeling (in French)",
+        "date": "2021-02-22"
+    },
+    {
+        "name": "jtm",
+        "type": "paper",
+        "href": "#",
+        "head": "New paper accepted on Journal of Travel Medicine",
+        "body": "Highlighting socio-economic constraints on mobility reductions during COVID-19 restrictions in France can inform effective and equitable pandemic response",
+        "date": "2021-03-17"
     }
 ]

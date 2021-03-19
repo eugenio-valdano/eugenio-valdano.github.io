@@ -118,5 +118,13 @@
         "head": "Keynote @ EuFMD Open Session 2020",
         "body": "I will be talking at the open session of the European Commission for the control of Foot-and-Mouth Disease",
         "date": "2020-12-08"
+    },
+    {
+        "name": "ospedali",
+        "type": "paper",
+        "href": "https://www.medrxiv.org/content/10.1101/19007724v1",
+        "head": "New paper accepted on Scientific Reports",
+        "body": "Reorganization of nurse scheduling reduces the risk of healthcare associated infections",
+        "date": "2021-03-19"
     }
 ]
