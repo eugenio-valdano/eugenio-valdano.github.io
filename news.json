@@ -122,9 +122,17 @@
     {
         "name": "ospedali",
         "type": "paper",
-        "href": "https://www.medrxiv.org/content/10.1101/19007724v1",
-        "head": "New paper accepted on Scientific Reports",
+        "href": "https://www.nature.com/articles/s41598-021-86637-w",
+        "head": "New paper on Scientific Reports",
         "body": "Reorganization of nurse scheduling reduces the risk of healthcare associated infections",
         "date": "2021-03-19"
+    },
+    {
+        "name": "namibiaHIV",
+        "type": "paper",
+        "href": "https://www.nature.com/articles/s41467-021-23051-w",
+        "head": "New paper on Nature Communications",
+        "body": "Using mobile phone data to reveal risk flow networks underlying the HIV epidemic in Namibia",
+        "date": "2021-05-14"
     }
 ]
