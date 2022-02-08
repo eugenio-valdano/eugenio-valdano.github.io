@@ -134,5 +134,13 @@
         "head": "New paper on Nature Communications",
         "body": "Using mobile phone data to reveal risk flow networks underlying the HIV epidemic in Namibia",
         "date": "2021-05-14"
+    },
+    {
+        "name": "netscix",
+        "type": "talk",
+        "href": "https://netscix.dcc.fc.up.pt/",
+        "head": "Lecture @ NetSciX, Porto",
+        "body": "Lecture on using networks to model infectious disease epidemics",
+        "date": "2022-02-08"
     }
 ]
