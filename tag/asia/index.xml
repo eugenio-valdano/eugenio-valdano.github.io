@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asia | Eugenio Valdano</title>
+    <link>https://www.eugeniovaldano.com/tag/asia/</link>
+      <atom:link href="https://www.eugeniovaldano.com/tag/asia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Asia</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.eugeniovaldano.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Asia</title>
+      <link>https://www.eugeniovaldano.com/tag/asia/</link>
+    </image>
+    
+    <item>
+      <title>Tracing and analysis of 288 early SARS-CoV-2 infections outside China: A modeling study</title>
+      <link>https://www.eugeniovaldano.com/publication/pintra20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/publication/pintra20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
