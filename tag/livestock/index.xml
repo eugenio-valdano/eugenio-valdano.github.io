@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Livestock | Eugenio Valdano</title>
+    <title>livestock | Eugenio Valdano</title>
     <link>https://www.eugeniovaldano.com/tag/livestock/</link>
       <atom:link href="https://www.eugeniovaldano.com/tag/livestock/index.xml" rel="self" type="application/rss+xml" />
-    <description>Livestock</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <description>livestock</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.eugeniovaldano.com/media/icon_hufb0b4096ecea1137b31d7caa1d47bd5d_20588_512x512_fill_lanczos_center_3.png</url>
-      <title>Livestock</title>
+      <title>livestock</title>
       <link>https://www.eugeniovaldano.com/tag/livestock/</link>
     </image>
+    
+    <item>
+      <title>Disease of livestock</title>
+      <link>https://www.eugeniovaldano.com/project/livestock/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/project/livestock/</guid>
+      <description>&lt;p&gt;In the past, I have worked on&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bovine Viral Diarrhea&lt;/li&gt;
+&lt;li&gt;Bovine brucellosis&lt;/li&gt;
+&lt;li&gt;Foot-and-mouth disease&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Predicting Epidemic Risk from Past Temporal Contact Data</title>

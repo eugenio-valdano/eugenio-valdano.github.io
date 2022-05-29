@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>public health application | Eugenio Valdano</title>
+    <link>https://www.eugeniovaldano.com/tag/public-health-application/</link>
+      <atom:link href="https://www.eugeniovaldano.com/tag/public-health-application/index.xml" rel="self" type="application/rss+xml" />
+    <description>public health application</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.eugeniovaldano.com/media/icon_hufb0b4096ecea1137b31d7caa1d47bd5d_20588_512x512_fill_lanczos_center_3.png</url>
+      <title>public health application</title>
+      <link>https://www.eugeniovaldano.com/tag/public-health-application/</link>
+    </image>
+    
+    <item>
+      <title>Arboviral diseases</title>
+      <link>https://www.eugeniovaldano.com/project/arboviruses/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/project/arboviruses/</guid>
+      <description>&lt;p&gt;Dengue, Chikungunya, and Zika are viral diseases transmitted by mosquitoes of the genus Aedes. Their etiological agents are collectively known as arboviruses – arthropod-borne viruses. Most cases of Zika, Dengue, and Chikungunya are either asymptomatic, or mild. They may, however, entail severe complications. Estimates put severe Dengue cases – presenting mostly as hemorrhagic fever - at 3.6 million worldwide each year. A vaccine exists, but it can increase the risk of severe manifestations in recipients with no prior Dengue infection, and that limits its use as control tool. Chikungunya can entail severe complications especially in people with comorbidities. Zika infection during pregnancy may cause birth defects, and growing evidence associates it to Guillain–Barré syndrome. No specific treatment or vaccine for either Chikungunya or Zika currently exists. Any geographic area with an established presence of the competent vectors – A. Aegypti and A. Albopictus – is at risk of outbreak of these diseases.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COVID-19</title>
+      <link>https://www.eugeniovaldano.com/project/covid-19/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/project/covid-19/</guid>
+      <description>&lt;p&gt;The COVID-19 pandemic needs no introduction. At its early stage (early 2020) I focused on estimating the risk of importing cases from areas where circulation was already ongoing. Then, I studied how to use human mobility data to explain country-level circulation, to assess the impact and performance of public health interventions (e.g., movement restrictions), across socioeconomic strata, highlighting their inequity.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Disease of livestock</title>
+      <link>https://www.eugeniovaldano.com/project/livestock/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/project/livestock/</guid>
+      <description>&lt;p&gt;In the past, I have worked on&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bovine Viral Diarrhea&lt;/li&gt;
+&lt;li&gt;Bovine brucellosis&lt;/li&gt;
+&lt;li&gt;Foot-and-mouth disease&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Disease X</title>
+      <link>https://www.eugeniovaldano.com/project/diseasex/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/project/diseasex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HIV</title>
+      <link>https://www.eugeniovaldano.com/project/hiv/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/project/hiv/</guid>
+      <description>&lt;p&gt;In the decades that followed the start of the epidemic, the progress in the treatment and prevention of the Human Immunodeficiency Virus (HIV) has been substantial. Still, the epidemic is not over. Too many new infections still occur, in specific populations that are at consistently higher risk of acquiring HIV. They are what UNAIDS call &lt;em&gt;key populations&lt;/em&gt; (e.g., sex workers, men-having-sex-with-men). Also, in many countries in sub-Saharan Africa, the epidemic is generalized in the population, with new cases being particularly high among young women.&lt;/p&gt;
+&lt;p&gt;Some of the questions I have been asking myself are&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;do mobility patterns drive the risk of HIV acquisition when the epidemic is generalized?&lt;/li&gt;
+&lt;li&gt;can we increase the performance of current strategies to distribute HIV prevention?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

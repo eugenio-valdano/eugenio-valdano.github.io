@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>methodological approach | Eugenio Valdano</title>
+    <link>https://www.eugeniovaldano.com/tag/methodological-approach/</link>
+      <atom:link href="https://www.eugeniovaldano.com/tag/methodological-approach/index.xml" rel="self" type="application/rss+xml" />
+    <description>methodological approach</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.eugeniovaldano.com/media/icon_hufb0b4096ecea1137b31d7caa1d47bd5d_20588_512x512_fill_lanczos_center_3.png</url>
+      <title>methodological approach</title>
+      <link>https://www.eugeniovaldano.com/tag/methodological-approach/</link>
+    </image>
+    
+    <item>
+      <title>Climate change and infectious disease epidemics</title>
+      <link>https://www.eugeniovaldano.com/project/climatechange/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/project/climatechange/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamical processes</title>
+      <link>https://www.eugeniovaldano.com/project/network/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/project/network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human behavior</title>
+      <link>https://www.eugeniovaldano.com/project/behavior/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/project/behavior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human mobility</title>
+      <link>https://www.eugeniovaldano.com/project/mobility/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/project/mobility/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
