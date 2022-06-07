@@ -39,6 +39,14 @@
     </item>
     
     <item>
+      <title>Contributed talk at BIFI International Conference</title>
+      <link>https://www.eugeniovaldano.com/talk/contributed-talk-at-bifi-international-conference/</link>
+      <pubDate>Tue, 07 Jun 2022 14:55:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/talk/contributed-talk-at-bifi-international-conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Non-selective distribution of infectious disease prevention may outperform risk-based targeting</title>
       <link>https://www.eugeniovaldano.com/publication/stenon22/</link>
       <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
@@ -192,6 +200,14 @@
     </item>
     
     <item>
+      <title>Ignoring spatial heterogeneity in drivers of SARS-CoV-2 transmission in the US will impede sustained elimination</title>
+      <link>https://www.eugeniovaldano.com/publication/susign21/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/publication/susign21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Effect of delayed awareness and fatigue on the efficacy of self-isolation in epidemic control</title>
       <link>https://www.eugeniovaldano.com/publication/demeieff21/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
@@ -272,6 +288,14 @@
     </item>
     
     <item>
+      <title>Randomized reference models for temporal networks</title>
+      <link>https://www.eugeniovaldano.com/publication/gauran20/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/publication/gauran20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Novel coronavirus (2019-nCoV) early-stage importation risk to Europe, January 2020</title>
       <link>https://www.eugeniovaldano.com/publication/pulnov20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -296,11 +320,21 @@
     </item>
     
     <item>
+      <title>Dynamics of new strain emergence on a temporal network</title>
+      <link>https://www.eugeniovaldano.com/publication/chadyn18/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/publication/chadyn18/</guid>
+      <description>&lt;p&gt;Report of the project completed in 72 hours during the workshop &lt;a href=&#34;https://complexity72h.weebly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complexity72h&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Evaluating the impact of PrEP on HIV and gonorrhea on a networked population of female sex workers</title>
       <link>https://www.eugeniovaldano.com/publication/bereva19/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://www.eugeniovaldano.com/publication/bereva19/</guid>
-      <description></description>
+      <description>&lt;p&gt;Report of the project completed in 72 hours during the workshop &lt;a href=&#34;https://complexity72h.weebly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complexity72h&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -364,10 +398,10 @@ $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
 &lt;p&gt;Make content appear incrementally&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
 &lt;span class=&#34;fragment &#34; &gt;
   One
 &lt;/span&gt;

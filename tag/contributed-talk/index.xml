@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>contributed talk | Eugenio Valdano</title>
+    <link>https://www.eugeniovaldano.com/tag/contributed-talk/</link>
+      <atom:link href="https://www.eugeniovaldano.com/tag/contributed-talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>contributed talk</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jun 2022 14:55:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.eugeniovaldano.com/media/icon_hufb0b4096ecea1137b31d7caa1d47bd5d_20588_512x512_fill_lanczos_center_3.png</url>
+      <title>contributed talk</title>
+      <link>https://www.eugeniovaldano.com/tag/contributed-talk/</link>
+    </image>
+    
+    <item>
+      <title>Contributed talk at BIFI International Conference</title>
+      <link>https://www.eugeniovaldano.com/talk/contributed-talk-at-bifi-international-conference/</link>
+      <pubDate>Tue, 07 Jun 2022 14:55:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/talk/contributed-talk-at-bifi-international-conference/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
