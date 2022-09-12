@@ -5,12 +5,20 @@
     <link>https://www.eugeniovaldano.com/tag/lecture/</link>
       <atom:link href="https://www.eugeniovaldano.com/tag/lecture/index.xml" rel="self" type="application/rss+xml" />
     <description>lecture</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Sep 2022 10:45:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Sep 2022 12:00:00 +0200</lastBuildDate>
     <image>
       <url>https://www.eugeniovaldano.com/media/icon_hufb0b4096ecea1137b31d7caa1d47bd5d_20588_512x512_fill_lanczos_center_3.png</url>
       <title>lecture</title>
       <link>https://www.eugeniovaldano.com/tag/lecture/</link>
     </image>
+    
+    <item>
+      <title>Talk at Pasteur Institute</title>
+      <link>https://www.eugeniovaldano.com/talk/talk-at-pasteur-institute/</link>
+      <pubDate>Wed, 14 Sep 2022 12:00:00 +0200</pubDate>
+      <guid>https://www.eugeniovaldano.com/talk/talk-at-pasteur-institute/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Lecture at IFISC Summer School</title>
