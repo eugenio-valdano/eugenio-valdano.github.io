@@ -5,12 +5,20 @@
     <link>https://www.eugeniovaldano.com/</link>
       <atom:link href="https://www.eugeniovaldano.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Eugenio Valdano</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Oct 2022 10:45:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.eugeniovaldano.com/media/icon_hufb0b4096ecea1137b31d7caa1d47bd5d_20588_512x512_fill_lanczos_center_3.png</url>
       <title>Eugenio Valdano</title>
       <link>https://www.eugeniovaldano.com/</link>
     </image>
+    
+    <item>
+      <title>Using mobile phone data to identify social-sexual communities: implications for controlling HIV epidemics</title>
+      <link>https://www.eugeniovaldano.com/publication/valusi22/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/publication/valusi22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Contributed talk at CCS</title>
@@ -35,6 +43,14 @@
       <guid>https://www.eugeniovaldano.com/talk/keynote-talk-at-complex-systems-for-the-most-vulnerable/</guid>
       <description>&lt;p&gt;I will be a keynote speaker at this satellite. I will address how data-rich mathematical modeling may help to unveil inequalities, and improve the welfare of those  who are most vulnerable to, and burdened by, infectious disease epidemics.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Epidemic graph diagrams as analytics for epidemic control in the data-rich era</title>
+      <link>https://www.eugeniovaldano.com/publication/valepi22/</link>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/publication/valepi22/</guid>
+      <description></description>
     </item>
     
     <item>
