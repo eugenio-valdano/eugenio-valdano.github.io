@@ -5,12 +5,20 @@
     <link>https://www.eugeniovaldano.com/tag/keynote/</link>
       <atom:link href="https://www.eugeniovaldano.com/tag/keynote/index.xml" rel="self" type="application/rss+xml" />
     <description>keynote</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Oct 2022 10:45:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Nov 2022 14:00:00 +0100</lastBuildDate>
     <image>
       <url>https://www.eugeniovaldano.com/media/icon_hufb0b4096ecea1137b31d7caa1d47bd5d_20588_512x512_fill_lanczos_center_3.png</url>
       <title>keynote</title>
       <link>https://www.eugeniovaldano.com/tag/keynote/</link>
     </image>
+    
+    <item>
+      <title>Seminar at Central European University</title>
+      <link>https://www.eugeniovaldano.com/talk/seminar-at-central-european-university/</link>
+      <pubDate>Thu, 17 Nov 2022 14:00:00 +0100</pubDate>
+      <guid>https://www.eugeniovaldano.com/talk/seminar-at-central-european-university/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Keynote talk at Complex Systems for the Most Vulnerable</title>
@@ -19,6 +27,14 @@
       <guid>https://www.eugeniovaldano.com/talk/keynote-talk-at-complex-systems-for-the-most-vulnerable/</guid>
       <description>&lt;p&gt;I will be a keynote speaker at this satellite. I will address how data-rich mathematical modeling may help to unveil inequalities, and improve the welfare of those  who are most vulnerable to, and burdened by, infectious disease epidemics.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Talk at Pasteur Institute</title>
+      <link>https://www.eugeniovaldano.com/talk/talk-at-pasteur-institute/</link>
+      <pubDate>Wed, 14 Sep 2022 12:00:00 +0200</pubDate>
+      <guid>https://www.eugeniovaldano.com/talk/talk-at-pasteur-institute/</guid>
+      <description></description>
     </item>
     
   </channel>
