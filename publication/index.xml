@@ -5,7 +5,7 @@
     <link>https://www.eugeniovaldano.com/publication/</link>
       <atom:link href="https://www.eugeniovaldano.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.eugeniovaldano.com/media/icon_hufb0b4096ecea1137b31d7caa1d47bd5d_20588_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Randomized Reference Models for Temporal Networks</title>
-      <link>https://www.eugeniovaldano.com/publication/gauran22/</link>
-      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/publication/gauran22/</guid>
+      <title>Use of mobile phone data in HIV epidemic control</title>
+      <link>https://www.eugeniovaldano.com/publication/valuse22/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/publication/valuse22/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Using mobile phone data to identify social-sexual communities: implications for controlling HIV epidemics</title>
-      <link>https://www.eugeniovaldano.com/publication/valusi22/</link>
-      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/publication/valusi22/</guid>
+      <title>Randomized Reference Models for Temporal Networks</title>
+      <link>https://www.eugeniovaldano.com/publication/gauran22/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/publication/gauran22/</guid>
       <description></description>
     </item>
     
