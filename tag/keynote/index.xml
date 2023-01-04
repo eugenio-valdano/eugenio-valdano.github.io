@@ -5,7 +5,7 @@
     <link>https://www.eugeniovaldano.com/tag/keynote/</link>
       <atom:link href="https://www.eugeniovaldano.com/tag/keynote/index.xml" rel="self" type="application/rss+xml" />
     <description>keynote</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Nov 2022 14:00:00 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 11:00:00 +0100</lastBuildDate>
     <image>
       <url>https://www.eugeniovaldano.com/media/icon_hufb0b4096ecea1137b31d7caa1d47bd5d_20588_512x512_fill_lanczos_center_3.png</url>
       <title>keynote</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>New Analytics for Epidemic Control in the Data-Rich Era</title>
-      <link>https://www.eugeniovaldano.com/talk/new-analytics-for-epidemic-control-in-the-data-rich-era/</link>
+      <title>Seminar at the ISI Foundation</title>
+      <link>https://www.eugeniovaldano.com/talk/seminar-at-the-isi-foundation/</link>
+      <pubDate>Mon, 09 Jan 2023 11:00:00 +0100</pubDate>
+      <guid>https://www.eugeniovaldano.com/talk/seminar-at-the-isi-foundation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seminar at the Central European University</title>
+      <link>https://www.eugeniovaldano.com/talk/seminar-at-the-central-european-university/</link>
       <pubDate>Thu, 17 Nov 2022 14:00:00 +0100</pubDate>
-      <guid>https://www.eugeniovaldano.com/talk/new-analytics-for-epidemic-control-in-the-data-rich-era/</guid>
+      <guid>https://www.eugeniovaldano.com/talk/seminar-at-the-central-european-university/</guid>
       <description></description>
     </item>
     

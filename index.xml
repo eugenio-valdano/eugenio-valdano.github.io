@@ -5,12 +5,39 @@
     <link>https://www.eugeniovaldano.com/</link>
       <atom:link href="https://www.eugeniovaldano.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Eugenio Valdano</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 11:00:00 +0100</lastBuildDate>
     <image>
       <url>https://www.eugeniovaldano.com/media/icon_hufb0b4096ecea1137b31d7caa1d47bd5d_20588_512x512_fill_lanczos_center_3.png</url>
       <title>Eugenio Valdano</title>
       <link>https://www.eugeniovaldano.com/</link>
     </image>
+    
+    <item>
+      <title>Seminar at the ISI Foundation</title>
+      <link>https://www.eugeniovaldano.com/talk/seminar-at-the-isi-foundation/</link>
+      <pubDate>Mon, 09 Jan 2023 11:00:00 +0100</pubDate>
+      <guid>https://www.eugeniovaldano.com/talk/seminar-at-the-isi-foundation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD opportunity - machine learning for public health</title>
+      <link>https://www.eugeniovaldano.com/post/soundai2023/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/post/soundai2023/</guid>
+      <description>&lt;p&gt;Are you interested in applying machine learning to public health? Check our this position, a collaboration between Sorbonne Université and Università di Bologna (Italy).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://soundai.sorbonne-universite.fr/dl/subjects/s/ff30ae/r/UUjfFIYDQSO6MIJTUPWMyA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;APPLY HERE&lt;/a&gt; until Jan 31, 2023.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine learning &amp; AI</title>
+      <link>https://www.eugeniovaldano.com/project/mlai/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/project/mlai/</guid>
+      <description>&lt;p&gt;COVID-19 fostered the generation and acquisition of data at high spatial and temporal resolution on disease surveillance and human behavior. ML and AI techniques will help us use these data to understand epidemic spread and respond to public health needs. In collaboration with &lt;a href=&#34;https://disi.unibo.it/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Università di Bologna&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Complexity72H is back!</title>
@@ -32,10 +59,10 @@
     </item>
     
     <item>
-      <title>New Analytics for Epidemic Control in the Data-Rich Era</title>
-      <link>https://www.eugeniovaldano.com/talk/new-analytics-for-epidemic-control-in-the-data-rich-era/</link>
+      <title>Seminar at the Central European University</title>
+      <link>https://www.eugeniovaldano.com/talk/seminar-at-the-central-european-university/</link>
       <pubDate>Thu, 17 Nov 2022 14:00:00 +0100</pubDate>
-      <guid>https://www.eugeniovaldano.com/talk/new-analytics-for-epidemic-control-in-the-data-rich-era/</guid>
+      <guid>https://www.eugeniovaldano.com/talk/seminar-at-the-central-european-university/</guid>
       <description></description>
     </item>
     
