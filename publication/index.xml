@@ -5,12 +5,20 @@
     <link>https://www.eugeniovaldano.com/publication/</link>
       <atom:link href="https://www.eugeniovaldano.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.eugeniovaldano.com/media/icon_hufb0b4096ecea1137b31d7caa1d47bd5d_20588_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://www.eugeniovaldano.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Attitudes towards booster, testing and isolation, and their impact on COVID-19 response in winter 2022/2023 in France, Belgium, and Italy</title>
+      <link>https://www.eugeniovaldano.com/publication/dematt23/</link>
+      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/publication/dematt23/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Use of mobile phone data in HIV epidemic control</title>
