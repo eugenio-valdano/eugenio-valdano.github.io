@@ -5,12 +5,20 @@
     <link>https://www.eugeniovaldano.com/</link>
       <atom:link href="https://www.eugeniovaldano.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Eugenio Valdano</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Jan 2023 11:00:00 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.eugeniovaldano.com/media/icon_hufb0b4096ecea1137b31d7caa1d47bd5d_20588_512x512_fill_lanczos_center_3.png</url>
       <title>Eugenio Valdano</title>
       <link>https://www.eugeniovaldano.com/</link>
     </image>
+    
+    <item>
+      <title>Attitudes towards booster, testing and isolation, and their impact on COVID-19 response in winter 2022/2023 in France, Belgium, and Italy: a cross-sectional survey and modelling study</title>
+      <link>https://www.eugeniovaldano.com/publication/dematt23/</link>
+      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/publication/dematt23/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Seminar at the ISI Foundation</title>
@@ -25,14 +33,6 @@
       <link>https://www.eugeniovaldano.com/publication/boethe23/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://www.eugeniovaldano.com/publication/boethe23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Attitudes towards booster, testing and isolation, and their impact on COVID-19 response in winter 2022/2023 in France, Belgium, and Italy</title>
-      <link>https://www.eugeniovaldano.com/publication/dematt23/</link>
-      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/publication/dematt23/</guid>
       <description></description>
     </item>
     
