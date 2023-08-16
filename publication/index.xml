@@ -5,12 +5,28 @@
     <link>https://www.eugeniovaldano.com/publication/</link>
       <atom:link href="https://www.eugeniovaldano.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.eugeniovaldano.com/media/icon_hufb0b4096ecea1137b31d7caa1d47bd5d_20588_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://www.eugeniovaldano.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Estimates of the reproduction ratio from epidemic surveillance may be biased in spatially structured populations</title>
+      <link>https://www.eugeniovaldano.com/publication/birest23/</link>
+      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/publication/birest23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disruption of outdoor activities caused by wildfire smoke shapes circulation of respiratory pathogens</title>
+      <link>https://www.eugeniovaldano.com/publication/arrdis23/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/publication/arrdis23/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Attitudes towards booster, testing and isolation, and their impact on COVID-19 response in winter 2022/2023 in France, Belgium, and Italy: a cross-sectional survey and modelling study</title>
