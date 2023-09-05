@@ -5,12 +5,20 @@
     <link>https://www.eugeniovaldano.com/publication/</link>
       <atom:link href="https://www.eugeniovaldano.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.eugeniovaldano.com/media/icon_hufb0b4096ecea1137b31d7caa1d47bd5d_20588_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://www.eugeniovaldano.com/publication/</link>
     </image>
+    
+    <item>
+      <title>The role of migration networks in the development of Botswana&#39;s generalized HIV epidemic</title>
+      <link>https://www.eugeniovaldano.com/publication/sonthe23/</link>
+      <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/publication/sonthe23/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Estimates of the reproduction ratio from epidemic surveillance may be biased in spatially structured populations</title>
