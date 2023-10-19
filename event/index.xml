@@ -1,87 +1,108 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Eugenio Valdano</title>
+    <title>News &amp; Events - recent and upcoming | EV / The modelers</title>
     <link>https://www.eugeniovaldano.com/event/</link>
       <atom:link href="https://www.eugeniovaldano.com/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
+    <description>News &amp; Events - recent and upcoming</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Apr 2023 14:00:00 +0100</lastBuildDate>
     <image>
-      <url>https://www.eugeniovaldano.com/media/icon_hufb0b4096ecea1137b31d7caa1d47bd5d_20588_512x512_fill_lanczos_center_3.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <url>https://www.eugeniovaldano.com/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <title>News &amp; Events - recent and upcoming</title>
       <link>https://www.eugeniovaldano.com/event/</link>
     </image>
     
     <item>
       <title>Seminar at the University of Lisbon</title>
-      <link>https://www.eugeniovaldano.com/talk/seminar-at-the-university-of-lisbon/</link>
+      <link>https://www.eugeniovaldano.com/event/2023lasige/</link>
       <pubDate>Wed, 19 Apr 2023 14:00:00 +0100</pubDate>
-      <guid>https://www.eugeniovaldano.com/talk/seminar-at-the-university-of-lisbon/</guid>
+      <guid>https://www.eugeniovaldano.com/event/2023lasige/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar at the ISI Foundation</title>
-      <link>https://www.eugeniovaldano.com/talk/seminar-at-the-isi-foundation/</link>
+      <link>https://www.eugeniovaldano.com/event/2023isi/</link>
       <pubDate>Mon, 09 Jan 2023 11:00:00 +0100</pubDate>
-      <guid>https://www.eugeniovaldano.com/talk/seminar-at-the-isi-foundation/</guid>
+      <guid>https://www.eugeniovaldano.com/event/2023isi/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>PhD opportunity - machine learning for public health</title>
+      <link>https://www.eugeniovaldano.com/event/soundai2023/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/event/soundai2023/</guid>
+      <description>&lt;p&gt;Are you interested in applying machine learning to public health? Check our this position, a collaboration between Sorbonne Université and Università di Bologna (Italy).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://soundai.sorbonne-universite.fr/dl/subjects/s/ff30ae/r/UUjfFIYDQSO6MIJTUPWMyA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;APPLY HERE&lt;/a&gt; until Jan 31, 2023.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Complexity72H is back!</title>
+      <link>https://www.eugeniovaldano.com/event/cr72023/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/event/cr72023/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.complexity72h.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complexity72H&lt;/a&gt; is back after COVID.&lt;/p&gt;
+&lt;p&gt;Complexity72h is an interdisciplinary workshop for young researchers in complex systems. Participants form teams and carry out projects in a three days&amp;rsquo; time, i.e. 72 hours. The goal of each team is to upload on the arXiv (or similar repositories) a report of their work by the end of the event. The editions of 2018 and 2019 were a success: 11 out of 11 projects have become arXiv preprints and new collaborations have been born. The 2020 edition was canceled due to the pandemic. But we are now back for a 2023 edition, which will take place in Palma (Mallorca, Spain) on June 26-30.&lt;/p&gt;
+&lt;p&gt;Check our the &lt;em&gt;call for tutors&lt;/em&gt; and the &lt;em&gt;call for applications&lt;/em&gt; on &lt;a href=&#34;https://www.complexity72h.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;our website&lt;/a&gt;!&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Seminar at the Central European University</title>
-      <link>https://www.eugeniovaldano.com/talk/seminar-at-the-central-european-university/</link>
+      <link>https://www.eugeniovaldano.com/event/2022ceu/</link>
       <pubDate>Thu, 17 Nov 2022 14:00:00 +0100</pubDate>
-      <guid>https://www.eugeniovaldano.com/talk/seminar-at-the-central-european-university/</guid>
+      <guid>https://www.eugeniovaldano.com/event/2022ceu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contributed talk at CCS</title>
-      <link>https://www.eugeniovaldano.com/talk/contributed-talk-at-ccs/</link>
+      <link>https://www.eugeniovaldano.com/event/2022ccs1/</link>
       <pubDate>Mon, 17 Oct 2022 10:45:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/talk/contributed-talk-at-ccs/</guid>
+      <guid>https://www.eugeniovaldano.com/event/2022ccs1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contributed talk at CCS</title>
-      <link>https://www.eugeniovaldano.com/talk/contributed-talk-at-ccs/</link>
+      <link>https://www.eugeniovaldano.com/event/2022ccs2/</link>
       <pubDate>Mon, 17 Oct 2022 10:45:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/talk/contributed-talk-at-ccs/</guid>
+      <guid>https://www.eugeniovaldano.com/event/2022ccs2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Keynote talk at Complex Systems for the Most Vulnerable</title>
-      <link>https://www.eugeniovaldano.com/talk/keynote-talk-at-complex-systems-for-the-most-vulnerable/</link>
+      <link>https://www.eugeniovaldano.com/event/2022cs4v/</link>
       <pubDate>Mon, 17 Oct 2022 10:45:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/talk/keynote-talk-at-complex-systems-for-the-most-vulnerable/</guid>
+      <guid>https://www.eugeniovaldano.com/event/2022cs4v/</guid>
       <description>&lt;p&gt;I will be a keynote speaker at this satellite. I will address how data-rich mathematical modeling may help to unveil inequalities, and improve the welfare of those  who are most vulnerable to, and burdened by, infectious disease epidemics.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Talk at Pasteur Institute</title>
-      <link>https://www.eugeniovaldano.com/talk/talk-at-pasteur-institute/</link>
+      <link>https://www.eugeniovaldano.com/event/2022sammba/</link>
       <pubDate>Wed, 14 Sep 2022 12:00:00 +0200</pubDate>
-      <guid>https://www.eugeniovaldano.com/talk/talk-at-pasteur-institute/</guid>
+      <guid>https://www.eugeniovaldano.com/event/2022sammba/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lecture at IFISC Summer School</title>
-      <link>https://www.eugeniovaldano.com/talk/lecture-at-ifisc-summer-school/</link>
+      <link>https://www.eugeniovaldano.com/event/2022palma/</link>
       <pubDate>Mon, 05 Sep 2022 10:45:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/talk/lecture-at-ifisc-summer-school/</guid>
+      <guid>https://www.eugeniovaldano.com/event/2022palma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EpiMob Satellite @ NetSci2022</title>
-      <link>https://www.eugeniovaldano.com/talk/epimob-satellite-netsci2022/</link>
+      <link>https://www.eugeniovaldano.com/event/2022epimob/</link>
       <pubDate>Mon, 11 Jul 2022 12:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/talk/epimob-satellite-netsci2022/</guid>
+      <guid>https://www.eugeniovaldano.com/event/2022epimob/</guid>
       <description>&lt;p&gt;I am organizing this satellite meeting together with &lt;a href=&#34;https://mattiamazzoli.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mattia Mazzoli&lt;/a&gt; and &lt;a href=&#34;https://www.epicx-lab.com/giulia-pullano.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Giulia Pullano&lt;/a&gt;. Our keynote speakers will be&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Prof. &lt;a href=&#34;https://sbansal.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shweta Bansal&lt;/a&gt;&lt;/li&gt;
@@ -97,25 +118,43 @@
     
     <item>
       <title>Contributed talk at BIFI International Conference</title>
-      <link>https://www.eugeniovaldano.com/talk/contributed-talk-at-bifi-international-conference/</link>
+      <link>https://www.eugeniovaldano.com/event/2022bifi/</link>
       <pubDate>Tue, 07 Jun 2022 14:55:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/talk/contributed-talk-at-bifi-international-conference/</guid>
+      <guid>https://www.eugeniovaldano.com/event/2022bifi/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>EpiMob2022 satellite at NetSci on Jul 11, 2022</title>
+      <link>https://www.eugeniovaldano.com/event/epimob2022/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/event/epimob2022/</guid>
+      <description>&lt;p&gt;I am organizing this satellite meeting together with &lt;a href=&#34;https://mattiamazzoli.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mattia Mazzoli&lt;/a&gt; and &lt;a href=&#34;https://www.epicx-lab.com/giulia-pullano.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Giulia Pullano&lt;/a&gt;. Our keynote speakers will be&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prof. &lt;a href=&#34;https://sbansal.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shweta Bansal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Prof. &lt;a href=&#34;https://rocs.hu-berlin.de/author/prof.-dr.-dirk-brockmann/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dirk Brockmann&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Prof. &lt;a href=&#34;https://www.southampton.ac.uk/geography/about/staff/ajt1m11.page&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrew J Tatem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We will also have six contributed talks. We&amp;rsquo;re bound for a great half day! The program will be soon available on the &lt;a href=&#34;https://epimob.weebly.com/call-for-abstracts.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;event website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Human mobility is a driver of epidemics. Long-range movements drive patterns of pathogen importation and exportation. Short-range mobility fuels local epidemics, by tuning population mixing and transmission rates. This is why the study of patterns of human mobility can tell us why and how epidemics break out and circulate, and inform us on effective prevention and control policies. The current COVID-19 pandemic is proof of this potential.&lt;/p&gt;
+&lt;p&gt;In the last decades, mobility data coming mostly from mobile devices (phones, smartphones) have informed epidemiological studies: e.g., malaria, cholera, Ebola. But, during this pandemic, we witnessed a data-sharing revolution in which network operators such as Orange, Vodafone, Telefonica, and companies like Google, Apple, Facebook, Cuebiq, SafeGraph, Unacast, started providing their aggregated mobility data extracted from mobile phone traces in real-time. This new resource is, however, also a challenge. Epidemiological research is in the process of developing new tools, and models, to integrate these data and use them both for retrospective analysis of epidemic dynamics, and for active surveillance and epidemic monitoring, at higher spatial resolution than ever before.&lt;/p&gt;
+&lt;p&gt;​The satellite aims at gathering researchers working on the use of mobility data for the study of, and response to, infectious disease epidemics. We welcome both methodological studies, aiming at integrating data and epidemic models, and applied projects, showing the potential of mobility data for public health action and epidemic response.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Lecture at Qlife</title>
-      <link>https://www.eugeniovaldano.com/talk/lecture-at-qlife/</link>
+      <link>https://www.eugeniovaldano.com/event/2022qlife/</link>
       <pubDate>Fri, 25 Mar 2022 10:45:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/talk/lecture-at-qlife/</guid>
+      <guid>https://www.eugeniovaldano.com/event/2022qlife/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lecture at NetSciX</title>
-      <link>https://www.eugeniovaldano.com/talk/lecture-at-netscix/</link>
+      <link>https://www.eugeniovaldano.com/event/2022netscix/</link>
       <pubDate>Tue, 08 Feb 2022 09:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/talk/lecture-at-netscix/</guid>
+      <guid>https://www.eugeniovaldano.com/event/2022netscix/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katie Sharp | EV / The modelers</title>
+    <link>https://www.eugeniovaldano.com/author/katie-sharp/</link>
+      <atom:link href="https://www.eugeniovaldano.com/author/katie-sharp/index.xml" rel="self" type="application/rss+xml" />
+    <description>Katie Sharp</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.eugeniovaldano.com/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <title>Katie Sharp</title>
+      <link>https://www.eugeniovaldano.com/author/katie-sharp/</link>
+    </image>
+    
+    <item>
+      <title>HIV transmission and source–sink dynamics in sub-Saharan Africa</title>
+      <link>https://www.eugeniovaldano.com/publication/okahiv20/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/publication/okahiv20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>contributed talk | Eugenio Valdano</title>
+    <title>contributed talk | EV / The modelers</title>
     <link>https://www.eugeniovaldano.com/tag/contributed-talk/</link>
       <atom:link href="https://www.eugeniovaldano.com/tag/contributed-talk/index.xml" rel="self" type="application/rss+xml" />
     <description>contributed talk</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Oct 2022 10:45:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.eugeniovaldano.com/media/icon_hufb0b4096ecea1137b31d7caa1d47bd5d_20588_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.eugeniovaldano.com/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>contributed talk</title>
       <link>https://www.eugeniovaldano.com/tag/contributed-talk/</link>
     </image>
     
     <item>
       <title>Contributed talk at CCS</title>
-      <link>https://www.eugeniovaldano.com/talk/contributed-talk-at-ccs/</link>
+      <link>https://www.eugeniovaldano.com/event/2022ccs1/</link>
       <pubDate>Mon, 17 Oct 2022 10:45:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/talk/contributed-talk-at-ccs/</guid>
+      <guid>https://www.eugeniovaldano.com/event/2022ccs1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contributed talk at CCS</title>
-      <link>https://www.eugeniovaldano.com/talk/contributed-talk-at-ccs/</link>
+      <link>https://www.eugeniovaldano.com/event/2022ccs2/</link>
       <pubDate>Mon, 17 Oct 2022 10:45:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/talk/contributed-talk-at-ccs/</guid>
+      <guid>https://www.eugeniovaldano.com/event/2022ccs2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contributed talk at BIFI International Conference</title>
-      <link>https://www.eugeniovaldano.com/talk/contributed-talk-at-bifi-international-conference/</link>
+      <link>https://www.eugeniovaldano.com/event/2022bifi/</link>
       <pubDate>Tue, 07 Jun 2022 14:55:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/talk/contributed-talk-at-bifi-international-conference/</guid>
+      <guid>https://www.eugeniovaldano.com/event/2022bifi/</guid>
       <description></description>
     </item>
     
