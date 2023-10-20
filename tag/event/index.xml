@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>event | EV / The modelers</title>
+    <link>https://www.eugeniovaldano.com/tag/event/</link>
+      <atom:link href="https://www.eugeniovaldano.com/tag/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>event</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.eugeniovaldano.com/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <title>event</title>
+      <link>https://www.eugeniovaldano.com/tag/event/</link>
+    </image>
+    
+    <item>
+      <title>EpiMob2023 satellite at NetSci 2023</title>
+      <link>https://www.eugeniovaldano.com/event/2023epimob/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/event/2023epimob/</guid>
+      <description>&lt;p&gt;We are organizing the second edition of this satellite meeting together with &lt;a href=&#34;https://mattiamazzoli.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mattia Mazzoli&lt;/a&gt; and &lt;a href=&#34;https://www.epicx-lab.com/giulia-pullano.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Giulia Pullano&lt;/a&gt; and &lt;a href=&#34;https://www.epicx-lab.com/chiara-sabbatini.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chiara Sabbatini&lt;/a&gt;. Our keynote speakers will be&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prof. &lt;a href=&#34;https://deim.urv.cat/~alexandre.arenas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alex Arenas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Prof. &lt;a href=&#34;https://www.research.ed.ac.uk/en/persons/rowland-kao&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rowland Kao&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dr. &lt;a href=&#34;https://aperofsky.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amanda Perofsky&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We will also have five contributed talks. We&amp;rsquo;re bound for a great half day! Check out the &lt;a href=&#34;https://epimob2023.weebly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;event website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Human mobility is a driver of epidemics. Long-range movements drive patterns of pathogen importation and exportation. Short-range mobility fuels local epidemics, by tuning population mixing and transmission rates. This is why the study of patterns of human mobility can tell us why and how epidemics break out and circulate, and inform us on effective prevention and control policies. The current COVID-19 pandemic is proof of this potential.&lt;/p&gt;
+&lt;p&gt;In the last decades, mobility data coming mostly from mobile devices (phones, smartphones) have informed epidemiological studies: e.g., malaria, cholera, Ebola. But, during this pandemic, we witnessed a data-sharing revolution in which network operators such as Orange, Vodafone, Telefonica, and companies like Google, Apple, Facebook, Cuebiq, SafeGraph, Unacast, started providing their aggregated mobility data extracted from mobile phone traces in real-time. This new resource is, however, also a challenge. Epidemiological research is in the process of developing new tools, and models, to integrate these data and use them both for retrospective analysis of epidemic dynamics, and for active surveillance and epidemic monitoring, at higher spatial resolution than ever before.&lt;/p&gt;
+&lt;p&gt;​The satellite aims at gathering researchers working on the use of mobility data for the study of, and response to, infectious disease epidemics. We welcome both methodological studies, aiming at integrating data and epidemic models, and applied projects, showing the potential of mobility data for public health action and epidemic response.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Complexity72H is back!</title>
+      <link>https://www.eugeniovaldano.com/event/cr72023/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/event/cr72023/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.complexity72h.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complexity72H&lt;/a&gt; is back after COVID.&lt;/p&gt;
+&lt;p&gt;Complexity72h is an interdisciplinary workshop for young researchers in complex systems. Participants form teams and carry out projects in a three days&amp;rsquo; time, i.e. 72 hours. The goal of each team is to upload on the arXiv (or similar repositories) a report of their work by the end of the event. The editions of 2018 and 2019 were a success: 11 out of 11 projects have become arXiv preprints and new collaborations have been born. The 2020 edition was canceled due to the pandemic. But we are now back for a 2023 edition, which will take place in Palma (Mallorca, Spain) on June 26-30.&lt;/p&gt;
+&lt;p&gt;Check our the &lt;em&gt;call for tutors&lt;/em&gt; and the &lt;em&gt;call for applications&lt;/em&gt; on &lt;a href=&#34;https://www.complexity72h.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;our website&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EpiMob2022 satellite at NetSci on Jul 11, 2022</title>
+      <link>https://www.eugeniovaldano.com/event/epimob2022/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/event/epimob2022/</guid>
+      <description>&lt;p&gt;I am organizing this satellite meeting together with &lt;a href=&#34;https://mattiamazzoli.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mattia Mazzoli&lt;/a&gt; and &lt;a href=&#34;https://www.epicx-lab.com/giulia-pullano.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Giulia Pullano&lt;/a&gt;. Our keynote speakers will be&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prof. &lt;a href=&#34;https://sbansal.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shweta Bansal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Prof. &lt;a href=&#34;https://rocs.hu-berlin.de/author/prof.-dr.-dirk-brockmann/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dirk Brockmann&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Prof. &lt;a href=&#34;https://www.southampton.ac.uk/geography/about/staff/ajt1m11.page&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrew J Tatem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We will also have six contributed talks. We&amp;rsquo;re bound for a great half day! The program will be soon available on the &lt;a href=&#34;https://epimob.weebly.com/call-for-abstracts.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;event website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Human mobility is a driver of epidemics. Long-range movements drive patterns of pathogen importation and exportation. Short-range mobility fuels local epidemics, by tuning population mixing and transmission rates. This is why the study of patterns of human mobility can tell us why and how epidemics break out and circulate, and inform us on effective prevention and control policies. The current COVID-19 pandemic is proof of this potential.&lt;/p&gt;
+&lt;p&gt;In the last decades, mobility data coming mostly from mobile devices (phones, smartphones) have informed epidemiological studies: e.g., malaria, cholera, Ebola. But, during this pandemic, we witnessed a data-sharing revolution in which network operators such as Orange, Vodafone, Telefonica, and companies like Google, Apple, Facebook, Cuebiq, SafeGraph, Unacast, started providing their aggregated mobility data extracted from mobile phone traces in real-time. This new resource is, however, also a challenge. Epidemiological research is in the process of developing new tools, and models, to integrate these data and use them both for retrospective analysis of epidemic dynamics, and for active surveillance and epidemic monitoring, at higher spatial resolution than ever before.&lt;/p&gt;
+&lt;p&gt;​The satellite aims at gathering researchers working on the use of mobility data for the study of, and response to, infectious disease epidemics. We welcome both methodological studies, aiming at integrating data and epidemic models, and applied projects, showing the potential of mobility data for public health action and epidemic response.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

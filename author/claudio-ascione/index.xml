@@ -5,7 +5,7 @@
     <link>https://www.eugeniovaldano.com/author/claudio-ascione/</link>
       <atom:link href="https://www.eugeniovaldano.com/author/claudio-ascione/index.xml" rel="self" type="application/rss+xml" />
     <description>Claudio Ascione</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Oct 2023 16:15:00 +0000</lastBuildDate>
     <image>
       <url>https://www.eugeniovaldano.com/author/claudio-ascione/avatar_hu435340d2ce985010731aec6e8a2d59cc_18859_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Claudio Ascione</title>
@@ -13,11 +13,28 @@
     </image>
     
     <item>
+      <title>Contributed talk at NetMob</title>
+      <link>https://www.eugeniovaldano.com/event/2023netmob/</link>
+      <pubDate>Thu, 05 Oct 2023 16:15:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/event/2023netmob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Disruption of outdoor activities caused by wildfire smoke shapes circulation of respiratory pathogens</title>
       <link>https://www.eugeniovaldano.com/publication/arrdis23/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://www.eugeniovaldano.com/publication/arrdis23/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Welcome Claudio!</title>
+      <link>https://www.eugeniovaldano.com/event/2022claudio/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/event/2022claudio/</guid>
+      <description>&lt;p&gt;Claudio starts his PhD in Epidemiology and public health at our group.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

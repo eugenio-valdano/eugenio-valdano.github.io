@@ -29,11 +29,37 @@
     </item>
     
     <item>
+      <title>Lightning talk at NetSci</title>
+      <link>https://www.eugeniovaldano.com/event/2023netsci/</link>
+      <pubDate>Thu, 13 Jul 2023 11:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/event/2023netsci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Disruption of outdoor activities caused by wildfire smoke shapes circulation of respiratory pathogens</title>
       <link>https://www.eugeniovaldano.com/publication/arrdis23/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://www.eugeniovaldano.com/publication/arrdis23/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>EpiMob2023 satellite at NetSci 2023</title>
+      <link>https://www.eugeniovaldano.com/event/2023epimob/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/event/2023epimob/</guid>
+      <description>&lt;p&gt;We are organizing the second edition of this satellite meeting together with &lt;a href=&#34;https://mattiamazzoli.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mattia Mazzoli&lt;/a&gt; and &lt;a href=&#34;https://www.epicx-lab.com/giulia-pullano.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Giulia Pullano&lt;/a&gt; and &lt;a href=&#34;https://www.epicx-lab.com/chiara-sabbatini.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chiara Sabbatini&lt;/a&gt;. Our keynote speakers will be&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prof. &lt;a href=&#34;https://deim.urv.cat/~alexandre.arenas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alex Arenas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Prof. &lt;a href=&#34;https://www.research.ed.ac.uk/en/persons/rowland-kao&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rowland Kao&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dr. &lt;a href=&#34;https://aperofsky.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Amanda Perofsky&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We will also have five contributed talks. We&amp;rsquo;re bound for a great half day! Check out the &lt;a href=&#34;https://epimob2023.weebly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;event website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Human mobility is a driver of epidemics. Long-range movements drive patterns of pathogen importation and exportation. Short-range mobility fuels local epidemics, by tuning population mixing and transmission rates. This is why the study of patterns of human mobility can tell us why and how epidemics break out and circulate, and inform us on effective prevention and control policies. The current COVID-19 pandemic is proof of this potential.&lt;/p&gt;
+&lt;p&gt;In the last decades, mobility data coming mostly from mobile devices (phones, smartphones) have informed epidemiological studies: e.g., malaria, cholera, Ebola. But, during this pandemic, we witnessed a data-sharing revolution in which network operators such as Orange, Vodafone, Telefonica, and companies like Google, Apple, Facebook, Cuebiq, SafeGraph, Unacast, started providing their aggregated mobility data extracted from mobile phone traces in real-time. This new resource is, however, also a challenge. Epidemiological research is in the process of developing new tools, and models, to integrate these data and use them both for retrospective analysis of epidemic dynamics, and for active surveillance and epidemic monitoring, at higher spatial resolution than ever before.&lt;/p&gt;
+&lt;p&gt;​The satellite aims at gathering researchers working on the use of mobility data for the study of, and response to, infectious disease epidemics. We welcome both methodological studies, aiming at integrating data and epidemic models, and applied projects, showing the potential of mobility data for public health action and epidemic response.&lt;/p&gt;
+</description>
     </item>
     
     <item>
