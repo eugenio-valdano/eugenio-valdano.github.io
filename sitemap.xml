@@ -2,6 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.eugeniovaldano.com/authors/</loc>
+    <lastmod>2023-11-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/author/boxuan-wang-%E7%8E%8B%E5%8D%9A%E7%8E%84/</loc>
+    <lastmod>2023-11-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/author/claudio-ascione/</loc>
+    <lastmod>2023-11-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/author/eugenio-valdano/</loc>
+    <lastmod>2023-11-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/tag/event/</loc>
+    <lastmod>2023-11-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/event/2023iplespretreat/</loc>
+    <lastmod>2023-11-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/event/</loc>
+    <lastmod>2023-11-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/tags/</loc>
+    <lastmod>2023-11-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/event/2023journeesac/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/tag/dissemination/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/tag/poster/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/tour/grant/</loc>
+    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/tour/grant/2023ecosante/</loc>
+    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/tour/grant/2023soundai/</loc>
+    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/tag/scholarship/</loc>
+    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/tour/</loc>
+    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://www.eugeniovaldano.com/</loc>
     <lastmod>2023-10-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -10,7 +74,7 @@
     <lastmod>2023-10-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/research/climatechange/</loc>
+    <loc>https://www.eugeniovaldano.com/tour/topic/climatechange/</loc>
     <lastmod>2023-10-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -18,7 +82,7 @@
     <lastmod>2023-10-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/research/hiv/</loc>
+    <loc>https://www.eugeniovaldano.com/tour/topic/hiv/</loc>
     <lastmod>2023-10-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -26,23 +90,15 @@
     <lastmod>2023-10-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/research/</loc>
+    <loc>https://www.eugeniovaldano.com/tour/topic/</loc>
     <lastmod>2023-10-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/tags/</loc>
+    <loc>https://www.eugeniovaldano.com/tour/topic/theory/</loc>
     <lastmod>2023-10-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/research/theory/</loc>
-    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/authors/</loc>
-    <lastmod>2023-10-05T16:15:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/author/claudio-ascione/</loc>
+    <loc>https://www.eugeniovaldano.com/tag/contributed-talk/</loc>
     <lastmod>2023-10-05T16:15:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -50,19 +106,7 @@
     <lastmod>2023-10-05T16:15:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/event/</loc>
-    <lastmod>2023-10-05T16:15:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/tag/talk/</loc>
-    <lastmod>2023-10-05T16:15:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.eugeniovaldano.com/tag/announcement/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/author/boxuan-wang-%E7%8E%8B%E5%8D%9A%E7%8E%84/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -70,11 +114,15 @@
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication-type/2/</loc>
-    <lastmod>2023-09-04T00:00:00+00:00</lastmod>
+    <loc>https://www.eugeniovaldano.com/author/federico-baldo/</loc>
+    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/author/eugenio-valdano/</loc>
+    <loc>https://www.eugeniovaldano.com/event/2023scalesworkshop/</loc>
+    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/publication-type/2/</loc>
     <lastmod>2023-09-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -162,12 +210,8 @@
     <lastmod>2022-05-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/tag/event/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/tag/keynote/</loc>
-    <lastmod>2023-04-19T14:00:00+01:00</lastmod>
+    <loc>https://www.eugeniovaldano.com/event/2023cr7after/</loc>
+    <lastmod>2023-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.eugeniovaldano.com/event/2023lasige/</loc>
@@ -230,16 +274,24 @@
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/categories/</loc>
+    <loc>https://www.eugeniovaldano.com/category/announcement/</loc>
     <lastmod>2023-01-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/category/event/</loc>
+    <loc>https://www.eugeniovaldano.com/categories/</loc>
     <lastmod>2023-01-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.eugeniovaldano.com/event/soundai2023/</loc>
     <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/tag/grant/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/tour/grant/2023pessoa/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.eugeniovaldano.com/event/cr72023/</loc>
@@ -294,10 +346,6 @@
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/tag/contributed-talk/</loc>
-    <lastmod>2022-10-17T10:45:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.eugeniovaldano.com/event/2022ccs1/</loc>
     <lastmod>2022-10-17T10:45:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -342,10 +390,6 @@
     <lastmod>2022-07-11T12:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/tag/meeting/</loc>
-    <lastmod>2022-07-11T12:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.eugeniovaldano.com/event/2022bifi/</loc>
     <lastmod>2022-06-07T14:55:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -386,7 +430,7 @@
     <lastmod>2022-05-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/research/emerging/</loc>
+    <loc>https://www.eugeniovaldano.com/tour/topic/emerging/</loc>
     <lastmod>2022-05-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -911,7 +955,7 @@
     <loc>https://www.eugeniovaldano.com/tag/doi10.1103/physrevlett.120.068302-urlhttps/doi/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/author/federico-baldo/</loc>
+    <loc>https://www.eugeniovaldano.com/tag/keynote-talk-/-seminar/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.eugeniovaldano.com/post/</loc>
@@ -921,6 +965,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.eugeniovaldano.com/author/paul-pineau/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/tour/grant/2024siesta/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.eugeniovaldano.com/author/suprabhath-kalahasti/</loc>

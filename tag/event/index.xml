@@ -5,12 +5,43 @@
     <link>https://www.eugeniovaldano.com/tag/event/</link>
       <atom:link href="https://www.eugeniovaldano.com/tag/event/index.xml" rel="self" type="application/rss+xml" />
     <description>event</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.eugeniovaldano.com/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>event</title>
       <link>https://www.eugeniovaldano.com/tag/event/</link>
     </image>
+    
+    <item>
+      <title>IPLESP retreat</title>
+      <link>https://www.eugeniovaldano.com/event/2023iplespretreat/</link>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/event/2023iplespretreat/</guid>
+      <description>&lt;p&gt;We will be at a 2-day retreat of our institute: the Pierre Louis Institute of Epidemiology and Public Health.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Annual meeting of the French Consortium &#39;Infectious Disease Modeling&#39;</title>
+      <link>https://www.eugeniovaldano.com/event/2023journeesac/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/event/2023journeesac/</guid>
+      <description>&lt;p&gt;We will be attending the annual meeting of the Consortium &lt;em&gt;Infectious Disease Modeling&lt;/em&gt; - French: &lt;a href=&#34;https://anrs.fr/fr/recherche/groupes-animation-scientifique/ac-modelisation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Action Coordonnée Modélisation des maladies infectieuses (AC Modélisation)&lt;/em&gt;&lt;/a&gt; -, of which Eugenio is a member of the Scientific Committee. The &lt;em&gt;AC Modélisation&lt;/em&gt; is the network of French epidemic modelers under the umbrella of &lt;a href=&#34;https://anrs.fr/fr/recherche/groupes-animation-scientifique/ac-modelisation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ANRS-MIE&lt;/a&gt; (&lt;a href=&#34;https://www.inserm.fr/en/home/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INSERM&lt;/a&gt; agency for the research on HIV, TB, STI, viral hepatitis and emerging and re-emerging infectious diseases).&lt;/p&gt;
+&lt;p&gt;Claudio will also be presenting a poster.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The scales of epidemic modeling</title>
+      <link>https://www.eugeniovaldano.com/event/2023scalesworkshop/</link>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/event/2023scalesworkshop/</guid>
+      <description>&lt;p&gt;We are organizing this workshop which is a joint effort of the working groups Mesoscopic Scales of Epidemic Dynamics (coordinated by Eugenio) and Modeling of Within-Host Dynamics of the &lt;a href=&#34;https://anrs.fr/fr/recherche/groupes-animation-scientifique/ac-modelisation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Action Coordonnée Modélisation des maladies infectieuses&lt;/a&gt; of the &lt;a href=&#34;https://anrs.fr/fr/recherche/groupes-animation-scientifique/ac-modelisation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ANRS-MIE&lt;/a&gt; (&lt;a href=&#34;https://www.inserm.fr/en/home/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INSERM&lt;/a&gt; agency for the research on HIV, TB, STI, viral hepatitis and emerging and re-emerging infectious diseases).&lt;/p&gt;
+&lt;p&gt;Our speakers will be Laura Alessandretti, Federico Baldo, Luca Dall&amp;rsquo;Asta, Raluca Eftimie, Raphaël Forien, Simon Gubbins, Jérémie Guedj, Jose Ramasco.&lt;/p&gt;
+&lt;p&gt;Check out the full program program and register for free on the &lt;a href=&#34;https://thescalesofepimodeling.weebly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website of the event&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This workshop is funded by the AC Modélisation des maladies infectieuses of the ANRS-MIE.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>EpiMob2023 satellite at NetSci 2023</title>
@@ -31,6 +62,16 @@
     </item>
     
     <item>
+      <title>Complexity72H</title>
+      <link>https://www.eugeniovaldano.com/event/2023cr7after/</link>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/event/2023cr7after/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.complexity72h.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complexity72H&lt;/a&gt; is back after COVID.&lt;/p&gt;
+&lt;p&gt;Complexity72h is an interdisciplinary workshop for young researchers in complex systems. Participants form teams and carry out projects in a three days&amp;rsquo; time, i.e. 72 hours. The goal of each team is to upload on the arXiv (or similar repositories) a report of their work by the end of the event. The editions of 2018 and 2019 were a success: 11 out of 11 projects have become arXiv preprints and new collaborations have been born. The 2020 edition was canceled due to the pandemic. But we are now back for a 2023 edition in Palma (Mallorca, Spain) on June 26-30.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Complexity72H is back!</title>
       <link>https://www.eugeniovaldano.com/event/cr72023/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
@@ -38,6 +79,24 @@
       <description>&lt;p&gt;&lt;a href=&#34;https://www.complexity72h.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complexity72H&lt;/a&gt; is back after COVID.&lt;/p&gt;
 &lt;p&gt;Complexity72h is an interdisciplinary workshop for young researchers in complex systems. Participants form teams and carry out projects in a three days&amp;rsquo; time, i.e. 72 hours. The goal of each team is to upload on the arXiv (or similar repositories) a report of their work by the end of the event. The editions of 2018 and 2019 were a success: 11 out of 11 projects have become arXiv preprints and new collaborations have been born. The 2020 edition was canceled due to the pandemic. But we are now back for a 2023 edition, which will take place in Palma (Mallorca, Spain) on June 26-30.&lt;/p&gt;
 &lt;p&gt;Check our the &lt;em&gt;call for tutors&lt;/em&gt; and the &lt;em&gt;call for applications&lt;/em&gt; on &lt;a href=&#34;https://www.complexity72h.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;our website&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EpiMob Satellite @ NetSci2022</title>
+      <link>https://www.eugeniovaldano.com/event/2022epimob/</link>
+      <pubDate>Mon, 11 Jul 2022 12:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/event/2022epimob/</guid>
+      <description>&lt;p&gt;I am organizing this satellite meeting together with &lt;a href=&#34;https://mattiamazzoli.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mattia Mazzoli&lt;/a&gt; and &lt;a href=&#34;https://www.epicx-lab.com/giulia-pullano.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Giulia Pullano&lt;/a&gt;. Our keynote speakers will be&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prof. &lt;a href=&#34;https://sbansal.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shweta Bansal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Prof. &lt;a href=&#34;https://rocs.hu-berlin.de/author/prof.-dr.-dirk-brockmann/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dirk Brockmann&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Prof. &lt;a href=&#34;https://www.southampton.ac.uk/geography/about/staff/ajt1m11.page&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrew J Tatem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Human mobility is a driver of epidemics. Long-range movements drive patterns of pathogen importation and exportation. Short-range mobility fuels local epidemics, by tuning population mixing and transmission rates. This is why the study of patterns of human mobility can tell us why and how epidemics break out and circulate, and inform us on effective prevention and control policies. The current COVID-19 pandemic is proof of this potential.&lt;/p&gt;
+&lt;p&gt;In the last decades, mobility data coming mostly from mobile devices (phones, smartphones) have informed epidemiological studies: e.g., malaria, cholera, Ebola. But, during this pandemic, we witnessed a data-sharing revolution in which network operators such as Orange, Vodafone, Telefonica, and companies like Google, Apple, Facebook, Cuebiq, SafeGraph, Unacast, started providing their aggregated mobility data extracted from mobile phone traces in real-time. This new resource is, however, also a challenge. Epidemiological research is in the process of developing new tools, and models, to integrate these data and use them both for retrospective analysis of epidemic dynamics, and for active surveillance and epidemic monitoring, at higher spatial resolution than ever before.&lt;/p&gt;
+&lt;p&gt;​The satellite aims at gathering researchers working on the use of mobility data for the study of, and response to, infectious disease epidemics. We welcome both methodological studies, aiming at integrating data and epidemic models, and applied projects, showing the potential of mobility data for public health action and epidemic response.&lt;/p&gt;
+&lt;p&gt;To know more, and to sumbit your abstract, visit our &lt;a href=&#34;https://epimob.weebly.com/call-for-abstracts.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;event website&lt;/a&gt; - the deadline to sumbit is June 8, 2022!&lt;/p&gt;
 </description>
     </item>
     

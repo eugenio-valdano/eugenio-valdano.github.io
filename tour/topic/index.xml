@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research areas | EV / The modelers</title>
+    <link>https://www.eugeniovaldano.com/tour/topic/</link>
+      <atom:link href="https://www.eugeniovaldano.com/tour/topic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research areas</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.eugeniovaldano.com/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <title>Research areas</title>
+      <link>https://www.eugeniovaldano.com/tour/topic/</link>
+    </image>
+    
+    <item>
+      <title>Climate change and infectious disease epidemics</title>
+      <link>https://www.eugeniovaldano.com/tour/topic/climatechange/</link>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/tour/topic/climatechange/</guid>
+      <description>&lt;p&gt;In the last decades, the burden of infectious disease on human health has declined, but climate change is now undermining this progress. We may be in a new era of infectious diseases, when climate change increases the frequency and size of epidemics, and impairs public health containment efforts. Calls for action abound, and comprehensive threat assessments exist, some predating the COVID-19 pandemic. But to adapt to this warmer world, we should now turn calls for action into new public health policies that are based on quantitative understanding of the effect that climate change has on each specific disease, and epidemic.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HIV/AIDS</title>
+      <link>https://www.eugeniovaldano.com/tour/topic/hiv/</link>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/tour/topic/hiv/</guid>
+      <description>&lt;p&gt;In the decades that followed the start of the epidemic, the progress in the treatment and prevention of the Human Immunodeficiency Virus (HIV) has been substantial. Still, the epidemic is not over. Too many new infections still occur, in specific populations that are at consistently higher risk of acquiring HIV. They are what UNAIDS call &lt;em&gt;key populations&lt;/em&gt; (e.g., sex workers, men-having-sex-with-men). Also, in many countries in sub-Saharan Africa, the epidemic is generalized in the population, with new cases being particularly high among young women.&lt;/p&gt;
+&lt;p&gt;Here, we&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;study how mobility and migration patterns drive the risk of HIV acquisition where the epidemic is generalized,&lt;/li&gt;
+&lt;li&gt;evaluate strategies to offer HIV prevention and how they could be made more effective,&lt;/li&gt;
+&lt;li&gt;study the effect of the complex interplay between HIV prevention, HIV treatment and circulation of other sexually transmitted infections.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Theoretical and methodological research</title>
+      <link>https://www.eugeniovaldano.com/tour/topic/theory/</link>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/tour/topic/theory/</guid>
+      <description>&lt;p&gt;Developing new methodologies is a core mission of this group. This means coming up with new ways to integrate and analyze data from different sources and at different resolutions, and new mathematical models that can make sense of these data to predict epidemic risk and vulnerability, analyze scenarios and evaluate interventions.&lt;/p&gt;
+&lt;p&gt;Here, we use methodologies from&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;statistical physics and complex network theory,&lt;/li&gt;
+&lt;li&gt;Bayesian statistics,&lt;/li&gt;
+&lt;li&gt;Deep-learning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We integrate data on&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epidemic and vector surveillance,&lt;/li&gt;
+&lt;li&gt;human mobility, behavior and mixing,&lt;/li&gt;
+&lt;li&gt;demography and socioeconomics,&lt;/li&gt;
+&lt;li&gt;climate and weather.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Emerging and Re-emerging threats</title>
+      <link>https://www.eugeniovaldano.com/tour/topic/emerging/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/tour/topic/emerging/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
