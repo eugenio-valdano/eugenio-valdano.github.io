@@ -5,12 +5,21 @@
     <link>https://www.eugeniovaldano.com/tag/announcement/</link>
       <atom:link href="https://www.eugeniovaldano.com/tag/announcement/index.xml" rel="self" type="application/rss+xml" />
     <description>announcement</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.eugeniovaldano.com/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>announcement</title>
       <link>https://www.eugeniovaldano.com/tag/announcement/</link>
     </image>
+    
+    <item>
+      <title>Welcome Suprabhath!</title>
+      <link>https://www.eugeniovaldano.com/event/2023suprabhath/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/event/2023suprabhath/</guid>
+      <description>&lt;p&gt;Boxuan starts his PhD in Epidemiology and public health at our group.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Welcome Boxuan!</title>

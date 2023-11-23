@@ -2,8 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.eugeniovaldano.com/tag/announcement/</loc>
+    <lastmod>2023-11-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://www.eugeniovaldano.com/authors/</loc>
-    <lastmod>2023-11-07T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/event/</loc>
+    <lastmod>2023-11-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/author/suprabhath-kalahasti/</loc>
+    <lastmod>2023-11-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/tags/</loc>
+    <lastmod>2023-11-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/event/2023suprabhath/</loc>
+    <lastmod>2023-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.eugeniovaldano.com/author/boxuan-wang-%E7%8E%8B%E5%8D%9A%E7%8E%84/</loc>
@@ -23,14 +43,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.eugeniovaldano.com/event/2023iplespretreat/</loc>
-    <lastmod>2023-11-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/event/</loc>
-    <lastmod>2023-11-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/tags/</loc>
     <lastmod>2023-11-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -100,10 +112,6 @@
   </url><url>
     <loc>https://www.eugeniovaldano.com/event/2023netmob/</loc>
     <lastmod>2023-10-05T16:15:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/tag/announcement/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.eugeniovaldano.com/event/2023boxuan/</loc>
@@ -952,9 +960,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.eugeniovaldano.com/tour/grant/2024siesta/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/author/suprabhath-kalahasti/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
