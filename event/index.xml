@@ -5,12 +5,34 @@
     <link>https://www.eugeniovaldano.com/event/</link>
       <atom:link href="https://www.eugeniovaldano.com/event/index.xml" rel="self" type="application/rss+xml" />
     <description>News &amp; Events - recent and upcoming</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.eugeniovaldano.com/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>News &amp; Events - recent and upcoming</title>
       <link>https://www.eugeniovaldano.com/event/</link>
     </image>
+    
+    <item>
+      <title>Announcing the 5th edition of Complexity72H</title>
+      <link>https://www.eugeniovaldano.com/event/2024cr7/</link>
+      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/event/2024cr7/</guid>
+      <description>&lt;p&gt;We are announcing the 2024 edition of Complexity72H!&lt;/p&gt;
+&lt;p&gt;It will take place at the Carlos III University in &lt;strong&gt;Madrid, Spain&lt;/strong&gt;, from &lt;strong&gt;June 24 to June 28 2024&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Complexity72h is an interdisciplinary workshop for young researchers in complex systems. Participants form teams and carry out projects in a three days&amp;rsquo; time, i.e. 72 hours. The goal of each team is to complete and upload a report of their work by the end of the event.&lt;/p&gt;
+&lt;p&gt;Our &lt;a href=&#34;https://www.complexity72h.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; is now getting ready for the new edition: We will open the &lt;strong&gt;call for tutors&lt;/strong&gt; in the next weeks so stay tuned!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seminar by Amanda Perofsky, University of Washington</title>
+      <link>https://www.eugeniovaldano.com/event/2023perofsky/</link>
+      <pubDate>Thu, 23 Nov 2023 14:00:00 +0100</pubDate>
+      <guid>https://www.eugeniovaldano.com/event/2023perofsky/</guid>
+      <description>&lt;p&gt;Those who cannot attend in person may attend online using &lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmM1ZjBhNDItOGQzZi00MzEwLThjMGQtMmRlYThmMDQ5MTk3%40thread.v2/0?context=%7b%22Tid%22%3a%2299dde8fb-92f6-414d-bc5e-44ffa3e2419c%22%2c%22Oid%22%3a%22b6718fdd-ce42-4dc6-ad35-81f5acb19aa2%22%7d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this link&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Amanda Perofsky&amp;rsquo;s &lt;a href=&#34;https://aperofsky.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Welcome Suprabhath!</title>

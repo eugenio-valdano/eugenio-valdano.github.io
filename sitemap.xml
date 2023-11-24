@@ -3,22 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.eugeniovaldano.com/tag/announcement/</loc>
-    <lastmod>2023-11-20T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/event/2024cr7/</loc>
+    <lastmod>2023-11-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.eugeniovaldano.com/authors/</loc>
-    <lastmod>2023-11-20T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/author/eugenio-valdano/</loc>
+    <lastmod>2023-11-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/tag/event/</loc>
+    <lastmod>2023-11-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.eugeniovaldano.com/event/</loc>
-    <lastmod>2023-11-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/author/suprabhath-kalahasti/</loc>
-    <lastmod>2023-11-20T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.eugeniovaldano.com/tags/</loc>
+    <lastmod>2023-11-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/tag/guest-talk/</loc>
+    <lastmod>2023-11-23T14:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/event/2023perofsky/</loc>
+    <lastmod>2023-11-23T14:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/author/suprabhath-kalahasti/</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -31,14 +51,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.eugeniovaldano.com/author/claudio-ascione/</loc>
-    <lastmod>2023-11-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/author/eugenio-valdano/</loc>
-    <lastmod>2023-11-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/tag/event/</loc>
     <lastmod>2023-11-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -162,7 +174,7 @@
     <lastmod>2023-09-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/sonthe23/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/23sonthe/</loc>
     <lastmod>2023-09-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -170,7 +182,7 @@
     <lastmod>2023-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/birest23/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/23birest/</loc>
     <lastmod>2023-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -202,7 +214,7 @@
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/arrdis23/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/23arrdis/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -222,7 +234,7 @@
     <lastmod>2023-04-19T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/dematt23/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/23dematt/</loc>
     <lastmod>2023-03-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -274,7 +286,7 @@
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/boethe23/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/23boethe/</loc>
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -310,7 +322,7 @@
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/valuse22/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/22valuse/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -338,7 +350,7 @@
     <lastmod>2022-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/gauran22/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/22gauran/</loc>
     <lastmod>2022-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -370,7 +382,7 @@
     <lastmod>2022-10-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/valepi22/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/23valepi/</loc>
     <lastmod>2022-10-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -422,7 +434,7 @@
     <lastmod>2022-05-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/stenon22/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/22stenon/</loc>
     <lastmod>2022-05-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -442,7 +454,7 @@
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/okapre22/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/22okapre/</loc>
     <lastmod>2022-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -450,11 +462,11 @@
     <lastmod>2022-02-08T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/okapot21/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/21okapot/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/susign21/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/21susign/</loc>
     <lastmod>2021-10-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -474,7 +486,7 @@
     <lastmod>2021-10-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/demeieff21/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/21demeieff/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -482,7 +494,7 @@
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/mazpro21/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/21mazpro/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -490,11 +502,11 @@
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/valusi21/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/21valusi/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/valhig21/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/21valhig/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -502,7 +514,7 @@
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/valreo21/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/21valreo/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -550,11 +562,11 @@
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/pulund21/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/21pulund/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/puleva20/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/20puleva/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -606,7 +618,7 @@
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/pintra20/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/20pintra/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -618,7 +630,7 @@
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/okahiv20/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/20okahiv/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -642,7 +654,7 @@
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/gilpre20/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/20gilpre/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -654,11 +666,11 @@
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/pulnov20/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/20pulnov/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/valuni19/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/19valuni/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -666,7 +678,7 @@
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/valexa19/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/19valexa/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -674,7 +686,7 @@
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/chadyn18/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/18chadyn/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -686,7 +698,7 @@
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/bereva19/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/19bereva/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -734,7 +746,7 @@
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/iotfar19/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/19iotfar/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -766,7 +778,7 @@
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/valend19/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/19valend/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -814,7 +826,7 @@
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/dardis19/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/19dardis/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -850,7 +862,7 @@
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/darnetbas18/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/18darnetbas/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -862,7 +874,7 @@
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/valepi18/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/18valepi/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -878,7 +890,7 @@
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/vesimp16/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/16vesimp/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -890,11 +902,11 @@
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/valinf15/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/15valinf/</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/valana15/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/15valana/</loc>
     <lastmod>2015-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -922,7 +934,7 @@
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/valpre15/</loc>
+    <loc>https://www.eugeniovaldano.com/publication/15valpre/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
