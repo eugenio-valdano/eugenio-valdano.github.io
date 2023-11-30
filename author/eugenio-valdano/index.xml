@@ -5,12 +5,20 @@
     <link>https://www.eugeniovaldano.com/author/eugenio-valdano/</link>
       <atom:link href="https://www.eugeniovaldano.com/author/eugenio-valdano/index.xml" rel="self" type="application/rss+xml" />
     <description>Eugenio Valdano</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.eugeniovaldano.com/author/eugenio-valdano/avatar_hufc5ab62cbb37676da369e05749401c87_2054292_270x270_fill_lanczos_center_3.png</url>
       <title>Eugenio Valdano</title>
       <link>https://www.eugeniovaldano.com/author/eugenio-valdano/</link>
     </image>
+    
+    <item>
+      <title>The importance of increasing primary vaccinations against COVID-19 in Europe</title>
+      <link>https://www.eugeniovaldano.com/publication/24boethe/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/publication/24boethe/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Announcing the 5th edition of Complexity72H</title>
@@ -146,14 +154,6 @@
       <link>https://www.eugeniovaldano.com/event/2023isi/</link>
       <pubDate>Mon, 09 Jan 2023 11:00:00 +0100</pubDate>
       <guid>https://www.eugeniovaldano.com/event/2023isi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The importance of increasing primary vaccinations against COVID-19 in Europe</title>
-      <link>https://www.eugeniovaldano.com/publication/23boethe/</link>
-      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/publication/23boethe/</guid>
       <description></description>
     </item>
     
