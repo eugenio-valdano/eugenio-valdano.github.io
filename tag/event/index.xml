@@ -5,7 +5,7 @@
     <link>https://www.eugeniovaldano.com/tag/event/</link>
       <atom:link href="https://www.eugeniovaldano.com/tag/event/index.xml" rel="self" type="application/rss+xml" />
     <description>event</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.eugeniovaldano.com/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>event</title>
@@ -13,14 +13,29 @@
     </image>
     
     <item>
-      <title>Announcing the 5th edition of Complexity72H</title>
+      <title>Kickoff meeting of the European project SIESTA</title>
+      <link>https://www.eugeniovaldano.com/event/2024siestakick/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/event/2024siestakick/</guid>
+      <description>&lt;p&gt;We will be attending the kick-off meeting of the newly started European project SIESTA.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The 5th edition of Complexity72H</title>
       <link>https://www.eugeniovaldano.com/event/2024cr7/</link>
-      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://www.eugeniovaldano.com/event/2024cr7/</guid>
-      <description>&lt;p&gt;We are announcing the 2024 edition of Complexity72H!&lt;/p&gt;
+      <description>&lt;p&gt;Apply to the 2024 edition of Complexity72H!&lt;/p&gt;
 &lt;p&gt;It will take place at the Carlos III University in &lt;strong&gt;Madrid, Spain&lt;/strong&gt;, from &lt;strong&gt;June 24 to June 28 2024&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Complexity72h is an interdisciplinary workshop for young researchers in complex systems. Participants form teams and carry out projects in a three days&amp;rsquo; time, i.e. 72 hours. The goal of each team is to complete and upload a report of their work by the end of the event.&lt;/p&gt;
-&lt;p&gt;Our &lt;a href=&#34;https://www.complexity72h.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; is now getting ready for the new edition: We will open the &lt;strong&gt;call for tutors&lt;/strong&gt; in the next weeks so stay tuned!&lt;/p&gt;
+&lt;p&gt;Thanks to the support of our partners we are keeping very low participation fees so that everyone can apply! Also, we will grant partial and full fee waivers to a selected number of applicants.&lt;/p&gt;
+&lt;p&gt;Visit our &lt;a href=&#34;https://www.complexity72h.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt; for all the info! You will find&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;our &lt;a href=&#34;&#34;&gt;lecturers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;our &lt;a href=&#34;https://complexity72h.com/projects/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tutors&lt;/a&gt; and the &lt;a href=&#34;https://complexity72h.com/projects/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;projects&lt;/a&gt; they are proposing&lt;/li&gt;
+&lt;li&gt;the instructions on &lt;a href=&#34;https://complexity72h.com/call-for-participants/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;how to apply&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
