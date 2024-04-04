@@ -2,15 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.eugeniovaldano.com/publication-type/article-journal/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+    <loc>https://www.eugeniovaldano.com/authors/</loc>
+    <lastmod>2024-04-05T16:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/authors/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+    <loc>https://www.eugeniovaldano.com/tag/contributed-talk/</loc>
+    <lastmod>2024-04-05T16:30:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/tag/dissemination/</loc>
+    <lastmod>2024-04-05T16:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.eugeniovaldano.com/author/eugenio-valdano/</loc>
+    <lastmod>2024-04-05T16:30:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/event/</loc>
+    <lastmod>2024-04-05T16:30:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/tags/</loc>
+    <lastmod>2024-04-05T16:30:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/event/2024istparis/</loc>
+    <lastmod>2024-04-05T16:30:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/publication-type/article-journal/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -38,14 +58,6 @@
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/event/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/tags/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.eugeniovaldano.com/tag/event/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -56,14 +68,6 @@
   </url><url>
     <loc>https://www.eugeniovaldano.com/event/2024siestakick/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/tag/contributed-talk/</loc>
-    <lastmod>2024-01-23T14:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/tag/dissemination/</loc>
-    <lastmod>2024-01-23T14:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.eugeniovaldano.com/event/2024netscix/</loc>
@@ -268,6 +272,10 @@
   </url><url>
     <loc>https://www.eugeniovaldano.com/event/2023cr7after/</loc>
     <lastmod>2023-06-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/tag/keynote-talk-/-seminar/</loc>
+    <lastmod>2023-04-19T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.eugeniovaldano.com/event/2023lasige/</loc>
@@ -890,6 +898,10 @@
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://www.eugeniovaldano.com/tag/doi10.1103/physrevlett.120.068302-urlhttps/doi/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://www.eugeniovaldano.com/publication/18valepi/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -970,12 +982,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.eugeniovaldano.com/author/chiara-giaquinta/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/tag/doi10.1103/physrevlett.120.068302-urlhttps/doi/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/tag/keynote-talk-/-seminar/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.eugeniovaldano.com/post/</loc>
