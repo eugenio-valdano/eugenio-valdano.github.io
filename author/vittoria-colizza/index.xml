@@ -5,7 +5,7 @@
     <link>https://www.eugeniovaldano.com/author/vittoria-colizza/</link>
       <atom:link href="https://www.eugeniovaldano.com/author/vittoria-colizza/index.xml" rel="self" type="application/rss+xml" />
     <description>Vittoria Colizza</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.eugeniovaldano.com/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Vittoria Colizza</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Epidemic graph diagrams as analytics for epidemic control in the data-rich era</title>
-      <link>https://www.eugeniovaldano.com/publication/23valepi/</link>
-      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/publication/23valepi/</guid>
+      <title>Estimates of the reproduction ratio from epidemic surveillance may be biased in spatially structured populations</title>
+      <link>https://www.eugeniovaldano.com/publication/24birest/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/publication/24birest/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Estimates of the reproduction ratio from epidemic surveillance may be biased in spatially structured populations</title>
-      <link>https://www.eugeniovaldano.com/publication/24birest/</link>
-      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/publication/24birest/</guid>
+      <title>Epidemic graph diagrams as analytics for epidemic control in the data-rich era</title>
+      <link>https://www.eugeniovaldano.com/publication/23valepi/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/publication/23valepi/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,20 @@
     <link>https://www.eugeniovaldano.com/event/</link>
       <atom:link href="https://www.eugeniovaldano.com/event/index.xml" rel="self" type="application/rss+xml" />
     <description>News &amp; Events - recent and upcoming</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Apr 2024 16:30:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Apr 2024 14:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.eugeniovaldano.com/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>News &amp; Events - recent and upcoming</title>
       <link>https://www.eugeniovaldano.com/event/</link>
     </image>
+    
+    <item>
+      <title>best pizza in Paris</title>
+      <link>https://www.eugeniovaldano.com/event/2024peppepizza/</link>
+      <pubDate>Tue, 23 Apr 2024 14:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/event/2024peppepizza/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Talk at the workshop Modeling sexually transmitted infections</title>
@@ -23,11 +31,13 @@ of the &lt;a href=&#34;https://anrs.fr/en/&#34; target=&#34;_blank&#34; rel=&#34
     </item>
     
     <item>
-      <title>Come work with us: open postdoc position @ EV / The modelers</title>
+      <title>(position filled) Come work with us: open postdoc position @ EV / The modelers</title>
       <link>https://www.eugeniovaldano.com/event/2024jobpost/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://www.eugeniovaldano.com/event/2024jobpost/</guid>
-      <description>&lt;p&gt;Come work with EV / The modelers. We are opening a postdoc position at the lab funded by the European project SIESTA.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;This position has been filled. Do visit our website periodically for more openings.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;==========================&lt;/p&gt;
+&lt;p&gt;Come work with EV / The modelers. We are opening a postdoc position at the lab funded by the European project SIESTA.&lt;/p&gt;
 &lt;p&gt;We are looking for a motivated researcher wishing to work on data-driven modeling of epidemic spread.
 We seek expertise either in physics of complex systems / complex networks or in statistical inference, expecially with deep-learning.&lt;/p&gt;
 &lt;p&gt;You will work on developing new-generation mathematical models of epidemic spread coupling them to large-scale datasets at high spatial and temporal resolution, including human behavior.&lt;/p&gt;

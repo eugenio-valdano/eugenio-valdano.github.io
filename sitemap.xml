@@ -2,8 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.eugeniovaldano.com/publication-type/article-journal/</loc>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://www.eugeniovaldano.com/authors/</loc>
-    <lastmod>2024-04-05T16:30:00+00:00</lastmod>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/author/boxuan-wang-%E7%8E%8B%E5%8D%9A%E7%8E%84/</loc>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/publication/24birest/</loc>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/author/eugenio-valdano/</loc>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/tag/featured/</loc>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/author/michele-re-fiorentin/</loc>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/author/piero-birello/</loc>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/publication_types/</loc>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/publication/</loc>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/tags/</loc>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/author/vittoria-colizza/</loc>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/event/2024peppepizza/</loc>
+    <lastmod>2024-04-23T14:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/event/</loc>
+    <lastmod>2024-04-23T14:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/tag/random/</loc>
+    <lastmod>2024-04-23T14:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.eugeniovaldano.com/tag/contributed-talk/</loc>
@@ -14,35 +70,11 @@
     <lastmod>2024-04-05T16:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/author/eugenio-valdano/</loc>
-    <lastmod>2024-04-05T16:30:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/event/</loc>
-    <lastmod>2024-04-05T16:30:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/tags/</loc>
-    <lastmod>2024-04-05T16:30:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.eugeniovaldano.com/event/2024istparis/</loc>
     <lastmod>2024-04-05T16:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/publication-type/article-journal/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.eugeniovaldano.com/author/pierre-yves-boelle/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/publication_types/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -50,11 +82,11 @@
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/tag/announcement/</loc>
+    <loc>https://www.eugeniovaldano.com/event/2024jobpost/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/event/2024jobpost/</loc>
+    <loc>https://www.eugeniovaldano.com/tag/announcement/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -102,10 +134,6 @@
     <lastmod>2023-12-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/author/vittoria-colizza/</loc>
-    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.eugeniovaldano.com/tag/guest-talk/</loc>
     <lastmod>2023-11-23T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -116,10 +144,6 @@
   </url><url>
     <loc>https://www.eugeniovaldano.com/event/2023suprabhath/</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/author/boxuan-wang-%E7%8E%8B%E5%8D%9A%E7%8E%84/</loc>
-    <lastmod>2023-11-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.eugeniovaldano.com/author/claudio-ascione/</loc>
@@ -224,18 +248,6 @@
   </url><url>
     <loc>https://www.eugeniovaldano.com/publication/23sonthe/</loc>
     <lastmod>2023-09-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/publication/24birest/</loc>
-    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/author/michele-re-fiorentin/</loc>
-    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/author/piero-birello/</loc>
-    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.eugeniovaldano.com/event/2023netsci/</loc>
@@ -447,10 +459,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.eugeniovaldano.com/author/benjamin-steinegger/</loc>
-    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/tag/featured/</loc>
     <lastmod>2022-05-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -991,9 +999,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.eugeniovaldano.com/author/nayeon-kwon/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/author/paul-pineau/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.eugeniovaldano.com/tour/grant/2024siesta/</loc>

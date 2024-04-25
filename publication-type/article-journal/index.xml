@@ -5,12 +5,20 @@
     <link>https://www.eugeniovaldano.com/publication-type/article-journal/</link>
       <atom:link href="https://www.eugeniovaldano.com/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.eugeniovaldano.com/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Article-Journal</title>
       <link>https://www.eugeniovaldano.com/publication-type/article-journal/</link>
     </image>
+    
+    <item>
+      <title>Estimates of the reproduction ratio from epidemic surveillance may be biased in spatially structured populations</title>
+      <link>https://www.eugeniovaldano.com/publication/24birest/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/publication/24birest/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The importance of increasing primary vaccinations against COVID-19 in Europe</title>
@@ -33,14 +41,6 @@
       <link>https://www.eugeniovaldano.com/publication/23sonthe/</link>
       <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://www.eugeniovaldano.com/publication/23sonthe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Estimates of the reproduction ratio from epidemic surveillance may be biased in spatially structured populations</title>
-      <link>https://www.eugeniovaldano.com/publication/24birest/</link>
-      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/publication/24birest/</guid>
       <description></description>
     </item>
     
