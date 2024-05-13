@@ -5,12 +5,21 @@
     <link>https://www.eugeniovaldano.com/event/</link>
       <atom:link href="https://www.eugeniovaldano.com/event/index.xml" rel="self" type="application/rss+xml" />
     <description>News &amp; Events - recent and upcoming</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Apr 2024 14:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 May 2024 17:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.eugeniovaldano.com/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>News &amp; Events - recent and upcoming</title>
       <link>https://www.eugeniovaldano.com/event/</link>
     </image>
+    
+    <item>
+      <title>roundtable @ France Alumni Day - Quai d&#39;Orsay</title>
+      <link>https://www.eugeniovaldano.com/event/2024minetr/</link>
+      <pubDate>Wed, 15 May 2024 17:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/event/2024minetr/</guid>
+      <description>&lt;p&gt;Eugenio will speak at a roundtable at the Soirée &lt;em&gt;France Alumni Day&lt;/em&gt; at the Ministère de l&amp;rsquo;Europe et des Affairs Etrangers (Quai d&amp;rsquo;Orsay).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>best pizza in Paris</title>

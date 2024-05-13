@@ -5,7 +5,7 @@
     <link>https://www.eugeniovaldano.com/author/eugenio-valdano/</link>
       <atom:link href="https://www.eugeniovaldano.com/author/eugenio-valdano/index.xml" rel="self" type="application/rss+xml" />
     <description>Eugenio Valdano</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 May 2024 17:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.eugeniovaldano.com/author/eugenio-valdano/avatar_hufc5ab62cbb37676da369e05749401c87_2054292_270x270_fill_lanczos_center_3.png</url>
       <title>Eugenio Valdano</title>
@@ -13,17 +13,9 @@
     </image>
     
     <item>
-      <title>Estimates of the reproduction ratio from epidemic surveillance may be biased in spatially structured populations</title>
-      <link>https://www.eugeniovaldano.com/publication/24birest/</link>
-      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/publication/24birest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Eugenio Valdano</title>
       <link>https://www.eugeniovaldano.com/author/eugenio-valdano/</link>
-      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 May 2024 17:00:00 +0000</pubDate>
       <guid>https://www.eugeniovaldano.com/author/eugenio-valdano/</guid>
       <description>&lt;p&gt;Eugenio is a tenured researcher at the &lt;a href=&#34;https://www.inserm.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;French National Institute of Health and Medical Research (INSERM)&lt;/a&gt;. He is part of the &lt;a href=&#34;https://iplesp.fr/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pierre Louis Institute of Epidemiology and Public Health (IPLESP)&lt;/a&gt;, attached to &lt;a href=&#34;https://www.inserm.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INSERM&lt;/a&gt; and the Faculty of Health of &lt;a href=&#34;https://www.sorbonne-universite.fr/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sorbonne Université&lt;/a&gt;, in Paris, France.&lt;/p&gt;
 &lt;p&gt;Eugenio is an infectious disease epidemiologist with a background in theoretical physics. He develops data-rich mathematical models to study how infectious disease spread, in human and animal populations. Patterns of human mobility and mixing influence the likelihood of epidemic outbreaks, drive their evolution, and determine the condition for disease containment and elimination. Eugenio design theoretical models to combine data on human behavior and epidemiological data to understand epidemics, make scenarios, help guide public health interventions.&lt;/p&gt;
@@ -65,6 +57,23 @@
 &lt;a href=&#34;https://www.eugeniovaldano.com/uploads/demo_resume.pdf&#34; target=&#34;_blank&#34;&gt;resumé&lt;/a&gt;
 .--&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>roundtable @ France Alumni Day - Quai d&#39;Orsay</title>
+      <link>https://www.eugeniovaldano.com/event/2024minetr/</link>
+      <pubDate>Wed, 15 May 2024 17:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/event/2024minetr/</guid>
+      <description>&lt;p&gt;Eugenio will speak at a roundtable at the Soirée &lt;em&gt;France Alumni Day&lt;/em&gt; at the Ministère de l&amp;rsquo;Europe et des Affairs Etrangers (Quai d&amp;rsquo;Orsay).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estimates of the reproduction ratio from epidemic surveillance may be biased in spatially structured populations</title>
+      <link>https://www.eugeniovaldano.com/publication/24birest/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/publication/24birest/</guid>
+      <description></description>
     </item>
     
     <item>
