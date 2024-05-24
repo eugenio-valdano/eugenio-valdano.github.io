@@ -5,12 +5,22 @@
     <link>https://www.eugeniovaldano.com/event/</link>
       <atom:link href="https://www.eugeniovaldano.com/event/index.xml" rel="self" type="application/rss+xml" />
     <description>News &amp; Events - recent and upcoming</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 May 2024 17:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.eugeniovaldano.com/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>News &amp; Events - recent and upcoming</title>
       <link>https://www.eugeniovaldano.com/event/</link>
     </image>
+    
+    <item>
+      <title>epiNEXT satellite meeting of CCS2024</title>
+      <link>https://www.eugeniovaldano.com/event/2024epinext/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/event/2024epinext/</guid>
+      <description>&lt;p&gt;We are organizing epiNEXT: ​Next-gen Methods for Data-Rich Epidemic Models - a satellite meeting of the &lt;a href=&#34;https://ccs24.cssociety.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conference on Complex Systems CCS 2024&lt;/a&gt;. epiNEXT will explore methodological and theoretical advances in epidemic modeling. We emphasizes approaches enhancing the integration of various data sources. We will cover many approaches: complex systems, statistical physics, network analysis, statistical inference and machine and deep learning.&lt;/p&gt;
+&lt;p&gt;Check out our &lt;a href=&#34;https://epinext.weebly.com/invited-speakers.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;invited speakers&lt;/a&gt; and &lt;a href=&#34;https://epinext.weebly.com/call-for-abstracts.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;send your contribution&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>roundtable @ France Alumni Day - Quai d&#39;Orsay</title>
