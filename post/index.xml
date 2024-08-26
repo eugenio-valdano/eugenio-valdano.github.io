@@ -1,16 +1,84 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Latest News | EV / The modelers</title>
+    <title>Blog posts | EV / The modelers</title>
     <link>https://www.eugeniovaldano.com/post/</link>
       <atom:link href="https://www.eugeniovaldano.com/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Latest News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <description>Blog posts</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.eugeniovaldano.com/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
-      <title>Latest News</title>
+      <title>Blog posts</title>
       <link>https://www.eugeniovaldano.com/post/</link>
     </image>
+    
+    <item>
+      <title>Leveraging open mobility data from Meta to correct underestimations in disease spread.</title>
+      <link>https://www.eugeniovaldano.com/post/2024rt-meta/</link>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/post/2024rt-meta/</guid>
+      <description>&lt;p&gt;A collaboration between Meta (Data for Good) and EV / The Modelers.&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction:&lt;/h2&gt;
+&lt;p&gt;The COVID-19 pandemic showcased that the accuracy of epidemic monitoring at a global level can be improved through the inclusion of &lt;a href=&#34;https://about.fb.com/news/2020/04/data-for-good/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;non-traditional data sources&lt;/a&gt; and &lt;a href=&#34;https://dataforgood.facebook.com/dfg/tools/covid-19-forecasts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;artificial intelligence&lt;/a&gt;. This case study explores how colocation and open mobility data from Meta can ultimately enhance the estimation of the reproduction ratio, which informs public health decision makers about the average number of people who will become infected from contact with an originally infected person.
+&lt;a href=&#34;https://www.sorbonne-universite.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sorbonne Université&lt;/a&gt;, the &lt;a href=&#34;https://www.inserm.fr/en/home/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;French National Institute of Health and Medical Research (INSERM)&lt;/a&gt; and the &lt;a href=&#34;https://www.disat.polito.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Applied Science and Technology (DISAT)&lt;/a&gt; at &lt;a href=&#34;https://www.polito.it/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Politecnico di Torino&lt;/a&gt;, are leading academic institutions dedicated to advancing scientific research and technological innovation. A team of modelers working across these institutions have been developing data-rich mathematical models to study how infectious diseases spread in human and animal populations. This modeling team reached out to &lt;a href=&#34;https://dataforgood.facebook.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meta&amp;rsquo;s Data for Good&lt;/a&gt; team to access large-scale mobility data that could improve modeling for COVID-19 and other infectious diseases.&lt;/p&gt;
+&lt;h2 id=&#34;challenges&#34;&gt;Challenges:&lt;/h2&gt;
+&lt;p&gt;The research team’s work addresses the problem of estimating the reproduction ratio of an infectious disease epidemic, also known as reproductive number, or R. The reproduction ratio is the average number of secondary infections that each case generates, and is a commonly used indicator to monitor and forecast the evolution of an epidemic wave. Accurately estimating R is crucial to inform policies and guide public health interventions.
+The standard way to estimate the reproduction ratio is to infer it from data from epidemiological surveillance, such as hospitalizations, deaths, testing, or other proxies of infections. However, surveillance data may lead to biased estimates of the reproduction ratio in populations in cities and other geographically distinct communities that are connected through human mobility. Heterogeneities in the contact network shape the way epidemics spread, hiding the true dynamic structure of the epidemic process from population-level surveillance data. Crucially, this means that inferences on surveillance data may either overestimate or underestimate the reproduction ratio over long periods, misinforming authorities and possibly leading to inappropriate responses.&lt;/p&gt;
+&lt;h2 id=&#34;utilizing-meta-data-for-good&#34;&gt;Utilizing Meta Data for Good:&lt;/h2&gt;
+&lt;p&gt;To tackle this challenge, researchers from the Sorbonne University, INSERM and Polytechnic of Turin devised a methodology for inferring the reproduction ratio by combining surveillance data, census data, and colocation and mobility data from Meta&amp;rsquo;s Data for Good program. The team primarily used Meta &lt;a href=&#34;https://dataforgood.facebook.com/dfg/tools/colocation-maps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;colocation maps&lt;/a&gt;, which are calculated from mobile phone data and show the proportion of time that residents of different communities within the same country spend in proximity to one another. These datasets provide precise information on the heterogeneous contact patterns that shape the evolution of an infectious epidemic at subnational resolution. The team also used Meta’s open source &lt;a href=&#34;https://dataforgood.facebook.com/dfg/tools/movement-range-maps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Movement Range Maps&lt;/a&gt; for additional validation and corrections to their modeling.
+Meta colocation data, together with census data, allowed the team to reconstruct a reproduction operator that reveals the average number of secondary cases each infected individual produces, depending on the region of residence of both the infectious carrier and the newly infected person.
+After reconstructing the reproduction operator, the research team can evaluate the bias in estimates of the reproduction ratio obtained from population-level surveillance data.
+Leveraging Meta colocation data to measure close-proximity contact rates within and between communities, the new method can infer the reproduction ratio using only surveillance data with no need to parametrize complex mathematical models describing individual behavior.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-comparison-of-the-reference-and-measured-reproduction-ratios-from-fig-2-of-birello-et-al-2024-nat-phys---see-_additional-resources_-below&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;ciao&#34; srcset=&#34;
+               /post/2024rt-meta/fig2_hu20294657232e4bbccf52a0967cc663b9_338059_7d36f65083ec6f1ae20f5983551ba9a2.webp 400w,
+               /post/2024rt-meta/fig2_hu20294657232e4bbccf52a0967cc663b9_338059_4717c41d6bac35ff429b280d4e3159aa.webp 760w,
+               /post/2024rt-meta/fig2_hu20294657232e4bbccf52a0967cc663b9_338059_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://www.eugeniovaldano.com/post/2024rt-meta/fig2_hu20294657232e4bbccf52a0967cc663b9_338059_7d36f65083ec6f1ae20f5983551ba9a2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;717&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Comparison of the reference and measured reproduction ratios. From Fig. 2 of Birello et al, 2024 Nat Phys - see &lt;em&gt;Additional resources&lt;/em&gt; below
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;results-and-impact&#34;&gt;Results and Impact:&lt;/h2&gt;
+&lt;p&gt;The research team applied their new corrected reproduction ratio retrospectively to the COVID-19 epidemic in France, focusing on the months of January and February 2021. Crucially, this correction suggested that traditional surveillance estimates consistently under-estimated the reproduction ratio during that period, suggesting  a subsiding epidemic wave. This estimate was at odds with the actual events, which showcased a growing epidemic wave - ultimately known as the third French wave - and led to the national lockdown enforced on April 3, 2021. The corrected reproduction ratio, on the other hand, would have consistently signaled a growing epidemic wave throughout the first three months of the year.
+These findings are highly relevant to the debate over the public health response in France at the time. It is conceivable that the underestimation of the third wave&amp;rsquo;s severity by traditional surveillance could have contributed to delaying the enforcement of stricter movement restrictions, which eventually became inevitable in the spring of 2021.&lt;/p&gt;
+&lt;h2 id=&#34;future-plans&#34;&gt;Future Plans:&lt;/h2&gt;
+&lt;p&gt;The research team’s findings to correct for underestimates in the reproduction ratio could be applied to any epidemic where human mobility is a driver of infections. This includes diseases spread by mosquitoes like dengue that are currently burdening developing countries in the tropics and increasingly present in temperate areas. The team is working with Meta to use their new Activity Space Maps to adapt the methodology to other vector-borne diseases.
+The researchers from INSERM/Sorbonne U involved in this project also work with the &lt;a href=&#34;https://anrs.fr/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;national agency for the modeling of infectious disease outbreaks&lt;/a&gt;. This collaboration with the local government will allow them to apply this methodology to emergent and re-emergent epidemic outbreaks, both of COVID-19-like respiratory pathogens and mosquito-borne viruses.
+To share their work with the wider public health community, the research team has also open sourced their models in an &lt;a href=&#34;https://github.com/ev-modelers/rt-from-surveillance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;easy-to-use library&lt;/a&gt;, built upon existing widely-used frameworks, which is designed to enable correction to existing estimates using human mobility data and surveillance records. These models can be utilized by individuals with basic programming knowledge in Python and do not require field-specific expertise or advanced mathematical skills. The research team plans to develop these tools further to include other data from Meta and to cover additional pathogens for the benefit of disease modelers and public health officials worldwide.&lt;/p&gt;
+&lt;h2 id=&#34;contact-information&#34;&gt;Contact Information:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;INSERM, Sorbonne Université: &lt;a href=&#34;mailto:eugenio.valdano@inserm.fr&#34;&gt;eugenio.valdano@inserm.fr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Department of Applied Science and Technology (DISAT) at Politecnico di Torino: &lt;a href=&#34;mailto:michele.refiorentin@polito.it&#34;&gt;michele.refiorentin@polito.it&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;EURECAT, Centro Tecnológico de Cataluña: &lt;a href=&#34;mailto:piero.birello@gmail.com&#34;&gt;piero.birello@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Meta Data for Good: &lt;a href=&#34;mailto:dataforgood@meta.com&#34;&gt;dataforgood@meta.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;additional-resources&#34;&gt;Additional Resources:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Read the &lt;a href=&#34;https://www.nature.com/articles/s41567-024-02471-7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;full article in Nature Physics&lt;/a&gt; (free-access link: rdcu.be/dFJgn)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dataforgood.facebook.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meta Data for Good&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     
   </channel>
 </rss>
