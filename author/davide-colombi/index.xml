@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Davide Colombi | EV / The modelers</title>
+    <link>https://www.eugeniovaldano.com/author/davide-colombi/</link>
+      <atom:link href="https://www.eugeniovaldano.com/author/davide-colombi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Davide Colombi</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.eugeniovaldano.com/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <title>Davide Colombi</title>
+      <link>https://www.eugeniovaldano.com/author/davide-colombi/</link>
+    </image>
+    
+    <item>
+      <title>Epidemic graph diagrams as analytics for epidemic control in the data-rich era</title>
+      <link>https://www.eugeniovaldano.com/publication/23valepi/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/publication/23valepi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disease persistence on temporal contact networks accounting for heterogeneous infectious periods</title>
+      <link>https://www.eugeniovaldano.com/publication/19dardis/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/publication/19dardis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

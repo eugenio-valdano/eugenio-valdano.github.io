@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guest Talk | EV / The modelers</title>
+    <link>https://www.eugeniovaldano.com/tag/guest-talk/</link>
+      <atom:link href="https://www.eugeniovaldano.com/tag/guest-talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guest Talk</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Nov 2023 14:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://www.eugeniovaldano.com/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <title>Guest Talk</title>
+      <link>https://www.eugeniovaldano.com/tag/guest-talk/</link>
+    </image>
+    
+    <item>
+      <title>Seminar by Amanda Perofsky, University of Washington</title>
+      <link>https://www.eugeniovaldano.com/event/2023perofsky/</link>
+      <pubDate>Thu, 23 Nov 2023 14:00:00 +0100</pubDate>
+      <guid>https://www.eugeniovaldano.com/event/2023perofsky/</guid>
+      <description>&lt;p&gt;Those who cannot attend in person may attend online using &lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmM1ZjBhNDItOGQzZi00MzEwLThjMGQtMmRlYThmMDQ5MTk3%40thread.v2/0?context=%7b%22Tid%22%3a%2299dde8fb-92f6-414d-bc5e-44ffa3e2419c%22%2c%22Oid%22%3a%22b6718fdd-ce42-4dc6-ad35-81f5acb19aa2%22%7d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this link&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Amanda Perofsky&amp;rsquo;s &lt;a href=&#34;https://aperofsky.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
