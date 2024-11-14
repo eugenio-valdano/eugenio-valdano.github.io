@@ -5,7 +5,7 @@
     <link>https://www.eugeniovaldano.com/author/claudio-ascione/</link>
       <atom:link href="https://www.eugeniovaldano.com/author/claudio-ascione/index.xml" rel="self" type="application/rss+xml" />
     <description>Claudio Ascione</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.eugeniovaldano.com/author/claudio-ascione/avatar_hu435340d2ce985010731aec6e8a2d59cc_18859_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Claudio Ascione</title>
@@ -13,9 +13,19 @@
     </image>
     
     <item>
+      <title>Boxuan, Claudio &amp; Suprabhath presenting</title>
+      <link>https://www.eugeniovaldano.com/event/2024acmod/</link>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/event/2024acmod/</guid>
+      <description>&lt;p&gt;We are at the Scientific Days of the &lt;a href=&#34;https://anrs.fr/en/scientific-research/scientific-animation-groups/ca-modelling-of-infectious-diseases-ca-49/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coordinated Action &amp;ldquo;Modelling of Infectious Diseases&amp;rdquo;&lt;/a&gt; of &lt;a href=&#34;https://anrs.fr/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ANRS-MIE&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This year we are at &lt;a href=&#34;https://www.ehesp.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EHESP&lt;/a&gt; in Rennes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Claudio Ascione</title>
       <link>https://www.eugeniovaldano.com/author/claudio-ascione/</link>
-      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://www.eugeniovaldano.com/author/claudio-ascione/</guid>
       <description>&lt;p&gt;Claudio is a PhD student in Public Health at Sorbonne Université and the Pierre Louis Institute of Epidemiology and Public Health (IPLESP). Physicist by training, his main focus is now on infectious disease epidemiology. He studies the effect that certain climatic events have on the spatial diffusion of certain communicable diseases. Specifically, his main project revolves around quantifying how extreme weather events impact behavioural patterns of the human population and the circulation of pathogens.&lt;/p&gt;
 </description>

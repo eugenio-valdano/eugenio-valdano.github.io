@@ -2,11 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.eugeniovaldano.com/tag/announcement/</loc>
-    <lastmod>2024-10-21T00:00:00+00:00</lastmod>
+    <loc>https://www.eugeniovaldano.com/authors/</loc>
+    <lastmod>2024-11-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/authors/</loc>
+    <loc>https://www.eugeniovaldano.com/author/boxuan-wang-%E7%8E%8B%E5%8D%9A%E7%8E%84/</loc>
+    <lastmod>2024-11-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/event/2024acmod/</loc>
+    <lastmod>2024-11-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/author/claudio-ascione/</loc>
+    <lastmod>2024-11-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/tag/event/</loc>
+    <lastmod>2024-11-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/event/</loc>
+    <lastmod>2024-11-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/author/suprabhath-kalahasti/</loc>
+    <lastmod>2024-11-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/tags/</loc>
+    <lastmod>2024-11-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.eugeniovaldano.com/tag/announcement/</loc>
     <lastmod>2024-10-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -15,14 +43,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.eugeniovaldano.com/author/eugenio-valdano/</loc>
-    <lastmod>2024-10-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/event/</loc>
-    <lastmod>2024-10-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/tags/</loc>
     <lastmod>2024-10-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -130,23 +150,11 @@
     <lastmod>2024-09-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/author/claudio-ascione/</loc>
-    <lastmod>2024-09-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.eugeniovaldano.com/publication/24aschow/</loc>
     <lastmod>2024-09-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.eugeniovaldano.com/author/boxuan-wang-%E7%8E%8B%E5%8D%9A%E7%8E%84/</loc>
-    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.eugeniovaldano.com/event/2024epinext/</loc>
-    <lastmod>2024-09-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/tag/event/</loc>
     <lastmod>2024-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -279,10 +287,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.eugeniovaldano.com/event/2024influcast/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.eugeniovaldano.com/author/suprabhath-kalahasti/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
