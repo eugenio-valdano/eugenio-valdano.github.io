@@ -5,7 +5,7 @@
     <link>https://www.eugeniovaldano.com/event/</link>
       <atom:link href="https://www.eugeniovaldano.com/event/index.xml" rel="self" type="application/rss+xml" />
     <description>News &amp; Events - recent and upcoming</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.eugeniovaldano.com/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>News &amp; Events - recent and upcoming</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
-      <title>Boxuan, Claudio &amp; Suprabhath presenting</title>
+      <title>Eugenio presenting at ISI Foundation</title>
+      <link>https://www.eugeniovaldano.com/event/2024isiworkshop/</link>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.eugeniovaldano.com/event/2024isiworkshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boxuan, Claudio Eugenio &amp; Suprabhath presenting</title>
       <link>https://www.eugeniovaldano.com/event/2024acmod/</link>
-      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://www.eugeniovaldano.com/event/2024acmod/</guid>
       <description>&lt;p&gt;We are at the Scientific Days of the &lt;a href=&#34;https://anrs.fr/en/scientific-research/scientific-animation-groups/ca-modelling-of-infectious-diseases-ca-49/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coordinated Action &amp;ldquo;Modelling of Infectious Diseases&amp;rdquo;&lt;/a&gt; of &lt;a href=&#34;https://anrs.fr/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ANRS-MIE&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This year we are at &lt;a href=&#34;https://www.ehesp.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EHESP&lt;/a&gt; in Rennes.&lt;/p&gt;
