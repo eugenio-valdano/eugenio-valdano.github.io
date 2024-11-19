@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Announcement | EV / The modelers</title>
-    <link>https://www.eugeniovaldano.com/tag/announcement/</link>
-      <atom:link href="https://www.eugeniovaldano.com/tag/announcement/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.evmodelers.org/tag/announcement/</link>
+      <atom:link href="https://www.evmodelers.org/tag/announcement/index.xml" rel="self" type="application/rss+xml" />
     <description>Announcement</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.eugeniovaldano.com/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Announcement</title>
-      <link>https://www.eugeniovaldano.com/tag/announcement/</link>
+      <link>https://www.evmodelers.org/tag/announcement/</link>
     </image>
     
     <item>
       <title>Complexity72h 2025 - call for tutors</title>
-      <link>https://www.eugeniovaldano.com/event/2024c72htutor/</link>
+      <link>https://www.evmodelers.org/event/2024c72htutor/</link>
       <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/event/2024c72htutor/</guid>
+      <guid>https://www.evmodelers.org/event/2024c72htutor/</guid>
       <description>&lt;p&gt;The 2025 edition of Complexity72H will take place at the Carlos III University in Madrid, Spain, from June 23 to June 27 2025.&lt;/p&gt;
 &lt;p&gt;Complexity72h is an interdisciplinary workshop for young researchers in complex systems. Participants form teams and carry out projects in a three days’ time, i.e. 72 hours. The goal of each team is to complete and upload a report of their work by the end of the event.&lt;/p&gt;
 &lt;p&gt;Participants will work in teams, and each team will have a tutor. Tutors design the project, bring in the necessary data, and manage the team.&lt;/p&gt;
@@ -29,27 +29,27 @@
     
     <item>
       <title>Welcome Benjamin!</title>
-      <link>https://www.eugeniovaldano.com/event/2024benjamin/</link>
+      <link>https://www.evmodelers.org/event/2024benjamin/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/event/2024benjamin/</guid>
+      <guid>https://www.evmodelers.org/event/2024benjamin/</guid>
       <description>&lt;p&gt;Benjamin joins the group as a postdoctoral researcher funded by the European project SIESTA.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Moving into the new offices</title>
-      <link>https://www.eugeniovaldano.com/event/2024sumoc/</link>
+      <link>https://www.evmodelers.org/event/2024sumoc/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/event/2024sumoc/</guid>
+      <guid>https://www.evmodelers.org/event/2024sumoc/</guid>
       <description>&lt;p&gt;We are at the 5th floor of the Faculty of Health of Sorbonne University at the St. Antoine hospital. Our newly renovated offices are at the SUMOC center.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>(position filled) Come work with us: open postdoc position @ EV / The modelers</title>
-      <link>https://www.eugeniovaldano.com/event/2024jobpost/</link>
+      <link>https://www.evmodelers.org/event/2024jobpost/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/event/2024jobpost/</guid>
+      <guid>https://www.evmodelers.org/event/2024jobpost/</guid>
       <description>&lt;p&gt;&lt;strong&gt;This position has been filled. Do visit our website periodically for more openings.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;==========================&lt;/p&gt;
 &lt;p&gt;Come work with EV / The modelers. We are opening a postdoc position at the lab funded by the European project SIESTA.&lt;/p&gt;
@@ -70,9 +70,9 @@ We seek expertise either in physics of complex systems / complex networks or in 
     
     <item>
       <title>EV / The Modelers now on the Italian ILI Forecast platform Influcast</title>
-      <link>https://www.eugeniovaldano.com/event/2024influcast/</link>
+      <link>https://www.evmodelers.org/event/2024influcast/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/event/2024influcast/</guid>
+      <guid>https://www.evmodelers.org/event/2024influcast/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://influcast.org/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Influcast&lt;/a&gt; is platform to forecast the evolution of the incidence of influenza-like-illness in Italy by integrating prediction from multiple teams and models. It is coordinated by the &lt;a href=&#34;https://isi.it/en/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISI Foundation&lt;/a&gt;.
 EV / The Modelers now provides weekly estimates to Influcast.&lt;/p&gt;
 &lt;p&gt;Through our collaboration with Influcast, our goal is to push the methodological boundaries of mathematical models. Partnering up with our colleagues at the computer science dept. of the University of Bologna, Italy, we are developing a model that combines mechanistic mathematical modeling of epidemic dynamics with deep-learning based inference from data, using physics-informed neural networks.&lt;/p&gt;
@@ -82,9 +82,9 @@ EV / The Modelers now provides weekly estimates to Influcast.&lt;/p&gt;
     
     <item>
       <title>The 5th edition of Complexity72H</title>
-      <link>https://www.eugeniovaldano.com/event/2024cr7/</link>
+      <link>https://www.evmodelers.org/event/2024cr7/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/event/2024cr7/</guid>
+      <guid>https://www.evmodelers.org/event/2024cr7/</guid>
       <description>&lt;p&gt;Apply to the 2024 edition of Complexity72H!&lt;/p&gt;
 &lt;p&gt;It will take place at the Carlos III University in &lt;strong&gt;Madrid, Spain&lt;/strong&gt;, from &lt;strong&gt;June 24 to June 28 2024&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Complexity72h is an interdisciplinary workshop for young researchers in complex systems. Participants form teams and carry out projects in a three days&amp;rsquo; time, i.e. 72 hours. The goal of each team is to complete and upload a report of their work by the end of the event.&lt;/p&gt;
@@ -100,27 +100,27 @@ EV / The Modelers now provides weekly estimates to Influcast.&lt;/p&gt;
     
     <item>
       <title>Welcome Suprabhath!</title>
-      <link>https://www.eugeniovaldano.com/event/2023suprabhath/</link>
+      <link>https://www.evmodelers.org/event/2023suprabhath/</link>
       <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/event/2023suprabhath/</guid>
+      <guid>https://www.evmodelers.org/event/2023suprabhath/</guid>
       <description>&lt;p&gt;Suprabhath starts his PhD in Epidemiology and public health at our group.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Welcome Boxuan!</title>
-      <link>https://www.eugeniovaldano.com/event/2023boxuan/</link>
+      <link>https://www.evmodelers.org/event/2023boxuan/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/event/2023boxuan/</guid>
+      <guid>https://www.evmodelers.org/event/2023boxuan/</guid>
       <description>&lt;p&gt;Boxuan starts his PhD in Epidemiology and public health at our group.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PhD opportunity - machine learning for public health</title>
-      <link>https://www.eugeniovaldano.com/event/soundai2023/</link>
+      <link>https://www.evmodelers.org/event/soundai2023/</link>
       <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/event/soundai2023/</guid>
+      <guid>https://www.evmodelers.org/event/soundai2023/</guid>
       <description>&lt;p&gt;Are you interested in applying machine learning to public health? Check our this position, a collaboration between Sorbonne Université and Università di Bologna (Italy).&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://soundai.sorbonne-universite.fr/dl/subjects/s/ff30ae/r/UUjfFIYDQSO6MIJTUPWMyA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;APPLY HERE&lt;/a&gt; until Jan 31, 2023.&lt;/p&gt;
 </description>
@@ -128,9 +128,9 @@ EV / The Modelers now provides weekly estimates to Influcast.&lt;/p&gt;
     
     <item>
       <title>Complexity72H is back!</title>
-      <link>https://www.eugeniovaldano.com/event/cr72023/</link>
+      <link>https://www.evmodelers.org/event/cr72023/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/event/cr72023/</guid>
+      <guid>https://www.evmodelers.org/event/cr72023/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.complexity72h.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complexity72H&lt;/a&gt; is back after COVID.&lt;/p&gt;
 &lt;p&gt;Complexity72h is an interdisciplinary workshop for young researchers in complex systems. Participants form teams and carry out projects in a three days&amp;rsquo; time, i.e. 72 hours. The goal of each team is to upload on the arXiv (or similar repositories) a report of their work by the end of the event. The editions of 2018 and 2019 were a success: 11 out of 11 projects have become arXiv preprints and new collaborations have been born. The 2020 edition was canceled due to the pandemic. But we are now back for a 2023 edition, which will take place in Palma (Mallorca, Spain) on June 26-30.&lt;/p&gt;
 &lt;p&gt;Check our the &lt;em&gt;call for tutors&lt;/em&gt; and the &lt;em&gt;call for applications&lt;/em&gt; on &lt;a href=&#34;https://www.complexity72h.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;our website&lt;/a&gt;!&lt;/p&gt;
@@ -139,9 +139,9 @@ EV / The Modelers now provides weekly estimates to Influcast.&lt;/p&gt;
     
     <item>
       <title>Welcome Claudio!</title>
-      <link>https://www.eugeniovaldano.com/event/2022claudio/</link>
+      <link>https://www.evmodelers.org/event/2022claudio/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/event/2022claudio/</guid>
+      <guid>https://www.evmodelers.org/event/2022claudio/</guid>
       <description>&lt;p&gt;Claudio starts his PhD in Epidemiology and public health at our group.&lt;/p&gt;
 </description>
     </item>

@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Federico Baldo | EV / The modelers</title>
-    <link>https://www.eugeniovaldano.com/author/federico-baldo/</link>
-      <atom:link href="https://www.eugeniovaldano.com/author/federico-baldo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.evmodelers.org/author/federico-baldo/</link>
+      <atom:link href="https://www.evmodelers.org/author/federico-baldo/index.xml" rel="self" type="application/rss+xml" />
     <description>Federico Baldo</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.eugeniovaldano.com/author/federico-baldo/avatar_hu3005de3c49fbd5c8bfcb59f87f7d4ff8_83432_270x270_fill_q75_lanczos_center.jpeg</url>
+      <url>https://www.evmodelers.org/author/federico-baldo/avatar_hu3005de3c49fbd5c8bfcb59f87f7d4ff8_83432_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Federico Baldo</title>
-      <link>https://www.eugeniovaldano.com/author/federico-baldo/</link>
+      <link>https://www.evmodelers.org/author/federico-baldo/</link>
     </image>
     
     <item>
       <title>Collaborative forecasting of influenza-like illness in Italy: the Influcast experience</title>
-      <link>https://www.eugeniovaldano.com/publication/24fiacol/</link>
+      <link>https://www.evmodelers.org/publication/24fiacol/</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/publication/24fiacol/</guid>
+      <guid>https://www.evmodelers.org/publication/24fiacol/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Federico Baldo</title>
-      <link>https://www.eugeniovaldano.com/author/federico-baldo/</link>
+      <link>https://www.evmodelers.org/author/federico-baldo/</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/author/federico-baldo/</guid>
+      <guid>https://www.evmodelers.org/author/federico-baldo/</guid>
       <description>&lt;p&gt;Federico is currently a Ph.D. student at the department of computer science and engineering at the University of Bologna. His studies are focused on the application of hybrid methods integrating machine learning and optimization for the health care sector. He previously obtained his Master&amp;rsquo;s Degree in computer science at the University of Padova. He spent a 6-month visiting period with us and he is an ongoing collaborator.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>EV / The Modelers now on the Italian ILI Forecast platform Influcast</title>
-      <link>https://www.eugeniovaldano.com/event/2024influcast/</link>
+      <link>https://www.evmodelers.org/event/2024influcast/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/event/2024influcast/</guid>
+      <guid>https://www.evmodelers.org/event/2024influcast/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://influcast.org/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Influcast&lt;/a&gt; is platform to forecast the evolution of the incidence of influenza-like-illness in Italy by integrating prediction from multiple teams and models. It is coordinated by the &lt;a href=&#34;https://isi.it/en/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISI Foundation&lt;/a&gt;.
 EV / The Modelers now provides weekly estimates to Influcast.&lt;/p&gt;
 &lt;p&gt;Through our collaboration with Influcast, our goal is to push the methodological boundaries of mathematical models. Partnering up with our colleagues at the computer science dept. of the University of Bologna, Italy, we are developing a model that combines mechanistic mathematical modeling of epidemic dynamics with deep-learning based inference from data, using physics-informed neural networks.&lt;/p&gt;
@@ -43,9 +43,9 @@ EV / The Modelers now provides weekly estimates to Influcast.&lt;/p&gt;
     
     <item>
       <title>The scales of epidemic modeling</title>
-      <link>https://www.eugeniovaldano.com/event/2023scalesworkshop/</link>
+      <link>https://www.evmodelers.org/event/2023scalesworkshop/</link>
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/event/2023scalesworkshop/</guid>
+      <guid>https://www.evmodelers.org/event/2023scalesworkshop/</guid>
       <description>&lt;p&gt;We are organizing this workshop which is a joint effort of the working groups Mesoscopic Scales of Epidemic Dynamics (coordinated by Eugenio) and Modeling of Within-Host Dynamics of the &lt;a href=&#34;https://anrs.fr/fr/recherche/groupes-animation-scientifique/ac-modelisation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Action Coordonnée Modélisation des maladies infectieuses&lt;/a&gt; of the &lt;a href=&#34;https://anrs.fr/fr/recherche/groupes-animation-scientifique/ac-modelisation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ANRS-MIE&lt;/a&gt; (&lt;a href=&#34;https://www.inserm.fr/en/home/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INSERM&lt;/a&gt; agency for the research on HIV, TB, STI, viral hepatitis and emerging and re-emerging infectious diseases).&lt;/p&gt;
 &lt;p&gt;Our speakers will be Laura Alessandretti, Federico Baldo, Luca Dall&amp;rsquo;Asta, Raluca Eftimie, Raphaël Forien, Simon Gubbins, Jérémie Guedj, Jose Ramasco.&lt;/p&gt;
 &lt;p&gt;Check out the full program program and register for free on the &lt;a href=&#34;https://thescalesofepimodeling.weebly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website of the event&lt;/a&gt;.&lt;/p&gt;

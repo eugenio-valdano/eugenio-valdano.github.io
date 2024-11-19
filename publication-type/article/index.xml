@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Article | EV / The modelers</title>
-    <link>https://www.eugeniovaldano.com/publication-type/article/</link>
-      <atom:link href="https://www.eugeniovaldano.com/publication-type/article/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.evmodelers.org/publication-type/article/</link>
+      <atom:link href="https://www.evmodelers.org/publication-type/article/index.xml" rel="self" type="application/rss+xml" />
     <description>Article</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.eugeniovaldano.com/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Article</title>
-      <link>https://www.eugeniovaldano.com/publication-type/article/</link>
+      <link>https://www.evmodelers.org/publication-type/article/</link>
     </image>
     
     <item>
       <title>Collaborative forecasting of influenza-like illness in Italy: the Influcast experience</title>
-      <link>https://www.eugeniovaldano.com/publication/24fiacol/</link>
+      <link>https://www.evmodelers.org/publication/24fiacol/</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/publication/24fiacol/</guid>
+      <guid>https://www.evmodelers.org/publication/24fiacol/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How floods may affect the spatial spread of respiratory pathogens: the case of Emilia-Romagna, Italy in May 2023</title>
-      <link>https://www.eugeniovaldano.com/publication/24aschow/</link>
+      <link>https://www.evmodelers.org/publication/24aschow/</link>
       <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/publication/24aschow/</guid>
+      <guid>https://www.evmodelers.org/publication/24aschow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disruption of outdoor activities caused by wildfires increases disease circulation</title>
-      <link>https://www.eugeniovaldano.com/publication/24arrdis/</link>
+      <link>https://www.evmodelers.org/publication/24arrdis/</link>
       <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/publication/24arrdis/</guid>
+      <guid>https://www.evmodelers.org/publication/24arrdis/</guid>
       <description>&lt;p&gt;The project behind this study started at the 2023 of the workshop &lt;a href=&#34;www.complexity72h.com&#34;&gt;Complexity72h&lt;/a&gt; which we organize every year.&lt;/p&gt;
 &lt;p&gt;You can access the workshop report here: &lt;a href=&#34;https://www.medrxiv.org/content/10.1101/2023.07.09.23292078v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.medrxiv.org/content/10.1101/2023.07.09.23292078v1&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -40,26 +40,26 @@
     
     <item>
       <title>Ignoring spatial heterogeneity in drivers of SARS-CoV-2 transmission in the US will impede sustained elimination</title>
-      <link>https://www.eugeniovaldano.com/publication/21susign/</link>
+      <link>https://www.evmodelers.org/publication/21susign/</link>
       <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/publication/21susign/</guid>
+      <guid>https://www.evmodelers.org/publication/21susign/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamics of new strain emergence on a temporal network</title>
-      <link>https://www.eugeniovaldano.com/publication/18chadyn/</link>
+      <link>https://www.evmodelers.org/publication/18chadyn/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/publication/18chadyn/</guid>
+      <guid>https://www.evmodelers.org/publication/18chadyn/</guid>
       <description>&lt;p&gt;Report of the project completed in 72 hours during the workshop &lt;a href=&#34;https://complexity72h.weebly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complexity72h&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Evaluating the impact of PrEP on HIV and gonorrhea on a networked population of female sex workers</title>
-      <link>https://www.eugeniovaldano.com/publication/19bereva/</link>
+      <link>https://www.evmodelers.org/publication/19bereva/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/publication/19bereva/</guid>
+      <guid>https://www.evmodelers.org/publication/19bereva/</guid>
       <description>&lt;p&gt;Report of the project completed in 72 hours during the workshop &lt;a href=&#34;https://complexity72h.weebly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complexity72h&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

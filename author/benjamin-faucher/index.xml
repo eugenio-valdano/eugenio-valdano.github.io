@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Benjamin Faucher | EV / The modelers</title>
-    <link>https://www.eugeniovaldano.com/author/benjamin-faucher/</link>
-      <atom:link href="https://www.eugeniovaldano.com/author/benjamin-faucher/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.evmodelers.org/author/benjamin-faucher/</link>
+      <atom:link href="https://www.evmodelers.org/author/benjamin-faucher/index.xml" rel="self" type="application/rss+xml" />
     <description>Benjamin Faucher</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.eugeniovaldano.com/author/benjamin-faucher/avatar_huc84e63f6dc77192f086a5c0ce1be1001_352001_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://www.evmodelers.org/author/benjamin-faucher/avatar_huc84e63f6dc77192f086a5c0ce1be1001_352001_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Benjamin Faucher</title>
-      <link>https://www.eugeniovaldano.com/author/benjamin-faucher/</link>
+      <link>https://www.evmodelers.org/author/benjamin-faucher/</link>
     </image>
     
     <item>
       <title>Benjamin Faucher</title>
-      <link>https://www.eugeniovaldano.com/author/benjamin-faucher/</link>
+      <link>https://www.evmodelers.org/author/benjamin-faucher/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/author/benjamin-faucher/</guid>
+      <guid>https://www.evmodelers.org/author/benjamin-faucher/</guid>
       <description>&lt;p&gt;Benjamin is a postdoctoral researcher in modeling in public health at INSERM and the Pierre Louis Institute of Epidemiology and Health (IPLESP). Biophysicist by training, he obtained a PhD in Biomathematics and Biostatistics from Sorbonne University in 2024, where he studied the surveillance and response to the spread of COVID-19. He is now interested in using deep learning techniques to model epidemics.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Welcome Benjamin!</title>
-      <link>https://www.eugeniovaldano.com/event/2024benjamin/</link>
+      <link>https://www.evmodelers.org/event/2024benjamin/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/event/2024benjamin/</guid>
+      <guid>https://www.evmodelers.org/event/2024benjamin/</guid>
       <description>&lt;p&gt;Benjamin joins the group as a postdoctoral researcher funded by the European project SIESTA.&lt;/p&gt;
 </description>
     </item>

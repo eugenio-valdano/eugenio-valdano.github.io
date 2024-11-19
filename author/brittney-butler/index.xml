@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brittney Butler | EV / The modelers</title>
-    <link>https://www.eugeniovaldano.com/author/brittney-butler/</link>
-      <atom:link href="https://www.eugeniovaldano.com/author/brittney-butler/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.evmodelers.org/author/brittney-butler/</link>
+      <atom:link href="https://www.evmodelers.org/author/brittney-butler/index.xml" rel="self" type="application/rss+xml" />
     <description>Brittney Butler</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.eugeniovaldano.com/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Brittney Butler</title>
-      <link>https://www.eugeniovaldano.com/author/brittney-butler/</link>
+      <link>https://www.evmodelers.org/author/brittney-butler/</link>
     </image>
     
     <item>
       <title>Leveraging open mobility data from Meta to correct underestimations in disease spread.</title>
-      <link>https://www.eugeniovaldano.com/post/2024rt-meta/</link>
+      <link>https://www.evmodelers.org/post/2024rt-meta/</link>
       <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.eugeniovaldano.com/post/2024rt-meta/</guid>
+      <guid>https://www.evmodelers.org/post/2024rt-meta/</guid>
       <description>&lt;p&gt;A collaboration between Meta (Data for Good) and EV / The Modelers.&lt;/p&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction:&lt;/h2&gt;
 &lt;p&gt;The COVID-19 pandemic showcased that the accuracy of epidemic monitoring at a global level can be improved through the inclusion of &lt;a href=&#34;https://about.fb.com/news/2020/04/data-for-good/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;non-traditional data sources&lt;/a&gt; and &lt;a href=&#34;https://dataforgood.facebook.com/dfg/tools/covid-19-forecasts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;artificial intelligence&lt;/a&gt;. This case study explores how colocation and open mobility data from Meta can ultimately enhance the estimation of the reproduction ratio, which informs public health decision makers about the average number of people who will become infected from contact with an originally infected person.
@@ -51,7 +51,7 @@ Leveraging Meta colocation data to measure close-proximity contact rates within 
                /post/2024rt-meta/fig2_hu20294657232e4bbccf52a0967cc663b9_338059_7d36f65083ec6f1ae20f5983551ba9a2.webp 400w,
                /post/2024rt-meta/fig2_hu20294657232e4bbccf52a0967cc663b9_338059_4717c41d6bac35ff429b280d4e3159aa.webp 760w,
                /post/2024rt-meta/fig2_hu20294657232e4bbccf52a0967cc663b9_338059_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://www.eugeniovaldano.com/post/2024rt-meta/fig2_hu20294657232e4bbccf52a0967cc663b9_338059_7d36f65083ec6f1ae20f5983551ba9a2.webp&#34;
+               src=&#34;https://www.evmodelers.org/post/2024rt-meta/fig2_hu20294657232e4bbccf52a0967cc663b9_338059_7d36f65083ec6f1ae20f5983551ba9a2.webp&#34;
                width=&#34;760&#34;
                height=&#34;717&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
