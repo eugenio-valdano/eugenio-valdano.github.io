@@ -5,12 +5,29 @@
     <link>https://www.evmodelers.org/tag/dissemination/</link>
       <atom:link href="https://www.evmodelers.org/tag/dissemination/index.xml" rel="self" type="application/rss+xml" />
     <description>Dissemination</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Dissemination</title>
       <link>https://www.evmodelers.org/tag/dissemination/</link>
     </image>
+    
+    <item>
+      <title>EU Innovation Day 2025 at Meta</title>
+      <link>https://www.evmodelers.org/event/2025metaeu/</link>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2025metaeu/</guid>
+      <description>&lt;p&gt;Eugenio will speak ath the EU Innovation Day 2025 at Meta, to reflect upon how nontraditional open data and open-source AI can fuel innovation in research and public service delivery in the EU.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eugenio presenting at Hasselt University</title>
+      <link>https://www.evmodelers.org/event/2025hasselt/</link>
+      <pubDate>Tue, 28 Jan 2025 12:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2025hasselt/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PrEP policies in the EU: poster at ESCAIDE &#43; talk at ECOSOCEPI</title>
