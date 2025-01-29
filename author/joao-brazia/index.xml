@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>João Brázia | EV / The modelers</title>
+    <link>https://www.evmodelers.org/author/joao-brazia/</link>
+      <atom:link href="https://www.evmodelers.org/author/joao-brazia/index.xml" rel="self" type="application/rss+xml" />
+    <description>João Brázia</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <title>João Brázia</title>
+      <link>https://www.evmodelers.org/author/joao-brazia/</link>
+    </image>
+    
+    <item>
+      <title>Comparing the Cost-Effectiveness of Alternative Policies for Recommending and Providing HIV Pre-exposure Prophylaxis to Men Who Have Sex With Men in the EU</title>
+      <link>https://www.evmodelers.org/publication/25wancom/</link>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/publication/25wancom/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
