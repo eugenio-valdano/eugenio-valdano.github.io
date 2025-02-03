@@ -5,12 +5,20 @@
     <link>https://www.evmodelers.org/tag/featured/</link>
       <atom:link href="https://www.evmodelers.org/tag/featured/index.xml" rel="self" type="application/rss+xml" />
     <description>Featured</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Featured</title>
       <link>https://www.evmodelers.org/tag/featured/</link>
     </image>
+    
+    <item>
+      <title>Complexity72h: training the next generation of researchers in complex systems</title>
+      <link>https://www.evmodelers.org/publication/25antcom/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/publication/25antcom/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Estimates of the reproduction ratio from epidemic surveillance may be biased in spatially structured populations</title>

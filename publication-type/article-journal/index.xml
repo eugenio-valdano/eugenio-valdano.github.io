@@ -5,12 +5,20 @@
     <link>https://www.evmodelers.org/publication-type/article-journal/</link>
       <atom:link href="https://www.evmodelers.org/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Article-Journal</title>
       <link>https://www.evmodelers.org/publication-type/article-journal/</link>
     </image>
+    
+    <item>
+      <title>Complexity72h: training the next generation of researchers in complex systems</title>
+      <link>https://www.evmodelers.org/publication/25antcom/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/publication/25antcom/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Limited data on infectious disease distribution exposes ambiguity in epidemic modeling choices</title>
