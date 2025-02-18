@@ -5,12 +5,20 @@
     <link>https://www.evmodelers.org/publication/</link>
       <atom:link href="https://www.evmodelers.org/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://www.evmodelers.org/publication/</link>
     </image>
+    
+    <item>
+      <title>Collaborative forecasting of influenza-like illness in Italy: the Influcast experience</title>
+      <link>https://www.evmodelers.org/publication/25fiacol/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/publication/25fiacol/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Complexity72h: training the next generation of researchers in complex systems</title>
@@ -25,14 +33,6 @@
       <link>https://www.evmodelers.org/publication/25wancom/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://www.evmodelers.org/publication/25wancom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Collaborative forecasting of influenza-like illness in Italy: the Influcast experience</title>
-      <link>https://www.evmodelers.org/publication/24fiacol/</link>
-      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/publication/24fiacol/</guid>
       <description></description>
     </item>
     
