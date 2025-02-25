@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contributed Talk | EV / The modelers</title>
-    <link>https://www.evmodelers.org/tag/contributed-talk/</link>
-      <atom:link href="https://www.evmodelers.org/tag/contributed-talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/contributed-talk/</link>
+      <atom:link href="http://localhost:1313/tag/contributed-talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Contributed Talk</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Contributed Talk</title>
-      <link>https://www.evmodelers.org/tag/contributed-talk/</link>
+      <link>http://localhost:1313/tag/contributed-talk/</link>
     </image>
     
     <item>
       <title>PrEP policies in the EU: poster at ESCAIDE &#43; talk at ECOSOCEPI</title>
-      <link>https://www.evmodelers.org/event/2024escaide/</link>
+      <link>http://localhost:1313/event/2024escaide/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/event/2024escaide/</guid>
+      <guid>http://localhost:1313/event/2024escaide/</guid>
       <description>&lt;p&gt;A new study assessing PrEP policies across countries in the European Union will soon be out. In the meantime, Boxuan presenting a poster at the ESCAIDE - the European conference on applied epidemiology. At the same time, our collaborator &lt;a href=&#34;https://andreiasofiateixeira.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sofia Teixeira&lt;/a&gt; is giving the talk at the &lt;a href=&#34;https://ecosocepi.weebly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECOSOCEPI workshop&lt;/a&gt; at &lt;a href=&#34;https://www.isi.it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISI Foundation&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Talk at the workshop Modeling sexually transmitted infections</title>
-      <link>https://www.evmodelers.org/event/2024istparis/</link>
+      <link>http://localhost:1313/event/2024istparis/</link>
       <pubDate>Fri, 05 Apr 2024 16:30:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/event/2024istparis/</guid>
+      <guid>http://localhost:1313/event/2024istparis/</guid>
       <description>&lt;p&gt;Workshop organized by the working group on STI modeling of the Action Coordonnée Modélisation (AC49)
 of the &lt;a href=&#34;https://anrs.fr/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ANRS-MIE&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -33,49 +33,49 @@ of the &lt;a href=&#34;https://anrs.fr/en/&#34; target=&#34;_blank&#34; rel=&#34
     
     <item>
       <title>Lightning talk at NetSciX</title>
-      <link>https://www.evmodelers.org/event/2024netscix/</link>
+      <link>http://localhost:1313/event/2024netscix/</link>
       <pubDate>Tue, 23 Jan 2024 14:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/event/2024netscix/</guid>
+      <guid>http://localhost:1313/event/2024netscix/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contributed talk at NetMob</title>
-      <link>https://www.evmodelers.org/event/2023netmob/</link>
+      <link>http://localhost:1313/event/2023netmob/</link>
       <pubDate>Thu, 05 Oct 2023 16:15:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/event/2023netmob/</guid>
+      <guid>http://localhost:1313/event/2023netmob/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lightning talk at NetSci</title>
-      <link>https://www.evmodelers.org/event/2023netsci/</link>
+      <link>http://localhost:1313/event/2023netsci/</link>
       <pubDate>Thu, 13 Jul 2023 11:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/event/2023netsci/</guid>
+      <guid>http://localhost:1313/event/2023netsci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contributed talk at CCS</title>
-      <link>https://www.evmodelers.org/event/2022ccs1/</link>
+      <link>http://localhost:1313/event/2022ccs1/</link>
       <pubDate>Mon, 17 Oct 2022 10:45:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/event/2022ccs1/</guid>
+      <guid>http://localhost:1313/event/2022ccs1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contributed talk at CCS</title>
-      <link>https://www.evmodelers.org/event/2022ccs2/</link>
+      <link>http://localhost:1313/event/2022ccs2/</link>
       <pubDate>Mon, 17 Oct 2022 10:45:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/event/2022ccs2/</guid>
+      <guid>http://localhost:1313/event/2022ccs2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contributed talk at BIFI International Conference</title>
-      <link>https://www.evmodelers.org/event/2022bifi/</link>
+      <link>http://localhost:1313/event/2022bifi/</link>
       <pubDate>Tue, 07 Jun 2022 14:55:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/event/2022bifi/</guid>
+      <guid>http://localhost:1313/event/2022bifi/</guid>
       <description></description>
     </item>
     

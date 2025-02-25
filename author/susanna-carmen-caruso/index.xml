@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Susanna Carmen Caruso | EV / The modelers</title>
-    <link>https://www.evmodelers.org/author/susanna-carmen-caruso/</link>
-      <atom:link href="https://www.evmodelers.org/author/susanna-carmen-caruso/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/susanna-carmen-caruso/</link>
+      <atom:link href="http://localhost:1313/author/susanna-carmen-caruso/index.xml" rel="self" type="application/rss+xml" />
     <description>Susanna Carmen Caruso</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://www.evmodelers.org/author/susanna-carmen-caruso/avatar_hufd893261bc730dcdd9af26e35a94f7d1_1314852_270x270_fill_q75_lanczos_center.jpeg</url>
+      <url>http://localhost:1313/author/susanna-carmen-caruso/avatar_hufd893261bc730dcdd9af26e35a94f7d1_1314852_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Susanna Carmen Caruso</title>
-      <link>https://www.evmodelers.org/author/susanna-carmen-caruso/</link>
+      <link>http://localhost:1313/author/susanna-carmen-caruso/</link>
     </image>
     
     <item>
       <title>Susanna Carmen Caruso</title>
-      <link>https://www.evmodelers.org/author/susanna-carmen-caruso/</link>
+      <link>http://localhost:1313/author/susanna-carmen-caruso/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/author/susanna-carmen-caruso/</guid>
+      <guid>http://localhost:1313/author/susanna-carmen-caruso/</guid>
       <description></description>
     </item>
     

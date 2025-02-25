@@ -2,53 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Featured | EV / The modelers</title>
-    <link>https://www.evmodelers.org/tag/featured/</link>
-      <atom:link href="https://www.evmodelers.org/tag/featured/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/featured/</link>
+      <atom:link href="http://localhost:1313/tag/featured/index.xml" rel="self" type="application/rss+xml" />
     <description>Featured</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Featured</title>
-      <link>https://www.evmodelers.org/tag/featured/</link>
+      <link>http://localhost:1313/tag/featured/</link>
     </image>
     
     <item>
+      <title>Foundation time series models for forecasting and policy evaluation in infectious disease epidemics</title>
+      <link>http://localhost:1313/publication/25kalfou/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/25kalfou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Complexity72h: training the next generation of researchers in complex systems</title>
-      <link>https://www.evmodelers.org/publication/25antcom/</link>
+      <link>http://localhost:1313/publication/25antcom/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/publication/25antcom/</guid>
+      <guid>http://localhost:1313/publication/25antcom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estimates of the reproduction ratio from epidemic surveillance may be biased in spatially structured populations</title>
-      <link>https://www.evmodelers.org/publication/24birest/</link>
+      <link>http://localhost:1313/publication/24birest/</link>
       <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/publication/24birest/</guid>
+      <guid>http://localhost:1313/publication/24birest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Non-selective distribution of infectious disease prevention may outperform risk-based targeting</title>
-      <link>https://www.evmodelers.org/publication/22stenon/</link>
+      <link>http://localhost:1313/publication/22stenon/</link>
       <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/publication/22stenon/</guid>
+      <guid>http://localhost:1313/publication/22stenon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using mobile phone data to reveal risk flow networks underlying the HIV epidemic in Namibia</title>
-      <link>https://www.evmodelers.org/publication/21valusi/</link>
+      <link>http://localhost:1313/publication/21valusi/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/publication/21valusi/</guid>
+      <guid>http://localhost:1313/publication/21valusi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Preparedness and vulnerability of African countries against importations of COVID-19: a modelling study</title>
-      <link>https://www.evmodelers.org/publication/20gilpre/</link>
+      <link>http://localhost:1313/publication/20gilpre/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/publication/20gilpre/</guid>
+      <guid>http://localhost:1313/publication/20gilpre/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrea Bizzotto | EV / The modelers</title>
-    <link>https://www.evmodelers.org/author/andrea-bizzotto/</link>
-      <atom:link href="https://www.evmodelers.org/author/andrea-bizzotto/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/andrea-bizzotto/</link>
+      <atom:link href="http://localhost:1313/author/andrea-bizzotto/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrea Bizzotto</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Andrea Bizzotto</title>
-      <link>https://www.evmodelers.org/author/andrea-bizzotto/</link>
+      <link>http://localhost:1313/author/andrea-bizzotto/</link>
     </image>
     
     <item>
       <title>Collaborative forecasting of influenza-like illness in Italy: the Influcast experience</title>
-      <link>https://www.evmodelers.org/publication/25fiacol/</link>
+      <link>http://localhost:1313/publication/25fiacol/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/publication/25fiacol/</guid>
+      <guid>http://localhost:1313/publication/25fiacol/</guid>
       <description></description>
     </item>
     

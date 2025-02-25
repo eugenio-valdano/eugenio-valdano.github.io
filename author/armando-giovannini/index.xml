@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Armando Giovannini | EV / The modelers</title>
-    <link>https://www.evmodelers.org/author/armando-giovannini/</link>
-      <atom:link href="https://www.evmodelers.org/author/armando-giovannini/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/armando-giovannini/</link>
+      <atom:link href="http://localhost:1313/author/armando-giovannini/index.xml" rel="self" type="application/rss+xml" />
     <description>Armando Giovannini</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Armando Giovannini</title>
-      <link>https://www.evmodelers.org/author/armando-giovannini/</link>
+      <link>http://localhost:1313/author/armando-giovannini/</link>
     </image>
     
     <item>
       <title>Farm productive contexts and the dynamics of bovine viral diarrhea (BVD) transmission</title>
-      <link>https://www.evmodelers.org/publication/19iotfar/</link>
+      <link>http://localhost:1313/publication/19iotfar/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/publication/19iotfar/</guid>
+      <guid>http://localhost:1313/publication/19iotfar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disease persistence on temporal contact networks accounting for heterogeneous infectious periods</title>
-      <link>https://www.evmodelers.org/publication/19dardis/</link>
+      <link>http://localhost:1313/publication/19dardis/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/publication/19dardis/</guid>
+      <guid>http://localhost:1313/publication/19dardis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Network-based assessment of the vulnerability of Italian regions to bovine brucellosis</title>
-      <link>https://www.evmodelers.org/publication/18darnetbas/</link>
+      <link>http://localhost:1313/publication/18darnetbas/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/publication/18darnetbas/</guid>
+      <guid>http://localhost:1313/publication/18darnetbas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting Epidemic Risk from Past Temporal Contact Data</title>
-      <link>https://www.evmodelers.org/publication/15valpre/</link>
+      <link>http://localhost:1313/publication/15valpre/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/publication/15valpre/</guid>
+      <guid>http://localhost:1313/publication/15valpre/</guid>
       <description></description>
     </item>
     

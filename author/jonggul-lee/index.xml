@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jonggul Lee | EV / The modelers</title>
-    <link>https://www.evmodelers.org/author/jonggul-lee/</link>
-      <atom:link href="https://www.evmodelers.org/author/jonggul-lee/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jonggul-lee/</link>
+      <atom:link href="http://localhost:1313/author/jonggul-lee/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonggul Lee</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Jonggul Lee</title>
-      <link>https://www.evmodelers.org/author/jonggul-lee/</link>
+      <link>http://localhost:1313/author/jonggul-lee/</link>
     </image>
     
     <item>
       <title>Highlighting socio-economic constraints on mobility reductions during COVID-19 restrictions in France can inform effective and equitable pandemic response</title>
-      <link>https://www.evmodelers.org/publication/21valhig/</link>
+      <link>http://localhost:1313/publication/21valhig/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/publication/21valhig/</guid>
+      <guid>http://localhost:1313/publication/21valhig/</guid>
       <description></description>
     </item>
     

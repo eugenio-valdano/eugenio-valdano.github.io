@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Francesco Pinotti | EV / The modelers</title>
-    <link>https://www.evmodelers.org/author/francesco-pinotti/</link>
-      <atom:link href="https://www.evmodelers.org/author/francesco-pinotti/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/francesco-pinotti/</link>
+      <atom:link href="http://localhost:1313/author/francesco-pinotti/index.xml" rel="self" type="application/rss+xml" />
     <description>Francesco Pinotti</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Francesco Pinotti</title>
-      <link>https://www.evmodelers.org/author/francesco-pinotti/</link>
+      <link>http://localhost:1313/author/francesco-pinotti/</link>
     </image>
     
     <item>
       <title>Tracing and analysis of 288 early SARS-CoV-2 infections outside China: A modeling study</title>
-      <link>https://www.evmodelers.org/publication/20pintra/</link>
+      <link>http://localhost:1313/publication/20pintra/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/publication/20pintra/</guid>
+      <guid>http://localhost:1313/publication/20pintra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Preparedness and vulnerability of African countries against importations of COVID-19: a modelling study</title>
-      <link>https://www.evmodelers.org/publication/20gilpre/</link>
+      <link>http://localhost:1313/publication/20gilpre/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/publication/20gilpre/</guid>
+      <guid>http://localhost:1313/publication/20gilpre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Novel coronavirus (2019-nCoV) early-stage importation risk to Europe, January 2020</title>
-      <link>https://www.evmodelers.org/publication/20pulnov/</link>
+      <link>http://localhost:1313/publication/20pulnov/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/publication/20pulnov/</guid>
+      <guid>http://localhost:1313/publication/20pulnov/</guid>
       <description></description>
     </item>
     

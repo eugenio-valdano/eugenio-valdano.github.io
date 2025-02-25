@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grant | EV / The modelers</title>
-    <link>https://www.evmodelers.org/tag/grant/</link>
-      <atom:link href="https://www.evmodelers.org/tag/grant/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/grant/</link>
+      <atom:link href="http://localhost:1313/tag/grant/index.xml" rel="self" type="application/rss+xml" />
     <description>Grant</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Grant</title>
-      <link>https://www.evmodelers.org/tag/grant/</link>
+      <link>http://localhost:1313/tag/grant/</link>
     </image>
     
     <item>
       <title>Kickoff meeting of the European project SIESTA</title>
-      <link>https://www.evmodelers.org/event/2024siestakick/</link>
+      <link>http://localhost:1313/event/2024siestakick/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/event/2024siestakick/</guid>
+      <guid>http://localhost:1313/event/2024siestakick/</guid>
       <description>&lt;p&gt;We will be attending the kick-off meeting of the newly started European project SIESTA.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PHC Pessoa 2023</title>
-      <link>https://www.evmodelers.org/tour/grant/2023pessoa/</link>
+      <link>http://localhost:1313/tour/grant/2023pessoa/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/tour/grant/2023pessoa/</guid>
+      <guid>http://localhost:1313/tour/grant/2023pessoa/</guid>
       <description>&lt;p&gt;France-Portugal &lt;em&gt;Hubert-Curien&lt;/em&gt; Partnership with Prof. &lt;a href=&#34;https://andreiasofiateixeira.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sofia Teixeira&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Funders&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
@@ -38,9 +38,9 @@
     
     <item>
       <title>SIESTA (Secure Interactive Environments for SensiTive Data Analytics)</title>
-      <link>https://www.evmodelers.org/tour/grant/2024siesta/</link>
+      <link>http://localhost:1313/tour/grant/2024siesta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/tour/grant/2024siesta/</guid>
+      <guid>http://localhost:1313/tour/grant/2024siesta/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funder&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Horizon Europe funding program, European Commission.&lt;/li&gt;

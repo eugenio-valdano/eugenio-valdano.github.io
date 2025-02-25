@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Poster | EV / The modelers</title>
-    <link>https://www.evmodelers.org/tag/poster/</link>
-      <atom:link href="https://www.evmodelers.org/tag/poster/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/poster/</link>
+      <atom:link href="http://localhost:1313/tag/poster/index.xml" rel="self" type="application/rss+xml" />
     <description>Poster</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Poster</title>
-      <link>https://www.evmodelers.org/tag/poster/</link>
+      <link>http://localhost:1313/tag/poster/</link>
     </image>
     
     <item>
       <title>PrEP policies in the EU: poster at ESCAIDE &#43; talk at ECOSOCEPI</title>
-      <link>https://www.evmodelers.org/event/2024escaide/</link>
+      <link>http://localhost:1313/event/2024escaide/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/event/2024escaide/</guid>
+      <guid>http://localhost:1313/event/2024escaide/</guid>
       <description>&lt;p&gt;A new study assessing PrEP policies across countries in the European Union will soon be out. In the meantime, Boxuan presenting a poster at the ESCAIDE - the European conference on applied epidemiology. At the same time, our collaborator &lt;a href=&#34;https://andreiasofiateixeira.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sofia Teixeira&lt;/a&gt; is giving the talk at the &lt;a href=&#34;https://ecosocepi.weebly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECOSOCEPI workshop&lt;/a&gt; at &lt;a href=&#34;https://www.isi.it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISI Foundation&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Annual meeting of the French Consortium &#39;Infectious Disease Modeling&#39;</title>
-      <link>https://www.evmodelers.org/event/2023journeesac/</link>
+      <link>http://localhost:1313/event/2023journeesac/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/event/2023journeesac/</guid>
+      <guid>http://localhost:1313/event/2023journeesac/</guid>
       <description>&lt;p&gt;We will be attending the annual meeting of the Consortium &lt;em&gt;Infectious Disease Modeling&lt;/em&gt; - French: &lt;a href=&#34;https://anrs.fr/fr/recherche/groupes-animation-scientifique/ac-modelisation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Action Coordonnée Modélisation des maladies infectieuses (AC Modélisation)&lt;/em&gt;&lt;/a&gt; -, of which Eugenio is a member of the Scientific Committee. The &lt;em&gt;AC Modélisation&lt;/em&gt; is the network of French epidemic modelers under the umbrella of &lt;a href=&#34;https://anrs.fr/fr/recherche/groupes-animation-scientifique/ac-modelisation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ANRS-MIE&lt;/a&gt; (&lt;a href=&#34;https://www.inserm.fr/en/home/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INSERM&lt;/a&gt; agency for the research on HIV, TB, STI, viral hepatitis and emerging and re-emerging infectious diseases).&lt;/p&gt;
 &lt;p&gt;Claudio will also be presenting a poster.&lt;/p&gt;
 </description>
