@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andreia Sofia Teixeira | EV / The modelers</title>
-    <link>http://localhost:1313/author/andreia-sofia-teixeira/</link>
-      <atom:link href="http://localhost:1313/author/andreia-sofia-teixeira/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.evmodelers.org/author/andreia-sofia-teixeira/</link>
+      <atom:link href="https://www.evmodelers.org/author/andreia-sofia-teixeira/index.xml" rel="self" type="application/rss+xml" />
     <description>Andreia Sofia Teixeira</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Andreia Sofia Teixeira</title>
-      <link>http://localhost:1313/author/andreia-sofia-teixeira/</link>
+      <link>https://www.evmodelers.org/author/andreia-sofia-teixeira/</link>
     </image>
     
     <item>
       <title>Comparing the Cost-Effectiveness of Alternative Policies for Recommending and Providing HIV Pre-exposure Prophylaxis to Men Who Have Sex With Men in the EU</title>
-      <link>http://localhost:1313/publication/25wancom/</link>
+      <link>https://www.evmodelers.org/publication/25wancom/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/25wancom/</guid>
+      <guid>https://www.evmodelers.org/publication/25wancom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Non-selective distribution of infectious disease prevention may outperform risk-based targeting</title>
-      <link>http://localhost:1313/publication/22stenon/</link>
+      <link>https://www.evmodelers.org/publication/22stenon/</link>
       <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/22stenon/</guid>
+      <guid>https://www.evmodelers.org/publication/22stenon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluating the impact of PrEP on HIV and gonorrhea on a networked population of female sex workers</title>
-      <link>http://localhost:1313/publication/19bereva/</link>
+      <link>https://www.evmodelers.org/publication/19bereva/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/19bereva/</guid>
+      <guid>https://www.evmodelers.org/publication/19bereva/</guid>
       <description>&lt;p&gt;Report of the project completed in 72 hours during the workshop &lt;a href=&#34;https://complexity72h.weebly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complexity72h&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

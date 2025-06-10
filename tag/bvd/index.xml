@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BVD | EV / The modelers</title>
-    <link>http://localhost:1313/tag/bvd/</link>
-      <atom:link href="http://localhost:1313/tag/bvd/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.evmodelers.org/tag/bvd/</link>
+      <atom:link href="https://www.evmodelers.org/tag/bvd/index.xml" rel="self" type="application/rss+xml" />
     <description>BVD</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>BVD</title>
-      <link>http://localhost:1313/tag/bvd/</link>
+      <link>https://www.evmodelers.org/tag/bvd/</link>
     </image>
     
     <item>
       <title>Farm productive contexts and the dynamics of bovine viral diarrhea (BVD) transmission</title>
-      <link>http://localhost:1313/publication/19iotfar/</link>
+      <link>https://www.evmodelers.org/publication/19iotfar/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/19iotfar/</guid>
+      <guid>https://www.evmodelers.org/publication/19iotfar/</guid>
       <description></description>
     </item>
     

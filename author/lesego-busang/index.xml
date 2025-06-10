@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lesego Busang | EV / The modelers</title>
-    <link>http://localhost:1313/author/lesego-busang/</link>
-      <atom:link href="http://localhost:1313/author/lesego-busang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.evmodelers.org/author/lesego-busang/</link>
+      <atom:link href="https://www.evmodelers.org/author/lesego-busang/index.xml" rel="self" type="application/rss+xml" />
     <description>Lesego Busang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Lesego Busang</title>
-      <link>http://localhost:1313/author/lesego-busang/</link>
+      <link>https://www.evmodelers.org/author/lesego-busang/</link>
     </image>
     
     <item>
       <title>The role of migration networks in the development of Botswana&#39;s generalized HIV epidemic</title>
-      <link>http://localhost:1313/publication/23sonthe/</link>
+      <link>https://www.evmodelers.org/publication/23sonthe/</link>
       <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/23sonthe/</guid>
+      <guid>https://www.evmodelers.org/publication/23sonthe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The potential impact of country-level migration networks on HIV epidemics in sub-Saharan Africa: the case of Botswana</title>
-      <link>http://localhost:1313/publication/21okapot/</link>
+      <link>https://www.evmodelers.org/publication/21okapot/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/21okapot/</guid>
+      <guid>https://www.evmodelers.org/publication/21okapot/</guid>
       <description></description>
     </item>
     

@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pierre-Yves Boëlle | EV / The modelers</title>
-    <link>http://localhost:1313/author/pierre-yves-boelle/</link>
-      <atom:link href="http://localhost:1313/author/pierre-yves-boelle/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.evmodelers.org/author/pierre-yves-boelle/</link>
+      <atom:link href="https://www.evmodelers.org/author/pierre-yves-boelle/index.xml" rel="self" type="application/rss+xml" />
     <description>Pierre-Yves Boëlle</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Pierre-Yves Boëlle</title>
-      <link>http://localhost:1313/author/pierre-yves-boelle/</link>
+      <link>https://www.evmodelers.org/author/pierre-yves-boelle/</link>
     </image>
     
     <item>
       <title>Foundation time series models for forecasting and policy evaluation in infectious disease epidemics</title>
-      <link>http://localhost:1313/publication/25kalfou/</link>
+      <link>https://www.evmodelers.org/publication/25kalfou/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/25kalfou/</guid>
+      <guid>https://www.evmodelers.org/publication/25kalfou/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The importance of increasing primary vaccinations against COVID-19 in Europe</title>
-      <link>http://localhost:1313/publication/24boethe/</link>
+      <link>https://www.evmodelers.org/publication/24boethe/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/24boethe/</guid>
+      <guid>https://www.evmodelers.org/publication/24boethe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reorganization of nurse scheduling reduces the risk of healthcare associated infections</title>
-      <link>http://localhost:1313/publication/21valreo/</link>
+      <link>https://www.evmodelers.org/publication/21valreo/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/21valreo/</guid>
+      <guid>https://www.evmodelers.org/publication/21valreo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Underdetection of cases of COVID-19 in France threatens epidemic control</title>
-      <link>http://localhost:1313/publication/21pulund/</link>
+      <link>https://www.evmodelers.org/publication/21pulund/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/21pulund/</guid>
+      <guid>https://www.evmodelers.org/publication/21pulund/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tracing and analysis of 288 early SARS-CoV-2 infections outside China: A modeling study</title>
-      <link>http://localhost:1313/publication/20pintra/</link>
+      <link>https://www.evmodelers.org/publication/20pintra/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/20pintra/</guid>
+      <guid>https://www.evmodelers.org/publication/20pintra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Preparedness and vulnerability of African countries against importations of COVID-19: a modelling study</title>
-      <link>http://localhost:1313/publication/20gilpre/</link>
+      <link>https://www.evmodelers.org/publication/20gilpre/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/20gilpre/</guid>
+      <guid>https://www.evmodelers.org/publication/20gilpre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Novel coronavirus (2019-nCoV) early-stage importation risk to Europe, January 2020</title>
-      <link>http://localhost:1313/publication/20pulnov/</link>
+      <link>https://www.evmodelers.org/publication/20pulnov/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/20pulnov/</guid>
+      <guid>https://www.evmodelers.org/publication/20pulnov/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ricardo Carbajal | EV / The modelers</title>
-    <link>http://localhost:1313/author/ricardo-carbajal/</link>
-      <atom:link href="http://localhost:1313/author/ricardo-carbajal/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.evmodelers.org/author/ricardo-carbajal/</link>
+      <atom:link href="https://www.evmodelers.org/author/ricardo-carbajal/index.xml" rel="self" type="application/rss+xml" />
     <description>Ricardo Carbajal</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Ricardo Carbajal</title>
-      <link>http://localhost:1313/author/ricardo-carbajal/</link>
+      <link>https://www.evmodelers.org/author/ricardo-carbajal/</link>
     </image>
     
     <item>
       <title>Foundation time series models for forecasting and policy evaluation in infectious disease epidemics</title>
-      <link>http://localhost:1313/publication/25kalfou/</link>
+      <link>https://www.evmodelers.org/publication/25kalfou/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/25kalfou/</guid>
+      <guid>https://www.evmodelers.org/publication/25kalfou/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leonardo Zavojanni | EV / The modelers</title>
-    <link>http://localhost:1313/author/leonardo-zavojanni/</link>
-      <atom:link href="http://localhost:1313/author/leonardo-zavojanni/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.evmodelers.org/author/leonardo-zavojanni/</link>
+      <atom:link href="https://www.evmodelers.org/author/leonardo-zavojanni/index.xml" rel="self" type="application/rss+xml" />
     <description>Leonardo Zavojanni</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Leonardo Zavojanni</title>
-      <link>http://localhost:1313/author/leonardo-zavojanni/</link>
+      <link>https://www.evmodelers.org/author/leonardo-zavojanni/</link>
     </image>
     
     <item>
       <title>Dynamics of new strain emergence on a temporal network</title>
-      <link>http://localhost:1313/publication/18chadyn/</link>
+      <link>https://www.evmodelers.org/publication/18chadyn/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/18chadyn/</guid>
+      <guid>https://www.evmodelers.org/publication/18chadyn/</guid>
       <description>&lt;p&gt;Report of the project completed in 72 hours during the workshop &lt;a href=&#34;https://complexity72h.weebly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complexity72h&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

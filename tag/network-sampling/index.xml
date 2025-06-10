@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Network Sampling | EV / The modelers</title>
-    <link>http://localhost:1313/tag/network-sampling/</link>
-      <atom:link href="http://localhost:1313/tag/network-sampling/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.evmodelers.org/tag/network-sampling/</link>
+      <atom:link href="https://www.evmodelers.org/tag/network-sampling/index.xml" rel="self" type="application/rss+xml" />
     <description>Network Sampling</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Network Sampling</title>
-      <link>http://localhost:1313/tag/network-sampling/</link>
+      <link>https://www.evmodelers.org/tag/network-sampling/</link>
     </image>
     
     <item>
       <title>Impact of spatially constrained sampling of temporal contact networks on the evaluation of the epidemic risk</title>
-      <link>http://localhost:1313/publication/16vesimp/</link>
+      <link>https://www.evmodelers.org/publication/16vesimp/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/16vesimp/</guid>
+      <guid>https://www.evmodelers.org/publication/16vesimp/</guid>
       <description></description>
     </item>
     

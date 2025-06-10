@@ -2,54 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Keynote Talk / Seminar | EV / The modelers</title>
-    <link>http://localhost:1313/tag/keynote-talk-/-seminar/</link>
-      <atom:link href="http://localhost:1313/tag/keynote-talk-/-seminar/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.evmodelers.org/tag/keynote-talk-/-seminar/</link>
+      <atom:link href="https://www.evmodelers.org/tag/keynote-talk-/-seminar/index.xml" rel="self" type="application/rss+xml" />
     <description>Keynote Talk / Seminar</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Apr 2023 14:00:00 +0100</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Keynote Talk / Seminar</title>
-      <link>http://localhost:1313/tag/keynote-talk-/-seminar/</link>
+      <link>https://www.evmodelers.org/tag/keynote-talk-/-seminar/</link>
     </image>
     
     <item>
       <title>Seminar at the University of Lisbon</title>
-      <link>http://localhost:1313/event/2023lasige/</link>
+      <link>https://www.evmodelers.org/event/2023lasige/</link>
       <pubDate>Wed, 19 Apr 2023 14:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/event/2023lasige/</guid>
+      <guid>https://www.evmodelers.org/event/2023lasige/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar at the ISI Foundation</title>
-      <link>http://localhost:1313/event/2023isi/</link>
+      <link>https://www.evmodelers.org/event/2023isi/</link>
       <pubDate>Mon, 09 Jan 2023 11:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/event/2023isi/</guid>
+      <guid>https://www.evmodelers.org/event/2023isi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar at the Central European University</title>
-      <link>http://localhost:1313/event/2022ceu/</link>
+      <link>https://www.evmodelers.org/event/2022ceu/</link>
       <pubDate>Thu, 17 Nov 2022 14:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/event/2022ceu/</guid>
+      <guid>https://www.evmodelers.org/event/2022ceu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Keynote talk at Complex Systems for the Most Vulnerable</title>
-      <link>http://localhost:1313/event/2022cs4v/</link>
+      <link>https://www.evmodelers.org/event/2022cs4v/</link>
       <pubDate>Mon, 17 Oct 2022 10:45:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2022cs4v/</guid>
+      <guid>https://www.evmodelers.org/event/2022cs4v/</guid>
       <description>&lt;p&gt;I will be a keynote speaker at this satellite. I will address how data-rich mathematical modeling may help to unveil inequalities, and improve the welfare of those  who are most vulnerable to, and burdened by, infectious disease epidemics.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Talk at Pasteur Institute</title>
-      <link>http://localhost:1313/event/2022sammba/</link>
+      <link>https://www.evmodelers.org/event/2022sammba/</link>
       <pubDate>Wed, 14 Sep 2022 12:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/event/2022sammba/</guid>
+      <guid>https://www.evmodelers.org/event/2022sammba/</guid>
       <description></description>
     </item>
     

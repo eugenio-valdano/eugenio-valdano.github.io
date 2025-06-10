@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Laetitia Gauvin | EV / The modelers</title>
-    <link>http://localhost:1313/author/laetitia-gauvin/</link>
-      <atom:link href="http://localhost:1313/author/laetitia-gauvin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.evmodelers.org/author/laetitia-gauvin/</link>
+      <atom:link href="https://www.evmodelers.org/author/laetitia-gauvin/index.xml" rel="self" type="application/rss+xml" />
     <description>Laetitia Gauvin</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Laetitia Gauvin</title>
-      <link>http://localhost:1313/author/laetitia-gauvin/</link>
+      <link>https://www.evmodelers.org/author/laetitia-gauvin/</link>
     </image>
     
     <item>
       <title>Randomized Reference Models for Temporal Networks</title>
-      <link>http://localhost:1313/publication/22gauran/</link>
+      <link>https://www.evmodelers.org/publication/22gauran/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/22gauran/</guid>
+      <guid>https://www.evmodelers.org/publication/22gauran/</guid>
       <description></description>
     </item>
     

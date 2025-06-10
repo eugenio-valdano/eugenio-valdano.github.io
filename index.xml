@@ -2,87 +2,95 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EV / The modelers</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.evmodelers.org/</link>
+      <atom:link href="https://www.evmodelers.org/index.xml" rel="self" type="application/rss+xml" />
     <description>EV / The modelers</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>EV / The modelers</title>
-      <link>http://localhost:1313/</link>
+      <link>https://www.evmodelers.org/</link>
     </image>
     
     <item>
+      <title>How floods may affect the spatial spread of respiratory pathogens: the case of Emilia-Romagna, Italy in May 2023</title>
+      <link>https://www.evmodelers.org/publication/25aschow/</link>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/publication/25aschow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Collaborative forecasting of influenza-like illness in Italy: the Influcast experience</title>
-      <link>http://localhost:1313/publication/25fiacol/</link>
+      <link>https://www.evmodelers.org/publication/25fiacol/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/25fiacol/</guid>
+      <guid>https://www.evmodelers.org/publication/25fiacol/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Foundation time series models for forecasting and policy evaluation in infectious disease epidemics</title>
-      <link>http://localhost:1313/publication/25kalfou/</link>
+      <link>https://www.evmodelers.org/publication/25kalfou/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/25kalfou/</guid>
+      <guid>https://www.evmodelers.org/publication/25kalfou/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EU Innovation Day 2025 at Meta</title>
-      <link>http://localhost:1313/event/2025metaeu/</link>
+      <link>https://www.evmodelers.org/event/2025metaeu/</link>
       <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2025metaeu/</guid>
+      <guid>https://www.evmodelers.org/event/2025metaeu/</guid>
       <description>&lt;p&gt;Eugenio will speak ath the EU Innovation Day 2025 at Meta, to reflect upon how nontraditional open data and open-source AI can fuel innovation in research and public service delivery in the EU.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Complexity72h: training the next generation of researchers in complex systems</title>
-      <link>http://localhost:1313/publication/25antcom/</link>
+      <link>https://www.evmodelers.org/publication/25antcom/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/25antcom/</guid>
+      <guid>https://www.evmodelers.org/publication/25antcom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparing the Cost-Effectiveness of Alternative Policies for Recommending and Providing HIV Pre-exposure Prophylaxis to Men Who Have Sex With Men in the EU</title>
-      <link>http://localhost:1313/publication/25wancom/</link>
+      <link>https://www.evmodelers.org/publication/25wancom/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/25wancom/</guid>
+      <guid>https://www.evmodelers.org/publication/25wancom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eugenio presenting at Hasselt University</title>
-      <link>http://localhost:1313/event/2025hasselt/</link>
+      <link>https://www.evmodelers.org/event/2025hasselt/</link>
       <pubDate>Tue, 28 Jan 2025 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2025hasselt/</guid>
+      <guid>https://www.evmodelers.org/event/2025hasselt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PrEP policies in the EU: poster at ESCAIDE &#43; talk at ECOSOCEPI</title>
-      <link>http://localhost:1313/event/2024escaide/</link>
+      <link>https://www.evmodelers.org/event/2024escaide/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2024escaide/</guid>
+      <guid>https://www.evmodelers.org/event/2024escaide/</guid>
       <description>&lt;p&gt;A new study assessing PrEP policies across countries in the European Union will soon be out. In the meantime, Boxuan presenting a poster at the ESCAIDE - the European conference on applied epidemiology. At the same time, our collaborator &lt;a href=&#34;https://andreiasofiateixeira.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sofia Teixeira&lt;/a&gt; is giving the talk at the &lt;a href=&#34;https://ecosocepi.weebly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECOSOCEPI workshop&lt;/a&gt; at &lt;a href=&#34;https://www.isi.it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISI Foundation&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Eugenio presenting at ISI Foundation</title>
-      <link>http://localhost:1313/event/2024isiworkshop/</link>
+      <link>https://www.evmodelers.org/event/2024isiworkshop/</link>
       <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2024isiworkshop/</guid>
+      <guid>https://www.evmodelers.org/event/2024isiworkshop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Boxuan, Claudio Eugenio &amp; Suprabhath presenting</title>
-      <link>http://localhost:1313/event/2024acmod/</link>
+      <link>https://www.evmodelers.org/event/2024acmod/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2024acmod/</guid>
+      <guid>https://www.evmodelers.org/event/2024acmod/</guid>
       <description>&lt;p&gt;We are at the Scientific Days of the &lt;a href=&#34;https://anrs.fr/en/scientific-research/scientific-animation-groups/ca-modelling-of-infectious-diseases-ca-49/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coordinated Action &amp;ldquo;Modelling of Infectious Diseases&amp;rdquo;&lt;/a&gt; of &lt;a href=&#34;https://anrs.fr/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ANRS-MIE&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This year we are at &lt;a href=&#34;https://www.ehesp.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EHESP&lt;/a&gt; in Rennes.&lt;/p&gt;
 </description>
@@ -90,9 +98,9 @@
     
     <item>
       <title>Complexity72h 2025 - call for tutors</title>
-      <link>http://localhost:1313/event/2024c72htutor/</link>
+      <link>https://www.evmodelers.org/event/2024c72htutor/</link>
       <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2024c72htutor/</guid>
+      <guid>https://www.evmodelers.org/event/2024c72htutor/</guid>
       <description>&lt;p&gt;The 2025 edition of Complexity72H will take place at the Carlos III University in Madrid, Spain, from June 23 to June 27 2025.&lt;/p&gt;
 &lt;p&gt;Complexity72h is an interdisciplinary workshop for young researchers in complex systems. Participants form teams and carry out projects in a three days’ time, i.e. 72 hours. The goal of each team is to complete and upload a report of their work by the end of the event.&lt;/p&gt;
 &lt;p&gt;Participants will work in teams, and each team will have a tutor. Tutors design the project, bring in the necessary data, and manage the team.&lt;/p&gt;
@@ -105,26 +113,18 @@
     
     <item>
       <title>Welcome Benjamin!</title>
-      <link>http://localhost:1313/event/2024benjamin/</link>
+      <link>https://www.evmodelers.org/event/2024benjamin/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2024benjamin/</guid>
+      <guid>https://www.evmodelers.org/event/2024benjamin/</guid>
       <description>&lt;p&gt;Benjamin joins the group as a postdoctoral researcher funded by the European project SIESTA.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>How floods may affect the spatial spread of respiratory pathogens: the case of Emilia-Romagna, Italy in May 2023</title>
-      <link>http://localhost:1313/publication/24aschow/</link>
-      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/24aschow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>epiNEXT satellite meeting of CCS2024</title>
-      <link>http://localhost:1313/event/2024epinext/</link>
+      <link>https://www.evmodelers.org/event/2024epinext/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2024epinext/</guid>
+      <guid>https://www.evmodelers.org/event/2024epinext/</guid>
       <description>&lt;p&gt;We are organizing epiNEXT: ​Next-gen Methods for Data-Rich Epidemic Models - a satellite meeting of the &lt;a href=&#34;https://ccs24.cssociety.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conference on Complex Systems CCS 2024&lt;/a&gt;. epiNEXT will explore methodological and theoretical advances in epidemic modeling. We emphasizes approaches enhancing the integration of various data sources. We will cover many approaches: complex systems, statistical physics, network analysis, statistical inference and machine and deep learning.&lt;/p&gt;
 &lt;p&gt;Check out our &lt;a href=&#34;https://epinext.weebly.com/invited-speakers.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;invited speakers&lt;/a&gt; and &lt;a href=&#34;https://epinext.weebly.com/call-for-abstracts.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;send your contribution&lt;/a&gt;!&lt;/p&gt;
 </description>
@@ -132,18 +132,18 @@
     
     <item>
       <title>Moving into the new offices</title>
-      <link>http://localhost:1313/event/2024sumoc/</link>
+      <link>https://www.evmodelers.org/event/2024sumoc/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2024sumoc/</guid>
+      <guid>https://www.evmodelers.org/event/2024sumoc/</guid>
       <description>&lt;p&gt;We are at the 5th floor of the Faculty of Health of Sorbonne University at the St. Antoine hospital. Our newly renovated offices are at the SUMOC center.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Leveraging open mobility data from Meta to correct underestimations in disease spread.</title>
-      <link>http://localhost:1313/post/2024rt-meta/</link>
+      <link>https://www.evmodelers.org/post/2024rt-meta/</link>
       <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2024rt-meta/</guid>
+      <guid>https://www.evmodelers.org/post/2024rt-meta/</guid>
       <description>&lt;p&gt;A collaboration between Meta (Data for Good) and EV / The Modelers.&lt;/p&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction:&lt;/h2&gt;
 &lt;p&gt;The COVID-19 pandemic showcased that the accuracy of epidemic monitoring at a global level can be improved through the inclusion of &lt;a href=&#34;https://about.fb.com/news/2020/04/data-for-good/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;non-traditional data sources&lt;/a&gt; and &lt;a href=&#34;https://dataforgood.facebook.com/dfg/tools/covid-19-forecasts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;artificial intelligence&lt;/a&gt;. This case study explores how colocation and open mobility data from Meta can ultimately enhance the estimation of the reproduction ratio, which informs public health decision makers about the average number of people who will become infected from contact with an originally infected person.
@@ -178,7 +178,7 @@ Leveraging Meta colocation data to measure close-proximity contact rates within 
                /post/2024rt-meta/fig2_hu20294657232e4bbccf52a0967cc663b9_338059_7d36f65083ec6f1ae20f5983551ba9a2.webp 400w,
                /post/2024rt-meta/fig2_hu20294657232e4bbccf52a0967cc663b9_338059_4717c41d6bac35ff429b280d4e3159aa.webp 760w,
                /post/2024rt-meta/fig2_hu20294657232e4bbccf52a0967cc663b9_338059_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2024rt-meta/fig2_hu20294657232e4bbccf52a0967cc663b9_338059_7d36f65083ec6f1ae20f5983551ba9a2.webp&#34;
+               src=&#34;https://www.evmodelers.org/post/2024rt-meta/fig2_hu20294657232e4bbccf52a0967cc663b9_338059_7d36f65083ec6f1ae20f5983551ba9a2.webp&#34;
                width=&#34;760&#34;
                height=&#34;717&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -209,9 +209,9 @@ To share their work with the wider public health community, the research team ha
     
     <item>
       <title>Disruption of outdoor activities caused by wildfires increases disease circulation</title>
-      <link>http://localhost:1313/publication/24arrdis/</link>
+      <link>https://www.evmodelers.org/publication/24arrdis/</link>
       <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/24arrdis/</guid>
+      <guid>https://www.evmodelers.org/publication/24arrdis/</guid>
       <description>&lt;p&gt;The project behind this study started at the 2023 of the workshop &lt;a href=&#34;www.complexity72h.com&#34;&gt;Complexity72h&lt;/a&gt; which we organize every year.&lt;/p&gt;
 &lt;p&gt;You can access the workshop report here: &lt;a href=&#34;https://www.medrxiv.org/content/10.1101/2023.07.09.23292078v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.medrxiv.org/content/10.1101/2023.07.09.23292078v1&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -219,42 +219,42 @@ To share their work with the wider public health community, the research team ha
     
     <item>
       <title>Limited data on infectious disease distribution exposes ambiguity in epidemic modeling choices</title>
-      <link>http://localhost:1313/publication/24dedlim/</link>
+      <link>https://www.evmodelers.org/publication/24dedlim/</link>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/24dedlim/</guid>
+      <guid>https://www.evmodelers.org/publication/24dedlim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>roundtable @ France Alumni Day - Quai d&#39;Orsay</title>
-      <link>http://localhost:1313/event/2024minetr/</link>
+      <link>https://www.evmodelers.org/event/2024minetr/</link>
       <pubDate>Wed, 15 May 2024 17:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2024minetr/</guid>
+      <guid>https://www.evmodelers.org/event/2024minetr/</guid>
       <description>&lt;p&gt;Eugenio will speak at a roundtable at the Soirée &lt;em&gt;France Alumni Day&lt;/em&gt; at the Ministère de l&amp;rsquo;Europe et des Affairs Etrangers (Quai d&amp;rsquo;Orsay).&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Estimates of the reproduction ratio from epidemic surveillance may be biased in spatially structured populations</title>
-      <link>http://localhost:1313/publication/24birest/</link>
+      <link>https://www.evmodelers.org/publication/24birest/</link>
       <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/24birest/</guid>
+      <guid>https://www.evmodelers.org/publication/24birest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>best pizza in Paris</title>
-      <link>http://localhost:1313/event/2024peppepizza/</link>
+      <link>https://www.evmodelers.org/event/2024peppepizza/</link>
       <pubDate>Tue, 23 Apr 2024 14:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2024peppepizza/</guid>
+      <guid>https://www.evmodelers.org/event/2024peppepizza/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talk at the workshop Modeling sexually transmitted infections</title>
-      <link>http://localhost:1313/event/2024istparis/</link>
+      <link>https://www.evmodelers.org/event/2024istparis/</link>
       <pubDate>Fri, 05 Apr 2024 16:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2024istparis/</guid>
+      <guid>https://www.evmodelers.org/event/2024istparis/</guid>
       <description>&lt;p&gt;Workshop organized by the working group on STI modeling of the Action Coordonnée Modélisation (AC49)
 of the &lt;a href=&#34;https://anrs.fr/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ANRS-MIE&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -262,17 +262,17 @@ of the &lt;a href=&#34;https://anrs.fr/en/&#34; target=&#34;_blank&#34; rel=&#34
     
     <item>
       <title>The importance of increasing primary vaccinations against COVID-19 in Europe</title>
-      <link>http://localhost:1313/publication/24boethe/</link>
+      <link>https://www.evmodelers.org/publication/24boethe/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/24boethe/</guid>
+      <guid>https://www.evmodelers.org/publication/24boethe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>(position filled) Come work with us: open postdoc position @ EV / The modelers</title>
-      <link>http://localhost:1313/event/2024jobpost/</link>
+      <link>https://www.evmodelers.org/event/2024jobpost/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2024jobpost/</guid>
+      <guid>https://www.evmodelers.org/event/2024jobpost/</guid>
       <description>&lt;p&gt;&lt;strong&gt;This position has been filled. Do visit our website periodically for more openings.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;==========================&lt;/p&gt;
 &lt;p&gt;Come work with EV / The modelers. We are opening a postdoc position at the lab funded by the European project SIESTA.&lt;/p&gt;
@@ -293,26 +293,26 @@ We seek expertise either in physics of complex systems / complex networks or in 
     
     <item>
       <title>Kickoff meeting of the European project SIESTA</title>
-      <link>http://localhost:1313/event/2024siestakick/</link>
+      <link>https://www.evmodelers.org/event/2024siestakick/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2024siestakick/</guid>
+      <guid>https://www.evmodelers.org/event/2024siestakick/</guid>
       <description>&lt;p&gt;We will be attending the kick-off meeting of the newly started European project SIESTA.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Lightning talk at NetSciX</title>
-      <link>http://localhost:1313/event/2024netscix/</link>
+      <link>https://www.evmodelers.org/event/2024netscix/</link>
       <pubDate>Tue, 23 Jan 2024 14:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2024netscix/</guid>
+      <guid>https://www.evmodelers.org/event/2024netscix/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EV / The Modelers now on the Italian ILI Forecast platform Influcast</title>
-      <link>http://localhost:1313/event/2024influcast/</link>
+      <link>https://www.evmodelers.org/event/2024influcast/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2024influcast/</guid>
+      <guid>https://www.evmodelers.org/event/2024influcast/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://influcast.org/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Influcast&lt;/a&gt; is platform to forecast the evolution of the incidence of influenza-like-illness in Italy by integrating prediction from multiple teams and models. It is coordinated by the &lt;a href=&#34;https://isi.it/en/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISI Foundation&lt;/a&gt;.
 EV / The Modelers now provides weekly estimates to Influcast.&lt;/p&gt;
 &lt;p&gt;Through our collaboration with Influcast, our goal is to push the methodological boundaries of mathematical models. Partnering up with our colleagues at the computer science dept. of the University of Bologna, Italy, we are developing a model that combines mechanistic mathematical modeling of epidemic dynamics with deep-learning based inference from data, using physics-informed neural networks.&lt;/p&gt;
@@ -322,9 +322,9 @@ EV / The Modelers now provides weekly estimates to Influcast.&lt;/p&gt;
     
     <item>
       <title>The 5th edition of Complexity72H</title>
-      <link>http://localhost:1313/event/2024cr7/</link>
+      <link>https://www.evmodelers.org/event/2024cr7/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2024cr7/</guid>
+      <guid>https://www.evmodelers.org/event/2024cr7/</guid>
       <description>&lt;p&gt;Apply to the 2024 edition of Complexity72H!&lt;/p&gt;
 &lt;p&gt;It will take place at the Carlos III University in &lt;strong&gt;Madrid, Spain&lt;/strong&gt;, from &lt;strong&gt;June 24 to June 28 2024&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Complexity72h is an interdisciplinary workshop for young researchers in complex systems. Participants form teams and carry out projects in a three days&amp;rsquo; time, i.e. 72 hours. The goal of each team is to complete and upload a report of their work by the end of the event.&lt;/p&gt;
@@ -340,17 +340,17 @@ EV / The Modelers now provides weekly estimates to Influcast.&lt;/p&gt;
     
     <item>
       <title>Epidemic graph diagrams as analytics for epidemic control in the data-rich era</title>
-      <link>http://localhost:1313/publication/23valepi/</link>
+      <link>https://www.evmodelers.org/publication/23valepi/</link>
       <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/23valepi/</guid>
+      <guid>https://www.evmodelers.org/publication/23valepi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar by Amanda Perofsky, University of Washington</title>
-      <link>http://localhost:1313/event/2023perofsky/</link>
+      <link>https://www.evmodelers.org/event/2023perofsky/</link>
       <pubDate>Thu, 23 Nov 2023 14:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/event/2023perofsky/</guid>
+      <guid>https://www.evmodelers.org/event/2023perofsky/</guid>
       <description>&lt;p&gt;Those who cannot attend in person may attend online using &lt;a href=&#34;https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmM1ZjBhNDItOGQzZi00MzEwLThjMGQtMmRlYThmMDQ5MTk3%40thread.v2/0?context=%7b%22Tid%22%3a%2299dde8fb-92f6-414d-bc5e-44ffa3e2419c%22%2c%22Oid%22%3a%22b6718fdd-ce42-4dc6-ad35-81f5acb19aa2%22%7d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this link&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Amanda Perofsky&amp;rsquo;s &lt;a href=&#34;https://aperofsky.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -358,27 +358,27 @@ EV / The Modelers now provides weekly estimates to Influcast.&lt;/p&gt;
     
     <item>
       <title>Welcome Suprabhath!</title>
-      <link>http://localhost:1313/event/2023suprabhath/</link>
+      <link>https://www.evmodelers.org/event/2023suprabhath/</link>
       <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2023suprabhath/</guid>
+      <guid>https://www.evmodelers.org/event/2023suprabhath/</guid>
       <description>&lt;p&gt;Suprabhath starts his PhD in Epidemiology and public health at our group.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>IPLESP retreat</title>
-      <link>http://localhost:1313/event/2023iplespretreat/</link>
+      <link>https://www.evmodelers.org/event/2023iplespretreat/</link>
       <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2023iplespretreat/</guid>
+      <guid>https://www.evmodelers.org/event/2023iplespretreat/</guid>
       <description>&lt;p&gt;We will be at a 2-day retreat of our institute: the Pierre Louis Institute of Epidemiology and Public Health.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Annual meeting of the French Consortium &#39;Infectious Disease Modeling&#39;</title>
-      <link>http://localhost:1313/event/2023journeesac/</link>
+      <link>https://www.evmodelers.org/event/2023journeesac/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2023journeesac/</guid>
+      <guid>https://www.evmodelers.org/event/2023journeesac/</guid>
       <description>&lt;p&gt;We will be attending the annual meeting of the Consortium &lt;em&gt;Infectious Disease Modeling&lt;/em&gt; - French: &lt;a href=&#34;https://anrs.fr/fr/recherche/groupes-animation-scientifique/ac-modelisation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Action Coordonnée Modélisation des maladies infectieuses (AC Modélisation)&lt;/em&gt;&lt;/a&gt; -, of which Eugenio is a member of the Scientific Committee. The &lt;em&gt;AC Modélisation&lt;/em&gt; is the network of French epidemic modelers under the umbrella of &lt;a href=&#34;https://anrs.fr/fr/recherche/groupes-animation-scientifique/ac-modelisation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ANRS-MIE&lt;/a&gt; (&lt;a href=&#34;https://www.inserm.fr/en/home/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INSERM&lt;/a&gt; agency for the research on HIV, TB, STI, viral hepatitis and emerging and re-emerging infectious diseases).&lt;/p&gt;
 &lt;p&gt;Claudio will also be presenting a poster.&lt;/p&gt;
 </description>
@@ -386,9 +386,9 @@ EV / The Modelers now provides weekly estimates to Influcast.&lt;/p&gt;
     
     <item>
       <title>Initiative Économie de la Santé de l&#39;Alliance Sorbonne Université</title>
-      <link>http://localhost:1313/tour/grant/2023ecosante/</link>
+      <link>https://www.evmodelers.org/tour/grant/2023ecosante/</link>
       <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tour/grant/2023ecosante/</guid>
+      <guid>https://www.evmodelers.org/tour/grant/2023ecosante/</guid>
       <description>&lt;p&gt;PhD scholarship on health economics.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Nov 2023 - Oct 2026.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Funder&lt;/strong&gt;:&lt;/p&gt;
@@ -400,9 +400,9 @@ EV / The Modelers now provides weekly estimates to Influcast.&lt;/p&gt;
     
     <item>
       <title>MSCA COFUND SOUND.AI Program</title>
-      <link>http://localhost:1313/tour/grant/2023soundai/</link>
+      <link>https://www.evmodelers.org/tour/grant/2023soundai/</link>
       <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tour/grant/2023soundai/</guid>
+      <guid>https://www.evmodelers.org/tour/grant/2023soundai/</guid>
       <description>&lt;p&gt;PhD scholarship on applied AI.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Nov 2023 - Oct 2026.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Funders&lt;/strong&gt;:&lt;/p&gt;
@@ -415,26 +415,26 @@ EV / The Modelers now provides weekly estimates to Influcast.&lt;/p&gt;
     
     <item>
       <title>Climate change and infectious disease epidemics</title>
-      <link>http://localhost:1313/tour/topic/climatechange/</link>
+      <link>https://www.evmodelers.org/tour/topic/climatechange/</link>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tour/topic/climatechange/</guid>
+      <guid>https://www.evmodelers.org/tour/topic/climatechange/</guid>
       <description>&lt;p&gt;In the last decades, the burden of infectious disease on human health has declined, but climate change is now undermining this progress. We may be in a new era of infectious diseases, when climate change increases the frequency and size of epidemics, and impairs public health containment efforts. Calls for action abound, and comprehensive threat assessments exist, some predating the COVID-19 pandemic. But to adapt to this warmer world, we should now turn calls for action into new public health policies that are based on quantitative understanding of the effect that climate change has on each specific disease, and epidemic.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://www.evmodelers.org/contact/</link>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://www.evmodelers.org/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emerging and Re-emerging threats</title>
-      <link>http://localhost:1313/tour/topic/emerging/</link>
+      <link>https://www.evmodelers.org/tour/topic/emerging/</link>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tour/topic/emerging/</guid>
+      <guid>https://www.evmodelers.org/tour/topic/emerging/</guid>
       <description>&lt;p&gt;The landscape of infectious disease epidemics is changing fast.
 The COVID-19 pandemic was proof that new pathogens may emerge and may cause large-scale epidemics with a substantial burden on global welfare: strains of influenza, coronaviruses or multiresistant bacteria are among the most closely surveilled candidates. Much methodological research is needed to prepare us for &lt;em&gt;disease X&lt;/em&gt; - the next pandemic.
 But well-known pathogens are an equally looming threat, as they move and adapt to new geographic areas and communities or re-emerge where they had been eliminated. It is the case, for instance, of mosquito-borne diseases like arboviruses (dengue, chikungunya, Zika) and malaria.&lt;/p&gt;
@@ -449,9 +449,9 @@ But well-known pathogens are an equally looming threat, as they move and adapt t
     
     <item>
       <title>HIV/AIDS</title>
-      <link>http://localhost:1313/tour/topic/hiv/</link>
+      <link>https://www.evmodelers.org/tour/topic/hiv/</link>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tour/topic/hiv/</guid>
+      <guid>https://www.evmodelers.org/tour/topic/hiv/</guid>
       <description>&lt;p&gt;In the decades that followed the start of the epidemic, the progress in the treatment and prevention of the Human Immunodeficiency Virus (HIV) has been substantial. Still, the epidemic is not over. Too many new infections still occur, in specific populations that are at consistently higher risk of acquiring HIV. They are what UNAIDS call &lt;em&gt;key populations&lt;/em&gt; (e.g., sex workers, men-having-sex-with-men). Also, in many countries in sub-Saharan Africa, the epidemic is generalized in the population, with new cases being particularly high among young women.&lt;/p&gt;
 &lt;p&gt;Here, we&lt;/p&gt;
 &lt;ul&gt;
@@ -464,9 +464,9 @@ But well-known pathogens are an equally looming threat, as they move and adapt t
     
     <item>
       <title>Theoretical and methodological research</title>
-      <link>http://localhost:1313/tour/topic/theory/</link>
+      <link>https://www.evmodelers.org/tour/topic/theory/</link>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tour/topic/theory/</guid>
+      <guid>https://www.evmodelers.org/tour/topic/theory/</guid>
       <description>&lt;p&gt;Developing new methodologies is a core mission of this group. This means coming up with new ways to integrate and analyze data from different sources and at different resolutions, and new mathematical models that can make sense of these data to predict epidemic risk and vulnerability, analyze scenarios and evaluate interventions.&lt;/p&gt;
 &lt;p&gt;Here, we use methodologies from&lt;/p&gt;
 &lt;ul&gt;
@@ -486,26 +486,26 @@ But well-known pathogens are an equally looming threat, as they move and adapt t
     
     <item>
       <title>Contributed talk at NetMob</title>
-      <link>http://localhost:1313/event/2023netmob/</link>
+      <link>https://www.evmodelers.org/event/2023netmob/</link>
       <pubDate>Thu, 05 Oct 2023 16:15:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2023netmob/</guid>
+      <guid>https://www.evmodelers.org/event/2023netmob/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome Boxuan!</title>
-      <link>http://localhost:1313/event/2023boxuan/</link>
+      <link>https://www.evmodelers.org/event/2023boxuan/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2023boxuan/</guid>
+      <guid>https://www.evmodelers.org/event/2023boxuan/</guid>
       <description>&lt;p&gt;Boxuan starts his PhD in Epidemiology and public health at our group.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The scales of epidemic modeling</title>
-      <link>http://localhost:1313/event/2023scalesworkshop/</link>
+      <link>https://www.evmodelers.org/event/2023scalesworkshop/</link>
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2023scalesworkshop/</guid>
+      <guid>https://www.evmodelers.org/event/2023scalesworkshop/</guid>
       <description>&lt;p&gt;We are organizing this workshop which is a joint effort of the working groups Mesoscopic Scales of Epidemic Dynamics (coordinated by Eugenio) and Modeling of Within-Host Dynamics of the &lt;a href=&#34;https://anrs.fr/fr/recherche/groupes-animation-scientifique/ac-modelisation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Action Coordonnée Modélisation des maladies infectieuses&lt;/a&gt; of the &lt;a href=&#34;https://anrs.fr/fr/recherche/groupes-animation-scientifique/ac-modelisation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ANRS-MIE&lt;/a&gt; (&lt;a href=&#34;https://www.inserm.fr/en/home/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INSERM&lt;/a&gt; agency for the research on HIV, TB, STI, viral hepatitis and emerging and re-emerging infectious diseases).&lt;/p&gt;
 &lt;p&gt;Our speakers will be Laura Alessandretti, Federico Baldo, Luca Dall&amp;rsquo;Asta, Raluca Eftimie, Raphaël Forien, Simon Gubbins, Jérémie Guedj, Jose Ramasco.&lt;/p&gt;
 &lt;p&gt;Check out the full program program and register for free on the &lt;a href=&#34;https://thescalesofepimodeling.weebly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website of the event&lt;/a&gt;.&lt;/p&gt;
@@ -515,25 +515,25 @@ But well-known pathogens are an equally looming threat, as they move and adapt t
     
     <item>
       <title>The role of migration networks in the development of Botswana&#39;s generalized HIV epidemic</title>
-      <link>http://localhost:1313/publication/23sonthe/</link>
+      <link>https://www.evmodelers.org/publication/23sonthe/</link>
       <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/23sonthe/</guid>
+      <guid>https://www.evmodelers.org/publication/23sonthe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lightning talk at NetSci</title>
-      <link>http://localhost:1313/event/2023netsci/</link>
+      <link>https://www.evmodelers.org/event/2023netsci/</link>
       <pubDate>Thu, 13 Jul 2023 11:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2023netsci/</guid>
+      <guid>https://www.evmodelers.org/event/2023netsci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EpiMob2023 satellite at NetSci 2023</title>
-      <link>http://localhost:1313/event/2023epimob/</link>
+      <link>https://www.evmodelers.org/event/2023epimob/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2023epimob/</guid>
+      <guid>https://www.evmodelers.org/event/2023epimob/</guid>
       <description>&lt;p&gt;We are organizing the second edition of this satellite meeting together with &lt;a href=&#34;https://mattiamazzoli.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mattia Mazzoli&lt;/a&gt; and &lt;a href=&#34;https://www.epicx-lab.com/giulia-pullano.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Giulia Pullano&lt;/a&gt; and &lt;a href=&#34;https://www.epicx-lab.com/chiara-sabbatini.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chiara Sabbatini&lt;/a&gt;. Our keynote speakers will be&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Prof. &lt;a href=&#34;https://deim.urv.cat/~alexandre.arenas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alex Arenas&lt;/a&gt;&lt;/li&gt;
@@ -549,9 +549,9 @@ But well-known pathogens are an equally looming threat, as they move and adapt t
     
     <item>
       <title>Complexity72H</title>
-      <link>http://localhost:1313/event/2023cr7after/</link>
+      <link>https://www.evmodelers.org/event/2023cr7after/</link>
       <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2023cr7after/</guid>
+      <guid>https://www.evmodelers.org/event/2023cr7after/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.complexity72h.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complexity72H&lt;/a&gt; is back after COVID.&lt;/p&gt;
 &lt;p&gt;Complexity72h is an interdisciplinary workshop for young researchers in complex systems. Participants form teams and carry out projects in a three days&amp;rsquo; time, i.e. 72 hours. The goal of each team is to upload on the arXiv (or similar repositories) a report of their work by the end of the event. The editions of 2018 and 2019 were a success: 11 out of 11 projects have become arXiv preprints and new collaborations have been born. The 2020 edition was canceled due to the pandemic. But we are now back for a 2023 edition in Palma (Mallorca, Spain) on June 26-30.&lt;/p&gt;
 </description>
@@ -559,33 +559,33 @@ But well-known pathogens are an equally looming threat, as they move and adapt t
     
     <item>
       <title>Seminar at the University of Lisbon</title>
-      <link>http://localhost:1313/event/2023lasige/</link>
+      <link>https://www.evmodelers.org/event/2023lasige/</link>
       <pubDate>Wed, 19 Apr 2023 14:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/event/2023lasige/</guid>
+      <guid>https://www.evmodelers.org/event/2023lasige/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Attitudes towards booster, testing and isolation, and their impact on COVID-19 response in winter 2022/2023 in France, Belgium, and Italy: a cross-sectional survey and modelling study</title>
-      <link>http://localhost:1313/publication/23dematt/</link>
+      <link>https://www.evmodelers.org/publication/23dematt/</link>
       <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/23dematt/</guid>
+      <guid>https://www.evmodelers.org/publication/23dematt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar at the ISI Foundation</title>
-      <link>http://localhost:1313/event/2023isi/</link>
+      <link>https://www.evmodelers.org/event/2023isi/</link>
       <pubDate>Mon, 09 Jan 2023 11:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/event/2023isi/</guid>
+      <guid>https://www.evmodelers.org/event/2023isi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PhD opportunity - machine learning for public health</title>
-      <link>http://localhost:1313/event/soundai2023/</link>
+      <link>https://www.evmodelers.org/event/soundai2023/</link>
       <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/soundai2023/</guid>
+      <guid>https://www.evmodelers.org/event/soundai2023/</guid>
       <description>&lt;p&gt;Are you interested in applying machine learning to public health? Check our this position, a collaboration between Sorbonne Université and Università di Bologna (Italy).&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://soundai.sorbonne-universite.fr/dl/subjects/s/ff30ae/r/UUjfFIYDQSO6MIJTUPWMyA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;APPLY HERE&lt;/a&gt; until Jan 31, 2023.&lt;/p&gt;
 </description>
@@ -593,9 +593,9 @@ But well-known pathogens are an equally looming threat, as they move and adapt t
     
     <item>
       <title>PHC Pessoa 2023</title>
-      <link>http://localhost:1313/tour/grant/2023pessoa/</link>
+      <link>https://www.evmodelers.org/tour/grant/2023pessoa/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tour/grant/2023pessoa/</guid>
+      <guid>https://www.evmodelers.org/tour/grant/2023pessoa/</guid>
       <description>&lt;p&gt;France-Portugal &lt;em&gt;Hubert-Curien&lt;/em&gt; Partnership with Prof. &lt;a href=&#34;https://andreiasofiateixeira.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sofia Teixeira&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Funders&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
@@ -608,9 +608,9 @@ But well-known pathogens are an equally looming threat, as they move and adapt t
     
     <item>
       <title>Complexity72H is back!</title>
-      <link>http://localhost:1313/event/cr72023/</link>
+      <link>https://www.evmodelers.org/event/cr72023/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/cr72023/</guid>
+      <guid>https://www.evmodelers.org/event/cr72023/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.complexity72h.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complexity72H&lt;/a&gt; is back after COVID.&lt;/p&gt;
 &lt;p&gt;Complexity72h is an interdisciplinary workshop for young researchers in complex systems. Participants form teams and carry out projects in a three days&amp;rsquo; time, i.e. 72 hours. The goal of each team is to upload on the arXiv (or similar repositories) a report of their work by the end of the event. The editions of 2018 and 2019 were a success: 11 out of 11 projects have become arXiv preprints and new collaborations have been born. The 2020 edition was canceled due to the pandemic. But we are now back for a 2023 edition, which will take place in Palma (Mallorca, Spain) on June 26-30.&lt;/p&gt;
 &lt;p&gt;Check our the &lt;em&gt;call for tutors&lt;/em&gt; and the &lt;em&gt;call for applications&lt;/em&gt; on &lt;a href=&#34;https://www.complexity72h.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;our website&lt;/a&gt;!&lt;/p&gt;
@@ -619,91 +619,91 @@ But well-known pathogens are an equally looming threat, as they move and adapt t
     
     <item>
       <title>Use of mobile phone data in HIV epidemic control</title>
-      <link>http://localhost:1313/publication/22valuse/</link>
+      <link>https://www.evmodelers.org/publication/22valuse/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/22valuse/</guid>
+      <guid>https://www.evmodelers.org/publication/22valuse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar at the Central European University</title>
-      <link>http://localhost:1313/event/2022ceu/</link>
+      <link>https://www.evmodelers.org/event/2022ceu/</link>
       <pubDate>Thu, 17 Nov 2022 14:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/event/2022ceu/</guid>
+      <guid>https://www.evmodelers.org/event/2022ceu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Randomized Reference Models for Temporal Networks</title>
-      <link>http://localhost:1313/publication/22gauran/</link>
+      <link>https://www.evmodelers.org/publication/22gauran/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/22gauran/</guid>
+      <guid>https://www.evmodelers.org/publication/22gauran/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People</title>
-      <link>http://localhost:1313/people/</link>
+      <link>https://www.evmodelers.org/people/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/people/</guid>
+      <guid>https://www.evmodelers.org/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contributed talk at CCS</title>
-      <link>http://localhost:1313/event/2022ccs1/</link>
+      <link>https://www.evmodelers.org/event/2022ccs1/</link>
       <pubDate>Mon, 17 Oct 2022 10:45:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2022ccs1/</guid>
+      <guid>https://www.evmodelers.org/event/2022ccs1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contributed talk at CCS</title>
-      <link>http://localhost:1313/event/2022ccs2/</link>
+      <link>https://www.evmodelers.org/event/2022ccs2/</link>
       <pubDate>Mon, 17 Oct 2022 10:45:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2022ccs2/</guid>
+      <guid>https://www.evmodelers.org/event/2022ccs2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Keynote talk at Complex Systems for the Most Vulnerable</title>
-      <link>http://localhost:1313/event/2022cs4v/</link>
+      <link>https://www.evmodelers.org/event/2022cs4v/</link>
       <pubDate>Mon, 17 Oct 2022 10:45:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2022cs4v/</guid>
+      <guid>https://www.evmodelers.org/event/2022cs4v/</guid>
       <description>&lt;p&gt;I will be a keynote speaker at this satellite. I will address how data-rich mathematical modeling may help to unveil inequalities, and improve the welfare of those  who are most vulnerable to, and burdened by, infectious disease epidemics.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Welcome Claudio!</title>
-      <link>http://localhost:1313/event/2022claudio/</link>
+      <link>https://www.evmodelers.org/event/2022claudio/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2022claudio/</guid>
+      <guid>https://www.evmodelers.org/event/2022claudio/</guid>
       <description>&lt;p&gt;Claudio starts his PhD in Epidemiology and public health at our group.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Talk at Pasteur Institute</title>
-      <link>http://localhost:1313/event/2022sammba/</link>
+      <link>https://www.evmodelers.org/event/2022sammba/</link>
       <pubDate>Wed, 14 Sep 2022 12:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/event/2022sammba/</guid>
+      <guid>https://www.evmodelers.org/event/2022sammba/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lecture at IFISC Summer School</title>
-      <link>http://localhost:1313/event/2022palma/</link>
+      <link>https://www.evmodelers.org/event/2022palma/</link>
       <pubDate>Mon, 05 Sep 2022 10:45:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2022palma/</guid>
+      <guid>https://www.evmodelers.org/event/2022palma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EpiMob Satellite @ NetSci2022</title>
-      <link>http://localhost:1313/event/2022epimob/</link>
+      <link>https://www.evmodelers.org/event/2022epimob/</link>
       <pubDate>Mon, 11 Jul 2022 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2022epimob/</guid>
+      <guid>https://www.evmodelers.org/event/2022epimob/</guid>
       <description>&lt;p&gt;I am organizing this satellite meeting together with &lt;a href=&#34;https://mattiamazzoli.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mattia Mazzoli&lt;/a&gt; and &lt;a href=&#34;https://www.epicx-lab.com/giulia-pullano.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Giulia Pullano&lt;/a&gt;. Our keynote speakers will be&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Prof. &lt;a href=&#34;https://sbansal.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shweta Bansal&lt;/a&gt;&lt;/li&gt;
@@ -719,25 +719,25 @@ But well-known pathogens are an equally looming threat, as they move and adapt t
     
     <item>
       <title>Contributed talk at BIFI International Conference</title>
-      <link>http://localhost:1313/event/2022bifi/</link>
+      <link>https://www.evmodelers.org/event/2022bifi/</link>
       <pubDate>Tue, 07 Jun 2022 14:55:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2022bifi/</guid>
+      <guid>https://www.evmodelers.org/event/2022bifi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Non-selective distribution of infectious disease prevention may outperform risk-based targeting</title>
-      <link>http://localhost:1313/publication/22stenon/</link>
+      <link>https://www.evmodelers.org/publication/22stenon/</link>
       <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/22stenon/</guid>
+      <guid>https://www.evmodelers.org/publication/22stenon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EpiMob2022 satellite at NetSci on Jul 11, 2022</title>
-      <link>http://localhost:1313/event/epimob2022/</link>
+      <link>https://www.evmodelers.org/event/epimob2022/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/epimob2022/</guid>
+      <guid>https://www.evmodelers.org/event/epimob2022/</guid>
       <description>&lt;p&gt;I am organizing this satellite meeting together with &lt;a href=&#34;https://mattiamazzoli.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mattia Mazzoli&lt;/a&gt; and &lt;a href=&#34;https://www.epicx-lab.com/giulia-pullano.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Giulia Pullano&lt;/a&gt;. Our keynote speakers will be&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Prof. &lt;a href=&#34;https://sbansal.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shweta Bansal&lt;/a&gt;&lt;/li&gt;
@@ -753,252 +753,252 @@ But well-known pathogens are an equally looming threat, as they move and adapt t
     
     <item>
       <title>Lecture at Qlife</title>
-      <link>http://localhost:1313/event/2022qlife/</link>
+      <link>https://www.evmodelers.org/event/2022qlife/</link>
       <pubDate>Fri, 25 Mar 2022 10:45:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2022qlife/</guid>
+      <guid>https://www.evmodelers.org/event/2022qlife/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting the transmission of SARS-CoV-2 in Africa: the case of Namibia</title>
-      <link>http://localhost:1313/publication/22okapre/</link>
+      <link>https://www.evmodelers.org/publication/22okapre/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/22okapre/</guid>
+      <guid>https://www.evmodelers.org/publication/22okapre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lecture at NetSciX</title>
-      <link>http://localhost:1313/event/2022netscix/</link>
+      <link>https://www.evmodelers.org/event/2022netscix/</link>
       <pubDate>Tue, 08 Feb 2022 09:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/2022netscix/</guid>
+      <guid>https://www.evmodelers.org/event/2022netscix/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The potential impact of country-level migration networks on HIV epidemics in sub-Saharan Africa: the case of Botswana</title>
-      <link>http://localhost:1313/publication/21okapot/</link>
+      <link>https://www.evmodelers.org/publication/21okapot/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/21okapot/</guid>
+      <guid>https://www.evmodelers.org/publication/21okapot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ignoring spatial heterogeneity in drivers of SARS-CoV-2 transmission in the US will impede sustained elimination</title>
-      <link>http://localhost:1313/publication/21susign/</link>
+      <link>https://www.evmodelers.org/publication/21susign/</link>
       <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/21susign/</guid>
+      <guid>https://www.evmodelers.org/publication/21susign/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effect of delayed awareness and fatigue on the efficacy of self-isolation in epidemic control</title>
-      <link>http://localhost:1313/publication/21demeieff/</link>
+      <link>https://www.evmodelers.org/publication/21demeieff/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/21demeieff/</guid>
+      <guid>https://www.evmodelers.org/publication/21demeieff/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projecting the COVID-19 epidemic risk in France for the summer 2021</title>
-      <link>http://localhost:1313/publication/21mazpro/</link>
+      <link>https://www.evmodelers.org/publication/21mazpro/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/21mazpro/</guid>
+      <guid>https://www.evmodelers.org/publication/21mazpro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using mobile phone data to reveal risk flow networks underlying the HIV epidemic in Namibia</title>
-      <link>http://localhost:1313/publication/21valusi/</link>
+      <link>https://www.evmodelers.org/publication/21valusi/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/21valusi/</guid>
+      <guid>https://www.evmodelers.org/publication/21valusi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Highlighting socio-economic constraints on mobility reductions during COVID-19 restrictions in France can inform effective and equitable pandemic response</title>
-      <link>http://localhost:1313/publication/21valhig/</link>
+      <link>https://www.evmodelers.org/publication/21valhig/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/21valhig/</guid>
+      <guid>https://www.evmodelers.org/publication/21valhig/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reorganization of nurse scheduling reduces the risk of healthcare associated infections</title>
-      <link>http://localhost:1313/publication/21valreo/</link>
+      <link>https://www.evmodelers.org/publication/21valreo/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/21valreo/</guid>
+      <guid>https://www.evmodelers.org/publication/21valreo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Underdetection of cases of COVID-19 in France threatens epidemic control</title>
-      <link>http://localhost:1313/publication/21pulund/</link>
+      <link>https://www.evmodelers.org/publication/21pulund/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/21pulund/</guid>
+      <guid>https://www.evmodelers.org/publication/21pulund/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluating the effect of demographic factors, socioeconomic factors, and risk aversion on mobility during the COVID-19 epidemic in France under lockdown: a population-based study</title>
-      <link>http://localhost:1313/publication/20puleva/</link>
+      <link>https://www.evmodelers.org/publication/20puleva/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/20puleva/</guid>
+      <guid>https://www.evmodelers.org/publication/20puleva/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tracing and analysis of 288 early SARS-CoV-2 infections outside China: A modeling study</title>
-      <link>http://localhost:1313/publication/20pintra/</link>
+      <link>https://www.evmodelers.org/publication/20pintra/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/20pintra/</guid>
+      <guid>https://www.evmodelers.org/publication/20pintra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HIV transmission and source–sink dynamics in sub-Saharan Africa</title>
-      <link>http://localhost:1313/publication/20okahiv/</link>
+      <link>https://www.evmodelers.org/publication/20okahiv/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/20okahiv/</guid>
+      <guid>https://www.evmodelers.org/publication/20okahiv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Preparedness and vulnerability of African countries against importations of COVID-19: a modelling study</title>
-      <link>http://localhost:1313/publication/20gilpre/</link>
+      <link>https://www.evmodelers.org/publication/20gilpre/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/20gilpre/</guid>
+      <guid>https://www.evmodelers.org/publication/20gilpre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Novel coronavirus (2019-nCoV) early-stage importation risk to Europe, January 2020</title>
-      <link>http://localhost:1313/publication/20pulnov/</link>
+      <link>https://www.evmodelers.org/publication/20pulnov/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/20pulnov/</guid>
+      <guid>https://www.evmodelers.org/publication/20pulnov/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Universal Testing and Treatment for HIV Infection in Botswana</title>
-      <link>http://localhost:1313/publication/19valuni/</link>
+      <link>https://www.evmodelers.org/publication/19valuni/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/19valuni/</guid>
+      <guid>https://www.evmodelers.org/publication/19valuni/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exact Rank Reduction of Network Models</title>
-      <link>http://localhost:1313/publication/19valexa/</link>
+      <link>https://www.evmodelers.org/publication/19valexa/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/19valexa/</guid>
+      <guid>https://www.evmodelers.org/publication/19valexa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamics of new strain emergence on a temporal network</title>
-      <link>http://localhost:1313/publication/18chadyn/</link>
+      <link>https://www.evmodelers.org/publication/18chadyn/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/18chadyn/</guid>
+      <guid>https://www.evmodelers.org/publication/18chadyn/</guid>
       <description>&lt;p&gt;Report of the project completed in 72 hours during the workshop &lt;a href=&#34;https://complexity72h.weebly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complexity72h&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Evaluating the impact of PrEP on HIV and gonorrhea on a networked population of female sex workers</title>
-      <link>http://localhost:1313/publication/19bereva/</link>
+      <link>https://www.evmodelers.org/publication/19bereva/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/19bereva/</guid>
+      <guid>https://www.evmodelers.org/publication/19bereva/</guid>
       <description>&lt;p&gt;Report of the project completed in 72 hours during the workshop &lt;a href=&#34;https://complexity72h.weebly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complexity72h&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Farm productive contexts and the dynamics of bovine viral diarrhea (BVD) transmission</title>
-      <link>http://localhost:1313/publication/19iotfar/</link>
+      <link>https://www.evmodelers.org/publication/19iotfar/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/19iotfar/</guid>
+      <guid>https://www.evmodelers.org/publication/19iotfar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Endemicity and prevalence of multipartite viruses under heterogeneous between-host transmission</title>
-      <link>http://localhost:1313/publication/19valend/</link>
+      <link>https://www.evmodelers.org/publication/19valend/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/19valend/</guid>
+      <guid>https://www.evmodelers.org/publication/19valend/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disease persistence on temporal contact networks accounting for heterogeneous infectious periods</title>
-      <link>http://localhost:1313/publication/19dardis/</link>
+      <link>https://www.evmodelers.org/publication/19dardis/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/19dardis/</guid>
+      <guid>https://www.evmodelers.org/publication/19dardis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Network-based assessment of the vulnerability of Italian regions to bovine brucellosis</title>
-      <link>http://localhost:1313/publication/18darnetbas/</link>
+      <link>https://www.evmodelers.org/publication/18darnetbas/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/18darnetbas/</guid>
+      <guid>https://www.evmodelers.org/publication/18darnetbas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epidemic Threshold in Continuous-Time Evolving Networks</title>
-      <link>http://localhost:1313/publication/18valepi/</link>
+      <link>https://www.evmodelers.org/publication/18valepi/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/18valepi/</guid>
+      <guid>https://www.evmodelers.org/publication/18valepi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impact of spatially constrained sampling of temporal contact networks on the evaluation of the epidemic risk</title>
-      <link>http://localhost:1313/publication/16vesimp/</link>
+      <link>https://www.evmodelers.org/publication/16vesimp/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/16vesimp/</guid>
+      <guid>https://www.evmodelers.org/publication/16vesimp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Infection propagator approach to compute epidemic thresholds on temporal networks: impact of immunity and of limited temporal resolution</title>
-      <link>http://localhost:1313/publication/15valinf/</link>
+      <link>https://www.evmodelers.org/publication/15valinf/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/15valinf/</guid>
+      <guid>https://www.evmodelers.org/publication/15valinf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analytical Computation of the Epidemic Threshold on Temporal Networks</title>
-      <link>http://localhost:1313/publication/15valana/</link>
+      <link>https://www.evmodelers.org/publication/15valana/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/15valana/</guid>
+      <guid>https://www.evmodelers.org/publication/15valana/</guid>
       <description>&lt;p&gt;This paper was &lt;a href=&#34;http://physics.aps.org/synopsis-for/10.1103/PhysRevX.5.021005&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;highlighted in Physics&lt;/a&gt;. An article about this study appeared on the &lt;a href=&#34;https://psmag.com/social-justice/fighting-epidemics-with-math&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pacific Standard&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Predicting Epidemic Risk from Past Temporal Contact Data</title>
-      <link>http://localhost:1313/publication/15valpre/</link>
+      <link>https://www.evmodelers.org/publication/15valpre/</link>
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/15valpre/</guid>
+      <guid>https://www.evmodelers.org/publication/15valpre/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/admin/config.yml</link>
+      <link>https://www.evmodelers.org/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/admin/config.yml</guid>
+      <guid>https://www.evmodelers.org/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title>SIESTA (Secure Interactive Environments for SensiTive Data Analytics)</title>
-      <link>http://localhost:1313/tour/grant/2024siesta/</link>
+      <link>https://www.evmodelers.org/tour/grant/2024siesta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tour/grant/2024siesta/</guid>
+      <guid>https://www.evmodelers.org/tour/grant/2024siesta/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funder&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Horizon Europe funding program, European Commission.&lt;/li&gt;

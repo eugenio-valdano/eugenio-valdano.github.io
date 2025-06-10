@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: March 6, 2025 --><html lang="en-us" >
+<!-- Last Published: June 10, 2025 --><html lang="en-us" >
 
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -62,7 +62,7 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
 
   
   
@@ -206,7 +206,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.a4a95e91beadd8d8fdea7bcad1648cc2.css" />
 
   
   
@@ -230,6 +230,45 @@
 
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GN7819VS9V"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-GN7819VS9V', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
@@ -275,8 +314,8 @@
 
 
 
-<link rel="alternate" hreflang="en-us" href="http://localhost:1313/author/eugenio-valdano/" />
-<link rel="canonical" href="http://localhost:1313/author/eugenio-valdano/" />
+<link rel="alternate" hreflang="en-us" href="https://www.evmodelers.org/author/eugenio-valdano/" />
+<link rel="canonical" href="https://www.evmodelers.org/author/eugenio-valdano/" />
 
 
 
@@ -311,7 +350,7 @@
 
   <meta property="twitter:site" content="@eugeValdano" />
   <meta property="twitter:creator" content="@eugeValdano" />
-<meta property="twitter:image" content="http://localhost:1313/author/eugenio-valdano/avatar_hu7b5e85f8fa66ebfad52af723223f98f5_2753784_270x270_fill_lanczos_center_3.png" />
+<meta property="twitter:image" content="https://www.evmodelers.org/author/eugenio-valdano/avatar_hu7b5e85f8fa66ebfad52af723223f98f5_2753784_270x270_fill_lanczos_center_3.png" />
 
 
 
@@ -319,12 +358,12 @@
 
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="EV / The modelers" />
-<meta property="og:url" content="http://localhost:1313/author/eugenio-valdano/" />
+<meta property="og:url" content="https://www.evmodelers.org/author/eugenio-valdano/" />
 <meta property="og:title" content="Eugenio Valdano | EV / The modelers" />
-<meta property="og:description" content="Website of the scientific group EV / The Modelers." /><meta property="og:image" content="http://localhost:1313/author/eugenio-valdano/avatar_hu7b5e85f8fa66ebfad52af723223f98f5_2753784_270x270_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="Website of the scientific group EV / The Modelers." /><meta property="og:image" content="https://www.evmodelers.org/author/eugenio-valdano/avatar_hu7b5e85f8fa66ebfad52af723223f98f5_2753784_270x270_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
 
   
-    <meta property="og:updated_time" content="2025-03-01T00:00:00&#43;00:00" />
+    <meta property="og:updated_time" content="2025-06-06T00:00:00&#43;00:00" />
   
 
 
@@ -380,7 +419,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.4fef3e534144e9903491f0cc6527eccd.js"></script>
 
   
 
@@ -834,7 +873,7 @@
     
 
     <div class="article-style">
-      <p>Eugenio is a tenured researcher at the <a href="https://www.inserm.fr/" target="_blank" rel="noopener">French National Institute of Health and Medical Research (INSERM)</a>. He is part of the <a href="https://iplesp.fr/en" target="_blank" rel="noopener">Pierre Louis Institute of Epidemiology and Public Health (IPLESP)</a>, attached to <a href="https://www.inserm.fr/" target="_blank" rel="noopener">INSERM</a> and the Faculty of Health of <a href="https://www.sorbonne-universite.fr/en" target="_blank" rel="noopener">Sorbonne Université</a>, in Paris, France.</p>
+      <p>Eugenio is a tenured researcher at the <a href="https://www.inserm.fr/" target="_blank" rel="noopener">French National Institute of Health and Medical Research (INSERM)</a>. He is part of the Sorbonne Outbreaks Modeling Center (SUMOC) and the <a href="https://iplesp.fr/en" target="_blank" rel="noopener">Pierre Louis Institute of Epidemiology and Public Health (IPLESP)</a>, attached to <a href="https://www.inserm.fr/" target="_blank" rel="noopener">INSERM</a> and the Faculty of Health of <a href="https://www.sorbonne-universite.fr/en" target="_blank" rel="noopener">Sorbonne Université</a>, in Paris, France.</p>
 <p>Eugenio is an infectious disease epidemiologist with a background in theoretical physics. He develops data-rich mathematical models to study how infectious disease spread, in human and animal populations. Patterns of human mobility and mixing influence the likelihood of epidemic outbreaks, drive their evolution, and determine the condition for disease containment and elimination. Eugenio design theoretical models to combine data on human behavior and epidemiological data to understand epidemics, make scenarios, help guide public health interventions.</p>
 <h1 id="education">Education</h1>
 <ul>
@@ -896,6 +935,10 @@
       <ul>
         
         <li>
+          <a href="/publication/25aschow/">How floods may affect the spatial spread of respiratory pathogens: the case of Emilia-Romagna, Italy in May 2023</a>
+        </li>
+        
+        <li>
           <a href="/publication/25fiacol/">Collaborative forecasting of influenza-like illness in Italy: the Influcast experience</a>
         </li>
         
@@ -929,10 +972,6 @@
         
         <li>
           <a href="/event/2024c72htutor/">Complexity72h 2025 - call for tutors</a>
-        </li>
-        
-        <li>
-          <a href="/publication/24aschow/">How floods may affect the spatial spread of respiratory pathogens: the case of Emilia-Romagna, Italy in May 2023</a>
         </li>
         
         <li>
@@ -1314,7 +1353,7 @@
   
 
 
-<script src="/js/vendor-bundle.min.js"></script>
+<script src="/js/vendor-bundle.min.b2240102cb8b24bcbe037562ce2ea60a.js"></script>
 
 
 
@@ -1395,7 +1434,7 @@
 <script id="page-data" type="application/json">{"use_headroom":true}</script>
 
 
-  <script src="/js/wowchemy-headroom.js" type="module"></script>
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
 
 
 
@@ -1409,11 +1448,11 @@
   
 
 
-<script src="/en/js/wowchemy.min.js"></script>
+<script src="/en/js/wowchemy.min.7f5ebaff62ae468cff8bb3dd1337bb9b.js"></script>
 
 
 
-  <script src="/js/wowchemy-map.js" type="module"></script>
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
 
 
 
@@ -1446,7 +1485,7 @@
 </div>
 
 
-  <script src="/js/wowchemy-publication.js" type="module"></script>
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
 
 
 

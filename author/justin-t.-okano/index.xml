@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Justin T. Okano | EV / The modelers</title>
-    <link>http://localhost:1313/author/justin-t.-okano/</link>
-      <atom:link href="http://localhost:1313/author/justin-t.-okano/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.evmodelers.org/author/justin-t.-okano/</link>
+      <atom:link href="https://www.evmodelers.org/author/justin-t.-okano/index.xml" rel="self" type="application/rss+xml" />
     <description>Justin T. Okano</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Justin T. Okano</title>
-      <link>http://localhost:1313/author/justin-t.-okano/</link>
+      <link>https://www.evmodelers.org/author/justin-t.-okano/</link>
     </image>
     
     <item>
       <title>Use of mobile phone data in HIV epidemic control</title>
-      <link>http://localhost:1313/publication/22valuse/</link>
+      <link>https://www.evmodelers.org/publication/22valuse/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/22valuse/</guid>
+      <guid>https://www.evmodelers.org/publication/22valuse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using mobile phone data to reveal risk flow networks underlying the HIV epidemic in Namibia</title>
-      <link>http://localhost:1313/publication/21valusi/</link>
+      <link>https://www.evmodelers.org/publication/21valusi/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/21valusi/</guid>
+      <guid>https://www.evmodelers.org/publication/21valusi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HIV transmission and source–sink dynamics in sub-Saharan Africa</title>
-      <link>http://localhost:1313/publication/20okahiv/</link>
+      <link>https://www.evmodelers.org/publication/20okahiv/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/20okahiv/</guid>
+      <guid>https://www.evmodelers.org/publication/20okahiv/</guid>
       <description></description>
     </item>
     

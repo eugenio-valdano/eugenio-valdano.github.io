@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Announcement | EV / The modelers</title>
-    <link>http://localhost:1313/category/announcement/</link>
-      <atom:link href="http://localhost:1313/category/announcement/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.evmodelers.org/category/announcement/</link>
+      <atom:link href="https://www.evmodelers.org/category/announcement/index.xml" rel="self" type="application/rss+xml" />
     <description>Announcement</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Announcement</title>
-      <link>http://localhost:1313/category/announcement/</link>
+      <link>https://www.evmodelers.org/category/announcement/</link>
     </image>
     
     <item>
       <title>PhD opportunity - machine learning for public health</title>
-      <link>http://localhost:1313/event/soundai2023/</link>
+      <link>https://www.evmodelers.org/event/soundai2023/</link>
       <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/soundai2023/</guid>
+      <guid>https://www.evmodelers.org/event/soundai2023/</guid>
       <description>&lt;p&gt;Are you interested in applying machine learning to public health? Check our this position, a collaboration between Sorbonne Université and Università di Bologna (Italy).&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://soundai.sorbonne-universite.fr/dl/subjects/s/ff30ae/r/UUjfFIYDQSO6MIJTUPWMyA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;APPLY HERE&lt;/a&gt; until Jan 31, 2023.&lt;/p&gt;
 </description>
