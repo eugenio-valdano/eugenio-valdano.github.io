@@ -68,6 +68,15 @@
     </item>
     
     <item>
+      <title>New grant funded! DiscoReel</title>
+      <link>https://www.evmodelers.org/event/2025discoreel/</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2025discoreel/</guid>
+      <description>&lt;p&gt;The French National Research Agency &lt;a href=&#34;https://anr.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ANR&lt;/a&gt; has just selected and will fund our grant &lt;strong&gt;DiscoReel&lt;/strong&gt;, under the funding scheme &lt;em&gt;Jeunes Chercheuses et Jeunes Chercheurs (JCJC)&lt;/em&gt;. It will last for 3 years and allow us to recruit a computer scientists. Stay tuned for job postings soon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Disruption of outdoor activities caused by wildfires increases disease circulation</title>
       <link>https://www.evmodelers.org/publication/25arrdis/</link>
       <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
@@ -390,6 +399,15 @@ EV / The Modelers now provides weekly estimates to Influcast.&lt;/p&gt;
 &lt;li&gt;our &lt;a href=&#34;https://complexity72h.com/projects/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tutors&lt;/a&gt; and the &lt;a href=&#34;https://complexity72h.com/projects/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;projects&lt;/a&gt; they are proposing&lt;/li&gt;
 &lt;li&gt;the instructions on &lt;a href=&#34;https://complexity72h.com/call-for-participants/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;how to apply&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SIESTA</title>
+      <link>https://www.evmodelers.org/tour/grant/2024siesta/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/tour/grant/2024siesta/</guid>
+      <description>&lt;p&gt;SIESTA (Secure Interactive Environments for SensiTive Data Analytics) receives funding from the European Union&amp;rsquo;s Horizon Europe research and innovation programme under &lt;a href=&#34;https://cordis.europa.eu/project/id/101131957&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;grant agreement No. 101131957&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -1047,18 +1065,6 @@ But well-known pathogens are an equally looming threat, as they move and adapt t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.evmodelers.org/admin/config.yml</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>SIESTA (Secure Interactive Environments for SensiTive Data Analytics)</title>
-      <link>https://www.evmodelers.org/tour/grant/2024siesta/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/tour/grant/2024siesta/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Funder&lt;/strong&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Horizon Europe funding program, European Commission.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     
   </channel>

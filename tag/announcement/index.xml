@@ -5,12 +5,21 @@
     <link>https://www.evmodelers.org/tag/announcement/</link>
       <atom:link href="https://www.evmodelers.org/tag/announcement/index.xml" rel="self" type="application/rss+xml" />
     <description>Announcement</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Announcement</title>
       <link>https://www.evmodelers.org/tag/announcement/</link>
     </image>
+    
+    <item>
+      <title>New grant funded! DiscoReel</title>
+      <link>https://www.evmodelers.org/event/2025discoreel/</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2025discoreel/</guid>
+      <description>&lt;p&gt;The French National Research Agency &lt;a href=&#34;https://anr.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ANR&lt;/a&gt; has just selected and will fund our grant &lt;strong&gt;DiscoReel&lt;/strong&gt;, under the funding scheme &lt;em&gt;Jeunes Chercheuses et Jeunes Chercheurs (JCJC)&lt;/em&gt;. It will last for 3 years and allow us to recruit a computer scientists. Stay tuned for job postings soon!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Complexity72h 2025 - call for tutors</title>
