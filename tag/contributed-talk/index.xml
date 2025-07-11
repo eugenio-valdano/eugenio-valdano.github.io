@@ -5,7 +5,7 @@
     <link>https://www.evmodelers.org/tag/contributed-talk/</link>
       <atom:link href="https://www.evmodelers.org/tag/contributed-talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Contributed Talk</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Contributed Talk</title>
@@ -13,11 +13,47 @@
     </image>
     
     <item>
+      <title>International Conference on Complex Systems (CCS)</title>
+      <link>https://www.evmodelers.org/event/2025ccs/</link>
+      <pubDate>Mon, 01 Sep 2025 09:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2025ccs/</guid>
+      <description>&lt;p&gt;Eugenio is invited speaker at the main conference, Suprabhath will give a contributed talk in the epidemic modeling track.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Complex Networks - a satellite of StatPhys29</title>
+      <link>https://www.evmodelers.org/event/2025venice/</link>
+      <pubDate>Mon, 21 Jul 2025 09:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2025venice/</guid>
+      <description>&lt;p&gt;Eugenio is invited speaker and Claudio will give a contributed talk at the International Workshop on Complex Networks, a satellite event to &lt;a href=&#34;https://statphys29.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;StatPhys29&lt;/a&gt;, the leading international conference in statistical physics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>PrEP policies in the EU: poster at ESCAIDE &#43; talk at ECOSOCEPI</title>
       <link>https://www.evmodelers.org/event/2024escaide/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://www.evmodelers.org/event/2024escaide/</guid>
       <description>&lt;p&gt;A new study assessing PrEP policies across countries in the European Union will soon be out. In the meantime, Boxuan presenting a poster at the ESCAIDE - the European conference on applied epidemiology. At the same time, our collaborator &lt;a href=&#34;https://andreiasofiateixeira.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sofia Teixeira&lt;/a&gt; is giving the talk at the &lt;a href=&#34;https://ecosocepi.weebly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECOSOCEPI workshop&lt;/a&gt; at &lt;a href=&#34;https://www.isi.it&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISI Foundation&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eugenio presenting at ISI Foundation</title>
+      <link>https://www.evmodelers.org/event/2024isiworkshop/</link>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2024isiworkshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boxuan, Claudio Eugenio &amp; Suprabhath presenting</title>
+      <link>https://www.evmodelers.org/event/2024acmod/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2024acmod/</guid>
+      <description>&lt;p&gt;We are at the Scientific Days of the &lt;a href=&#34;https://anrs.fr/en/scientific-research/scientific-animation-groups/ca-modelling-of-infectious-diseases-ca-49/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coordinated Action &amp;ldquo;Modelling of Infectious Diseases&amp;rdquo;&lt;/a&gt; of &lt;a href=&#34;https://anrs.fr/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ANRS-MIE&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This year we are at &lt;a href=&#34;https://www.ehesp.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EHESP&lt;/a&gt; in Rennes.&lt;/p&gt;
 </description>
     </item>
     

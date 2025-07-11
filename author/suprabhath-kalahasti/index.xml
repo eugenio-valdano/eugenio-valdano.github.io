@@ -5,7 +5,7 @@
     <link>https://www.evmodelers.org/author/suprabhath-kalahasti/</link>
       <atom:link href="https://www.evmodelers.org/author/suprabhath-kalahasti/index.xml" rel="self" type="application/rss+xml" />
     <description>Suprabhath Kalahasti</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.evmodelers.org/author/suprabhath-kalahasti/avatar_hu9d1c961de3da9d1c7fb2e6489a15e0b1_88267_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Suprabhath Kalahasti</title>
@@ -13,20 +13,38 @@
     </image>
     
     <item>
-      <title>Foundation time series models for forecasting and policy evaluation in infectious disease epidemics</title>
-      <link>https://www.evmodelers.org/publication/25kalfou/</link>
-      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/publication/25kalfou/</guid>
-      <description></description>
+      <title>International Conference on Complex Systems (CCS)</title>
+      <link>https://www.evmodelers.org/event/2025ccs/</link>
+      <pubDate>Mon, 01 Sep 2025 09:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2025ccs/</guid>
+      <description>&lt;p&gt;Eugenio is invited speaker at the main conference, Suprabhath will give a contributed talk in the epidemic modeling track.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Suprabhath Kalahasti</title>
       <link>https://www.evmodelers.org/author/suprabhath-kalahasti/</link>
-      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 09:00:00 +0000</pubDate>
       <guid>https://www.evmodelers.org/author/suprabhath-kalahasti/</guid>
       <description>&lt;p&gt;Suprabhath is a PhD student in Public Health at Sorbonne Université and the Pierre Louis Institute of Epidemiology and Public Health (IPLESP). His research is focused on improving the knowledge and predictability of seasonal epidemic waves of airborne, directly transmitted pathogens by developing mathematical models using AI/ML techniques to inform public health decision making.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Foundation Models for Structured Data @ ICML</title>
+      <link>https://www.evmodelers.org/event/2025icml/</link>
+      <pubDate>Fri, 18 Jul 2025 09:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2025icml/</guid>
+      <description>&lt;p&gt;We will be a poster on our work on using foundation models for time series to model epidemics, at the workshop on Foundation Models for Structured Data of the International Conference on Machine Learning (ICML).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Foundation time series models for forecasting and policy evaluation in infectious disease epidemics</title>
+      <link>https://www.evmodelers.org/publication/25kalfou/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/publication/25kalfou/</guid>
+      <description></description>
     </item>
     
     <item>

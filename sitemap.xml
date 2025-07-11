@@ -2,6 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.evmodelers.org/authors/</loc>
+    <lastmod>2025-09-08T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/tag/dissemination/</loc>
+    <lastmod>2025-09-08T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/author/eugenio-valdano/</loc>
+    <lastmod>2025-09-08T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/tag/keynote-talk-/-seminar/</loc>
+    <lastmod>2025-09-08T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/event/</loc>
+    <lastmod>2025-09-08T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/tags/</loc>
+    <lastmod>2025-09-08T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/event/2025acat/</loc>
+    <lastmod>2025-09-08T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/event/2025besafe/</loc>
+    <lastmod>2025-09-04T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/author/boxuan-wang-%E7%8E%8B%E5%8D%9A%E7%8E%84/</loc>
+    <lastmod>2025-09-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/event/2025epinext/</loc>
+    <lastmod>2025-09-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/tag/event/</loc>
+    <lastmod>2025-09-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/tag/contributed-talk/</loc>
+    <lastmod>2025-09-01T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/event/2025ccs/</loc>
+    <lastmod>2025-09-01T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/author/suprabhath-kalahasti/</loc>
+    <lastmod>2025-09-01T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/author/claudio-ascione/</loc>
+    <lastmod>2025-07-21T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/event/2025venice/</loc>
+    <lastmod>2025-07-21T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/event/2025icml/</loc>
+    <lastmod>2025-07-18T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/tag/poster/</loc>
+    <lastmod>2025-07-18T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://www.evmodelers.org/author/arianna-pera/</loc>
     <lastmod>2025-06-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -10,19 +82,7 @@
     <lastmod>2025-06-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.evmodelers.org/authors/</loc>
-    <lastmod>2025-06-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.evmodelers.org/author/beatriz-arregui-garcia/</loc>
-    <lastmod>2025-06-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/author/boxuan-wang-%E7%8E%8B%E5%8D%9A%E7%8E%84/</loc>
-    <lastmod>2025-06-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/author/claudio-ascione/</loc>
     <lastmod>2025-06-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -35,10 +95,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.evmodelers.org/publication/25arrdis/</loc>
-    <lastmod>2025-06-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/author/eugenio-valdano/</loc>
     <lastmod>2025-06-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -182,27 +238,11 @@
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.evmodelers.org/author/suprabhath-kalahasti/</loc>
-    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/tags/</loc>
-    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.evmodelers.org/author/titouan-launay/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.evmodelers.org/tag/dissemination/</loc>
-    <lastmod>2025-02-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.evmodelers.org/event/2025metaeu/</loc>
-    <lastmod>2025-02-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/event/</loc>
     <lastmod>2025-02-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -230,14 +270,6 @@
     <lastmod>2025-01-28T12:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.evmodelers.org/tag/contributed-talk/</loc>
-    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/tag/poster/</loc>
-    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.evmodelers.org/event/2024escaide/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -247,10 +279,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.evmodelers.org/event/2024acmod/</loc>
-    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/tag/event/</loc>
     <lastmod>2024-11-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -488,10 +516,6 @@
   </url><url>
     <loc>https://www.evmodelers.org/event/2023cr7after/</loc>
     <lastmod>2023-06-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/tag/keynote-talk-/-seminar/</loc>
-    <lastmod>2023-04-19T14:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.evmodelers.org/event/2023lasige/</loc>

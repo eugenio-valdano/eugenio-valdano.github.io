@@ -5,7 +5,7 @@
     <link>https://www.evmodelers.org/tag/event/</link>
       <atom:link href="https://www.evmodelers.org/tag/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Event</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Event</title>
@@ -13,12 +13,12 @@
     </image>
     
     <item>
-      <title>Boxuan, Claudio Eugenio &amp; Suprabhath presenting</title>
-      <link>https://www.evmodelers.org/event/2024acmod/</link>
-      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/event/2024acmod/</guid>
-      <description>&lt;p&gt;We are at the Scientific Days of the &lt;a href=&#34;https://anrs.fr/en/scientific-research/scientific-animation-groups/ca-modelling-of-infectious-diseases-ca-49/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coordinated Action &amp;ldquo;Modelling of Infectious Diseases&amp;rdquo;&lt;/a&gt; of &lt;a href=&#34;https://anrs.fr/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ANRS-MIE&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;This year we are at &lt;a href=&#34;https://www.ehesp.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EHESP&lt;/a&gt; in Rennes.&lt;/p&gt;
+      <title>epiNEXT satellite meeting of CCS 2025</title>
+      <link>https://www.evmodelers.org/event/2025epinext/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2025epinext/</guid>
+      <description>&lt;p&gt;We are organizing the second edition of the workshop epiNEXT: ​Next-gen Methods for Data-Rich Epidemic Models - a satellite meeting of the &lt;a href=&#34;https://ccs25.cssociety.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conference on Complex Systems CCS 2025&lt;/a&gt;. epiNEXT will explore methodological and theoretical advances in epidemic modeling. We emphasizes approaches enhancing the integration of various data sources. We will cover many approaches: complex systems, statistical physics, network analysis, statistical inference and machine and deep learning.&lt;/p&gt;
+&lt;p&gt;Check out our list of &lt;a href=&#34;https://epinext.weebly.com/invited-speakers.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;invited speakers&lt;/a&gt; and join us in Siena!&lt;/p&gt;
 </description>
     </item>
     
@@ -29,15 +29,6 @@
       <guid>https://www.evmodelers.org/event/2024epinext/</guid>
       <description>&lt;p&gt;We are organizing epiNEXT: ​Next-gen Methods for Data-Rich Epidemic Models - a satellite meeting of the &lt;a href=&#34;https://ccs24.cssociety.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conference on Complex Systems CCS 2024&lt;/a&gt;. epiNEXT will explore methodological and theoretical advances in epidemic modeling. We emphasizes approaches enhancing the integration of various data sources. We will cover many approaches: complex systems, statistical physics, network analysis, statistical inference and machine and deep learning.&lt;/p&gt;
 &lt;p&gt;Check out our &lt;a href=&#34;https://epinext.weebly.com/invited-speakers.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;invited speakers&lt;/a&gt; and &lt;a href=&#34;https://epinext.weebly.com/call-for-abstracts.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;send your contribution&lt;/a&gt;!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>roundtable @ France Alumni Day - Quai d&#39;Orsay</title>
-      <link>https://www.evmodelers.org/event/2024minetr/</link>
-      <pubDate>Wed, 15 May 2024 17:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/event/2024minetr/</guid>
-      <description>&lt;p&gt;Eugenio will speak at a roundtable at the Soirée &lt;em&gt;France Alumni Day&lt;/em&gt; at the Ministère de l&amp;rsquo;Europe et des Affairs Etrangers (Quai d&amp;rsquo;Orsay).&lt;/p&gt;
 </description>
     </item>
     

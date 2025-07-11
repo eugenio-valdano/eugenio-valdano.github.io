@@ -5,7 +5,7 @@
     <link>https://www.evmodelers.org/author/eugenio-valdano/</link>
       <atom:link href="https://www.evmodelers.org/author/eugenio-valdano/index.xml" rel="self" type="application/rss+xml" />
     <description>Eugenio Valdano</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Sep 2025 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.evmodelers.org/author/eugenio-valdano/avatar_hu7b5e85f8fa66ebfad52af723223f98f5_2753784_270x270_fill_lanczos_center_3.png</url>
       <title>Eugenio Valdano</title>
@@ -13,19 +13,9 @@
     </image>
     
     <item>
-      <title>Disruption of outdoor activities caused by wildfires increases disease circulation</title>
-      <link>https://www.evmodelers.org/publication/25arrdis/</link>
-      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/publication/25arrdis/</guid>
-      <description>&lt;p&gt;The project behind this study started at the 2023 of the workshop &lt;a href=&#34;www.complexity72h.com&#34;&gt;Complexity72h&lt;/a&gt; which we organize every year. You can access the workshop report here: &lt;a href=&#34;https://www.medrxiv.org/content/10.1101/2023.07.09.23292078v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.medrxiv.org/content/10.1101/2023.07.09.23292078v1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Check out a &lt;a href=&#34;https://abcnews.go.com/International/live-updates/climate-environment-updates/?id=115115959&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;news hit on ABC News&lt;/a&gt; about our study.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Eugenio Valdano</title>
       <link>https://www.evmodelers.org/author/eugenio-valdano/</link>
-      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Sep 2025 09:00:00 +0000</pubDate>
       <guid>https://www.evmodelers.org/author/eugenio-valdano/</guid>
       <description>&lt;p&gt;Eugenio is a tenured researcher at the &lt;a href=&#34;https://www.inserm.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;French National Institute of Health and Medical Research (INSERM)&lt;/a&gt;. He is part of the Sorbonne Outbreaks Modeling Center (SUMOC) and the &lt;a href=&#34;https://iplesp.fr/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pierre Louis Institute of Epidemiology and Public Health (IPLESP)&lt;/a&gt;, attached to &lt;a href=&#34;https://www.inserm.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INSERM&lt;/a&gt; and the Faculty of Health of &lt;a href=&#34;https://www.sorbonne-universite.fr/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sorbonne Université&lt;/a&gt;, in Paris, France.&lt;/p&gt;
 &lt;p&gt;Eugenio is an infectious disease epidemiologist with a background in theoretical physics. He develops data-rich mathematical models to study how infectious disease spread, in human and animal populations. Patterns of human mobility and mixing influence the likelihood of epidemic outbreaks, drive their evolution, and determine the condition for disease containment and elimination. Eugenio design theoretical models to combine data on human behavior and epidemiological data to understand epidemics, make scenarios, help guide public health interventions.&lt;/p&gt;
@@ -66,6 +56,71 @@
 
 &lt;a href=&#34;https://www.evmodelers.org/uploads/demo_resume.pdf&#34; target=&#34;_blank&#34;&gt;resumé&lt;/a&gt;
 .--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT)</title>
+      <link>https://www.evmodelers.org/event/2025acat/</link>
+      <pubDate>Mon, 08 Sep 2025 09:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2025acat/</guid>
+      <description>&lt;p&gt;Eugenio is invited speaker at the 23rd International Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BeSAFE </title>
+      <link>https://www.evmodelers.org/event/2025besafe/</link>
+      <pubDate>Thu, 04 Sep 2025 09:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2025besafe/</guid>
+      <description>&lt;p&gt;Eugenio is invited speaker at the satellite on Behavioral and Social Aspects in Fighting Epidemics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>epiNEXT satellite meeting of CCS 2025</title>
+      <link>https://www.evmodelers.org/event/2025epinext/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2025epinext/</guid>
+      <description>&lt;p&gt;We are organizing the second edition of the workshop epiNEXT: ​Next-gen Methods for Data-Rich Epidemic Models - a satellite meeting of the &lt;a href=&#34;https://ccs25.cssociety.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conference on Complex Systems CCS 2025&lt;/a&gt;. epiNEXT will explore methodological and theoretical advances in epidemic modeling. We emphasizes approaches enhancing the integration of various data sources. We will cover many approaches: complex systems, statistical physics, network analysis, statistical inference and machine and deep learning.&lt;/p&gt;
+&lt;p&gt;Check out our list of &lt;a href=&#34;https://epinext.weebly.com/invited-speakers.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;invited speakers&lt;/a&gt; and join us in Siena!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>International Conference on Complex Systems (CCS)</title>
+      <link>https://www.evmodelers.org/event/2025ccs/</link>
+      <pubDate>Mon, 01 Sep 2025 09:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2025ccs/</guid>
+      <description>&lt;p&gt;Eugenio is invited speaker at the main conference, Suprabhath will give a contributed talk in the epidemic modeling track.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Complex Networks - a satellite of StatPhys29</title>
+      <link>https://www.evmodelers.org/event/2025venice/</link>
+      <pubDate>Mon, 21 Jul 2025 09:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2025venice/</guid>
+      <description>&lt;p&gt;Eugenio is invited speaker and Claudio will give a contributed talk at the International Workshop on Complex Networks, a satellite event to &lt;a href=&#34;https://statphys29.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;StatPhys29&lt;/a&gt;, the leading international conference in statistical physics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Foundation Models for Structured Data @ ICML</title>
+      <link>https://www.evmodelers.org/event/2025icml/</link>
+      <pubDate>Fri, 18 Jul 2025 09:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2025icml/</guid>
+      <description>&lt;p&gt;We will be a poster on our work on using foundation models for time series to model epidemics, at the workshop on Foundation Models for Structured Data of the International Conference on Machine Learning (ICML).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Disruption of outdoor activities caused by wildfires increases disease circulation</title>
+      <link>https://www.evmodelers.org/publication/25arrdis/</link>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/publication/25arrdis/</guid>
+      <description>&lt;p&gt;The project behind this study started at the 2023 of the workshop &lt;a href=&#34;www.complexity72h.com&#34;&gt;Complexity72h&lt;/a&gt; which we organize every year. You can access the workshop report here: &lt;a href=&#34;https://www.medrxiv.org/content/10.1101/2023.07.09.23292078v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.medrxiv.org/content/10.1101/2023.07.09.23292078v1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Check out a &lt;a href=&#34;https://abcnews.go.com/International/live-updates/climate-environment-updates/?id=115115959&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;news hit on ABC News&lt;/a&gt; about our study.&lt;/p&gt;
 </description>
     </item>
     
