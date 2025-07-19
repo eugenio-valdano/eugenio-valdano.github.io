@@ -75,7 +75,19 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.evmodelers.org/tag/announcement/</loc>
-    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/tag/job/</loc>
+    <lastmod>2025-07-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/job/2025intern/</loc>
+    <lastmod>2025-07-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/job/</loc>
+    <lastmod>2025-07-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.evmodelers.org/event/2025discoreel/</loc>
@@ -446,6 +458,14 @@
     <lastmod>2023-10-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://www.evmodelers.org/tour/topic/</loc>
+    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/tour/topic/theory/</loc>
+    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://www.evmodelers.org/</loc>
     <lastmod>2023-10-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -463,14 +483,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.evmodelers.org/tour/topic/hiv/</loc>
-    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/tour/topic/</loc>
-    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/tour/topic/theory/</loc>
     <lastmod>2023-10-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

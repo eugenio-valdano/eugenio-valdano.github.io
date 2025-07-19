@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Job | EV / The modelers</title>
+    <link>https://www.evmodelers.org/tag/job/</link>
+      <atom:link href="https://www.evmodelers.org/tag/job/index.xml" rel="self" type="application/rss+xml" />
+    <description>Job</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <title>Job</title>
+      <link>https://www.evmodelers.org/tag/job/</link>
+    </image>
+    
+    <item>
+      <title>Master internship: tabular foundation models for epidemic modeling</title>
+      <link>https://www.evmodelers.org/job/2025intern/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/job/2025intern/</guid>
+      <description>&lt;p&gt;We are looking for an intern to apply foundation models for tabular data to modeling spatially structured epidemics. Candidates will be 1st-year or 2nd-year master students in computer science, machine learning, physics or applied mathematics. The starting date can be from September 2025, onwards. Internships typically last 4 to 6 months. Check out our &lt;a href=&#34;https://www.medrxiv.org/content/10.1101/2025.02.24.25322795v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;relevant publication&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you would like to have more information please contact the PI Eugenio Valdano. To apply for the internship please use &lt;a href=&#34;https://forms.gle/oJGwUzQaGxwM9GLKA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this link&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

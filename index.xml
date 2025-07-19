@@ -68,6 +68,16 @@
     </item>
     
     <item>
+      <title>Master internship: tabular foundation models for epidemic modeling</title>
+      <link>https://www.evmodelers.org/job/2025intern/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/job/2025intern/</guid>
+      <description>&lt;p&gt;We are looking for an intern to apply foundation models for tabular data to modeling spatially structured epidemics. Candidates will be 1st-year or 2nd-year master students in computer science, machine learning, physics or applied mathematics. The starting date can be from September 2025, onwards. Internships typically last 4 to 6 months. Check out our &lt;a href=&#34;https://www.medrxiv.org/content/10.1101/2025.02.24.25322795v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;relevant publication&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you would like to have more information please contact the PI Eugenio Valdano. To apply for the internship please use &lt;a href=&#34;https://forms.gle/oJGwUzQaGxwM9GLKA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this link&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>New grant funded! DiscoReel</title>
       <link>https://www.evmodelers.org/event/2025discoreel/</link>
       <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
@@ -487,6 +497,28 @@ EV / The Modelers now provides weekly estimates to Influcast.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Theoretical and methodological research</title>
+      <link>https://www.evmodelers.org/tour/topic/theory/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/tour/topic/theory/</guid>
+      <description>&lt;p&gt;Developing new methodologies is a core mission of this group. This means coming up with new ways to integrate and analyze data from different sources and at different resolutions, and new mathematical models that can make sense of these data to predict epidemic risk and vulnerability, analyze scenarios and evaluate interventions.&lt;/p&gt;
+&lt;p&gt;Here, we use methodologies from&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;statistical physics and complex network theory,&lt;/li&gt;
+&lt;li&gt;machine learning,&lt;/li&gt;
+&lt;li&gt;Bayesian statistics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We integrate data on&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epidemic and vector surveillance,&lt;/li&gt;
+&lt;li&gt;human mobility, behavior and mixing,&lt;/li&gt;
+&lt;li&gt;demography and socioeconomics,&lt;/li&gt;
+&lt;li&gt;climate and weather.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Climate change and infectious disease epidemics</title>
       <link>https://www.evmodelers.org/tour/topic/climatechange/</link>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
@@ -531,28 +563,6 @@ But well-known pathogens are an equally looming threat, as they move and adapt t
 &lt;li&gt;study how mobility and migration patterns drive the risk of HIV acquisition where the epidemic is generalized,&lt;/li&gt;
 &lt;li&gt;evaluate strategies to offer HIV prevention and how they could be made more effective,&lt;/li&gt;
 &lt;li&gt;study the effect of the complex interplay between HIV prevention, HIV treatment and circulation of other sexually transmitted infections.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Theoretical and methodological research</title>
-      <link>https://www.evmodelers.org/tour/topic/theory/</link>
-      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/tour/topic/theory/</guid>
-      <description>&lt;p&gt;Developing new methodologies is a core mission of this group. This means coming up with new ways to integrate and analyze data from different sources and at different resolutions, and new mathematical models that can make sense of these data to predict epidemic risk and vulnerability, analyze scenarios and evaluate interventions.&lt;/p&gt;
-&lt;p&gt;Here, we use methodologies from&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;statistical physics and complex network theory,&lt;/li&gt;
-&lt;li&gt;Bayesian statistics,&lt;/li&gt;
-&lt;li&gt;Deep-learning.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;We integrate data on&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;epidemic and vector surveillance,&lt;/li&gt;
-&lt;li&gt;human mobility, behavior and mixing,&lt;/li&gt;
-&lt;li&gt;demography and socioeconomics,&lt;/li&gt;
-&lt;li&gt;climate and weather.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
