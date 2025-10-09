@@ -5,7 +5,7 @@
     <link>https://www.evmodelers.org/author/eugenio-valdano/</link>
       <atom:link href="https://www.evmodelers.org/author/eugenio-valdano/index.xml" rel="self" type="application/rss+xml" />
     <description>Eugenio Valdano</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.evmodelers.org/author/eugenio-valdano/avatar_hu7b5e85f8fa66ebfad52af723223f98f5_2753784_270x270_fill_lanczos_center_3.png</url>
       <title>Eugenio Valdano</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Eugenio Valdano</title>
       <link>https://www.evmodelers.org/author/eugenio-valdano/</link>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://www.evmodelers.org/author/eugenio-valdano/</guid>
       <description>&lt;p&gt;Eugenio is a tenured researcher at the &lt;a href=&#34;https://www.inserm.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;French National Institute of Health and Medical Research (INSERM)&lt;/a&gt;. He is part of the Sorbonne Outbreaks Modeling Center (SUMOC) and the &lt;a href=&#34;https://iplesp.fr/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pierre Louis Institute of Epidemiology and Public Health (IPLESP)&lt;/a&gt;, attached to &lt;a href=&#34;https://www.inserm.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INSERM&lt;/a&gt; and the Faculty of Health of &lt;a href=&#34;https://www.sorbonne-universite.fr/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sorbonne Université&lt;/a&gt;, in Paris, France.&lt;/p&gt;
 &lt;p&gt;Eugenio is an infectious disease epidemiologist with a background in theoretical physics. He develops data-rich mathematical models to study how infectious disease spread, in human and animal populations. Patterns of human mobility and mixing influence the likelihood of epidemic outbreaks, drive their evolution, and determine the condition for disease containment and elimination. Eugenio design theoretical models to combine data on human behavior and epidemiological data to understand epidemics, make scenarios, help guide public health interventions.&lt;/p&gt;
@@ -56,6 +56,19 @@
 
 &lt;a href=&#34;https://www.evmodelers.org/uploads/demo_resume.pdf&#34; target=&#34;_blank&#34;&gt;resumé&lt;/a&gt;
 .--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Internship - Low-dimensional representations of realistic, heterogeneous epidemic models</title>
+      <link>https://www.evmodelers.org/job/2025internlowdim/</link>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/job/2025internlowdim/</guid>
+      <description>&lt;p&gt;We are looking for an intern to join our research on on devising and applying complex systems physics and deep learning methods to finding low-dimensional interpretable representations of realistic epidemic processes. Python skills, possibly with previous experience with pytorch, and a strong ability to learn are essential.&lt;/p&gt;
+&lt;p&gt;Candidates will be 1st-year or 2nd-year master students in computer science, machine learning, physics applied mathematics, engineering or other relevant fields. The starting date can be from late 2025, onwards. Internships typically last 6 months.
+The starting date can be from late 2025, onwards. Internships typically last 6 months.&lt;/p&gt;
+&lt;p&gt;If you would like to have more information please contact Eugenio Valdano.&lt;/p&gt;
+&lt;p&gt;To apply for the internship please use &lt;a href=&#34;https://forms.gle/oJGwUzQaGxwM9GLKA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this link&lt;/a&gt;. The position will be filled as soon a suitable candidate is found.&lt;/p&gt;
 </description>
     </item>
     
