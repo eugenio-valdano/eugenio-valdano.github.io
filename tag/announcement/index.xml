@@ -5,7 +5,7 @@
     <link>https://www.evmodelers.org/tag/announcement/</link>
       <atom:link href="https://www.evmodelers.org/tag/announcement/index.xml" rel="self" type="application/rss+xml" />
     <description>Announcement</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Announcement</title>
@@ -13,34 +13,9 @@
     </image>
     
     <item>
-      <title>Internship - Mobility-informed risk mapping</title>
-      <link>https://www.evmodelers.org/job/2025internriskmapping/</link>
-      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/job/2025internriskmapping/</guid>
-      <description>&lt;p&gt;We are looking for an intern to join our research on integrating large-scale, high-resolution mobility data to build exposure risk maps for infectious disease epidemics. The data will be provided by Meta - &lt;a href=&#34;https://www.evmodelers.org/post/2024rt-meta/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;see this for how we used similar data&lt;/a&gt;. We will study how time spent in different locations shapes the risk of exposure to infectious diseases, applying to mosquito-borne diseases. Basic Python skills are required. Previous knowledge/experience in data analysis is a plus. Candidates will generally be 1st-year or 2nd-year master students in computer science, machine learning, physics, applied mathematics, engineering or other relevant fields.&lt;/p&gt;
-&lt;p&gt;See &lt;a href=&#34;https://www.nature.com/articles/s41467-021-23051-w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this previous publication&lt;/a&gt; for a similar approach.&lt;/p&gt;
-&lt;p&gt;If you would like to have more information please contact Eugenio Valdano.&lt;/p&gt;
-&lt;p&gt;To apply for the internship please use &lt;a href=&#34;https://forms.gle/oJGwUzQaGxwM9GLKA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this link&lt;/a&gt;. The position will be filled as soon a suitable candidate is found.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Internship - Low-dimensional representations of realistic, heterogeneous epidemic models</title>
-      <link>https://www.evmodelers.org/job/2025internlowdim/</link>
-      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/job/2025internlowdim/</guid>
-      <description>&lt;p&gt;We are looking for an intern to join our research on on devising and applying complex systems physics and deep learning methods to finding low-dimensional interpretable representations of realistic epidemic processes. Python skills, possibly with previous experience with pytorch, and a strong ability to learn are essential.&lt;/p&gt;
-&lt;p&gt;Candidates will be 1st-year or 2nd-year master students in computer science, machine learning, physics applied mathematics, engineering or other relevant fields. The starting date can be from late 2025, onwards. Internships typically last 6 months.
-The starting date can be from late 2025, onwards. Internships typically last 6 months.&lt;/p&gt;
-&lt;p&gt;If you would like to have more information please contact Eugenio Valdano.&lt;/p&gt;
-&lt;p&gt;To apply for the internship please use &lt;a href=&#34;https://forms.gle/oJGwUzQaGxwM9GLKA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this link&lt;/a&gt;. The position will be filled as soon a suitable candidate is found.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Postdoc Position - Large machine learning models for computational epidemiology</title>
+      <title>POSTDOC POSITION - Large machine learning models for computational epidemiology</title>
       <link>https://www.evmodelers.org/job/2025postdocdiscoreel/</link>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://www.evmodelers.org/job/2025postdocdiscoreel/</guid>
       <description>&lt;p&gt;We are hiring a postdoctoral researcher to work full-time on the DiscoReel project. The postdoc will work on developing machine and deep learning methods for epidemic modeling, integrating them with mechanistic models and focusing on foundation models. The candidate should have a background in computer science, physics or applied math and previous experience in designing and traning large machine learning models. No prior experience in epidemiology is needed, but interest in applying computational modeling to improve public health is required.&lt;/p&gt;
 &lt;p&gt;The position is likely to start in early 2026 and last 1 year, renewable. The postdoc will be employed by Inserm (French National Institute of Health and Medical Research) and will also be affiliated to the Faculty of Health of Sorbonne University. Salary will be according to Inserm&amp;rsquo;s national salary grids. The postdoc will work at the Sorbonne Outbreaks Modeling Center (SUMOC) and Pierre Louis Institute of Epidemiology and Public Health (IPLESP), interacting with senior and junior modelers and epidemiologists.&lt;/p&gt;
@@ -51,7 +26,7 @@ The starting date can be from late 2025, onwards. Internships typically last 6 m
     <item>
       <title>Internship - Causal analysis of PrEP and sexual behavior in MSM</title>
       <link>https://www.evmodelers.org/job/2025interncausal/</link>
-      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://www.evmodelers.org/job/2025interncausal/</guid>
       <description>&lt;p&gt;We are opening an internship position at Inserm (Paris) to work on the causal analysis of PrEP uptake and sexual behavior change among MSM, as part of the PP-IMPACT project funded by &lt;a href=&#34;https://anrs.fr/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ANRS-MIE&lt;/a&gt;. The intern will work under the supervision of Eugenio Valdano and &lt;a href=&#34;https://ckassaad.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Charles Assaad&lt;/a&gt;, expert in causal inference. The analysis will use observational cohort data from Portugal and France to identify bidirectional causal links between behavior and PrEP adoption.&lt;/p&gt;
 &lt;p&gt;If you would like to have more information please contact either E. Valdano or C. Assaad.&lt;/p&gt;
@@ -61,10 +36,35 @@ The starting date can be from late 2025, onwards. Internships typically last 6 m
     
     <item>
       <title>Internship - Foundation models for epidemic modeling and public health policy evaluation</title>
-      <link>https://www.evmodelers.org/job/2025intern/</link>
-      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/job/2025intern/</guid>
+      <link>https://www.evmodelers.org/job/2025internfound/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/job/2025internfound/</guid>
       <description>&lt;p&gt;We are looking for an intern to apply foundation models to modeling epidemics and informing public health strategies (e.g., immunization campaigns, mobility restrictions). Candidates will be 1st-year or 2nd-year master students in computer science, machine learning, physics applied mathematics, engineering or other relevant fields. The starting date can be from late 2025, onwards. Internships typically last 6 months.&lt;/p&gt;
+&lt;p&gt;If you would like to have more information please contact Eugenio Valdano.&lt;/p&gt;
+&lt;p&gt;To apply for the internship please use &lt;a href=&#34;https://forms.gle/oJGwUzQaGxwM9GLKA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this link&lt;/a&gt;. The position will be filled as soon a suitable candidate is found.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Internship - Low-dimensional representations of realistic, heterogeneous epidemic models</title>
+      <link>https://www.evmodelers.org/job/2025internlowdim/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/job/2025internlowdim/</guid>
+      <description>&lt;p&gt;We are looking for an intern to join our research on devising and applying complex systems physics and deep learning methods to finding low-dimensional interpretable representations of realistic epidemic processes. Python skills, possibly with previous experience with pytorch, and a strong ability to learn are essential.&lt;/p&gt;
+&lt;p&gt;Candidates will be 1st-year or 2nd-year master students in computer science, machine learning, physics, applied mathematics, engineering or other relevant fields. The starting date can be from late 2025, onwards. Internships typically last 6 months.
+The starting date can be from late 2025, onwards. Internships typically last 6 months.&lt;/p&gt;
+&lt;p&gt;If you would like to have more information please contact Eugenio Valdano.&lt;/p&gt;
+&lt;p&gt;To apply for the internship please use &lt;a href=&#34;https://forms.gle/oJGwUzQaGxwM9GLKA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this link&lt;/a&gt;. The position will be filled as soon a suitable candidate is found.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Internship - Mobility-informed risk mapping</title>
+      <link>https://www.evmodelers.org/job/2025internriskmapping/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/job/2025internriskmapping/</guid>
+      <description>&lt;p&gt;We are looking for an intern to join our research on integrating large-scale, high-resolution mobility data to build exposure risk maps for infectious disease epidemics. The data will be provided by Meta - &lt;a href=&#34;https://www.evmodelers.org/post/2024rt-meta/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;see this for how we used similar data&lt;/a&gt;. We will study how time spent in different locations shapes the risk of exposure to infectious diseases, applying to mosquito-borne diseases. Basic Python skills are required. Previous knowledge/experience in data analysis is a plus. Candidates will generally be 1st-year or 2nd-year master students in computer science, machine learning, physics, applied mathematics, engineering or other relevant fields.&lt;/p&gt;
+&lt;p&gt;See &lt;a href=&#34;https://www.nature.com/articles/s41467-021-23051-w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this previous publication&lt;/a&gt; for a similar approach.&lt;/p&gt;
 &lt;p&gt;If you would like to have more information please contact Eugenio Valdano.&lt;/p&gt;
 &lt;p&gt;To apply for the internship please use &lt;a href=&#34;https://forms.gle/oJGwUzQaGxwM9GLKA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this link&lt;/a&gt;. The position will be filled as soon a suitable candidate is found.&lt;/p&gt;
 </description>
