@@ -35,6 +35,23 @@
     </item>
     
     <item>
+      <title>Internship - Creation of a user interface for mobility-based epidemic risk monitoring in resource-constrained settings</title>
+      <link>https://www.evmodelers.org/job/2025internsnowflake/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/job/2025internsnowflake/</guid>
+      <description>&lt;p&gt;Patterns of human mobility shape spatial contact networks that determine how respiratory pathogens spread and how well surveillance systems detect epidemic activity. Mathematical models can combine large-scale mobility data with epidemiological surveillance to estimate and forecast epidemic risk (see &lt;a href=&#34;www.evmodelers.org/post/2024rt-meta/&#34;&gt;this&lt;/a&gt; for example).&lt;/p&gt;
+&lt;p&gt;In many resource-limited settings, there is limited capacity to handle data and run epidemiological models. The intern will collaborate with our partners at &lt;a href=&#34;www.snowflake.com&#34;&gt;Snowflake&lt;/a&gt; to develop a web application that integrates user-provided surveillance data with mobility datasets to automatically generate epidemic indicators and trend estimates, without requiring modeling expertise. The prototype will be tested and applied to respiratory virus surveillance in Gabon, in collaboration with our local partners&lt;/p&gt;
+&lt;p&gt;The intern will work in Python-based environments with Snowflake engineers to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Integrate (computationally lightweight) epidemic models and mobility datasets into the backend of the web app.&lt;/li&gt;
+&lt;li&gt;Contribute to the frontend interface design and data visualization.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you would like to have more information please contact Eugenio Valdano.&lt;/p&gt;
+&lt;p&gt;To apply for the internship please use &lt;a href=&#34;https://forms.gle/oJGwUzQaGxwM9GLKA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this link&lt;/a&gt;. The position will be filled as soon a suitable candidate is found.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Internship - Foundation models for epidemic modeling and public health policy evaluation</title>
       <link>https://www.evmodelers.org/job/2025internfound/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
