@@ -2,19 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.evmodelers.org/publication-type/article/</loc>
+    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/authors/</loc>
+    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/author/boxuan-wang-%E7%8E%8B%E5%8D%9A%E7%8E%84/</loc>
+    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/author/eugenio-valdano/</loc>
+    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/publication_types/</loc>
+    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/publication/</loc>
+    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/publication/26boxred/</loc>
+    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://www.evmodelers.org/publication-type/article-journal/</loc>
     <lastmod>2026-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.evmodelers.org/authors/</loc>
-    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.evmodelers.org/publication/26iacdis/</loc>
-    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/author/eugenio-valdano/</loc>
     <lastmod>2026-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -23,14 +43,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.evmodelers.org/author/iacopo-iacopini/</loc>
-    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/publication_types/</loc>
-    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/publication/</loc>
     <lastmod>2026-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -74,16 +86,8 @@
     <lastmod>2025-09-04T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.evmodelers.org/publication-type/article/</loc>
-    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.evmodelers.org/publication/25ascint/</loc>
     <lastmod>2025-09-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/author/boxuan-wang-%E7%8E%8B%E5%8D%9A%E7%8E%84/</loc>
-    <lastmod>2025-09-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.evmodelers.org/event/2025epinext/</loc>

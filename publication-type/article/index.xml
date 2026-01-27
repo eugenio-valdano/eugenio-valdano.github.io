@@ -5,12 +5,20 @@
     <link>https://www.evmodelers.org/publication-type/article/</link>
       <atom:link href="https://www.evmodelers.org/publication-type/article/index.xml" rel="self" type="application/rss+xml" />
     <description>Article</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Article</title>
       <link>https://www.evmodelers.org/publication-type/article/</link>
     </image>
+    
+    <item>
+      <title>Redefining and estimating the early-phase reproduction ratio for epidemic outbreaks in spatially structured populations</title>
+      <link>https://www.evmodelers.org/publication/26boxred/</link>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/publication/26boxred/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Interplay of Generation Time and Spatial Structure in Epidemic Dynamics and the Reliability of Reproduction Ratio Estimates</title>
