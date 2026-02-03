@@ -5,12 +5,21 @@
     <link>https://www.evmodelers.org/event/</link>
       <atom:link href="https://www.evmodelers.org/event/index.xml" rel="self" type="application/rss+xml" />
     <description>News &amp; Events - recent and upcoming</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Oct 2025 10:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>News &amp; Events - recent and upcoming</title>
       <link>https://www.evmodelers.org/event/</link>
     </image>
+    
+    <item>
+      <title>Welcome Enrico!</title>
+      <link>https://www.evmodelers.org/event/2026enrico/</link>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2026enrico/</guid>
+      <description>&lt;p&gt;Enrico joins the group as a postdoctoral researcher funded by the ANR-funded project DiscoReel.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Claudio Ascione gets his PhD</title>

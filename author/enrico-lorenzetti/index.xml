@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Enrico Lorenzetti | EV / The modelers</title>
+    <link>https://www.evmodelers.org/author/enrico-lorenzetti/</link>
+      <atom:link href="https://www.evmodelers.org/author/enrico-lorenzetti/index.xml" rel="self" type="application/rss+xml" />
+    <description>Enrico Lorenzetti</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.evmodelers.org/author/enrico-lorenzetti/avatar_hu6cd18c6a76c5c5a8ae0f099063030b50_214857_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Enrico Lorenzetti</title>
+      <link>https://www.evmodelers.org/author/enrico-lorenzetti/</link>
+    </image>
+    
+    <item>
+      <title>Welcome Enrico!</title>
+      <link>https://www.evmodelers.org/event/2026enrico/</link>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2026enrico/</guid>
+      <description>&lt;p&gt;Enrico joins the group as a postdoctoral researcher funded by the ANR-funded project DiscoReel.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -13,6 +13,15 @@
     </image>
     
     <item>
+      <title>Welcome Enrico!</title>
+      <link>https://www.evmodelers.org/event/2026enrico/</link>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2026enrico/</guid>
+      <description>&lt;p&gt;Enrico joins the group as a postdoctoral researcher funded by the ANR-funded project DiscoReel.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Redefining and estimating the early-phase reproduction ratio for epidemic outbreaks in spatially structured populations</title>
       <link>https://www.evmodelers.org/publication/26boxred/</link>
       <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
@@ -526,6 +535,10 @@ EV / The Modelers now provides weekly estimates to Influcast.&lt;/p&gt;
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://www.evmodelers.org/tour/grant/discoreel/</guid>
       <description>&lt;p&gt;DiscoReel (Discovering Relevant Dimensions in Epidemic Dynamics for Data-Efficient Predictive Modeling) receives funding from the French National Research Agency (&lt;a href=&#34;https://anr.fr/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ANR&lt;/a&gt;) under the &lt;em&gt;Young Researcher (JCJC)&lt;/em&gt; research scheme to Eugenio Valdano. The project has to start yet. Will start some time in yearly 2026.&lt;/p&gt;
+&lt;p&gt;Mathematical models of infectious disease dynamics have reached unprecedented resolution, integrating heterogeneities in contact patterns, mobility, susceptibility, and behavior at fine spatial and temporal scales. These developments, accelerated by the needs of precision public health, rely heavily on large, high-resolution data streams tracking the heterogeneous dynamics of pathogens and hosts (humans) at fine spatiotemporal scales.
+This raises two challenges. First, opportunity determines the availability of data rather than public health needs, creating inequities in the ability to support evidence-based public health decisions and increasing the risk of personal data misuse. Second, these complex, massively data-driven, models excel at explaining what is observed, but struggle to extrapolate beyond specific contexts and across time and space: their predictive power is often confined to the specific contexts and datasets they were trained on, limiting their usefulness in scenario evaluation and policy planning.
+This project proposes a paradigm shift: instead of building ever more detailed models to absorb ever more data, we need substantial theoretical progress to uncover the low-dimensional, general rules that govern epidemic dynamics across space, transmission routes, and host behavior, to extract robust knowledge from the data already available.
+We hypothesize that, like many complex systems, epidemic evolution can be described by a small number of effective degrees of freedom and dynamical laws. The goal is to extract these quantities and make them usable for predictive modeling in real-world, possibly data-scarce settings.&lt;/p&gt;
 </description>
     </item>
     
