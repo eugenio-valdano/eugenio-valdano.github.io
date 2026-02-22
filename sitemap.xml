@@ -2,11 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.evmodelers.org/tag/announcement/</loc>
-    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
+    <loc>https://www.evmodelers.org/publication-type/article-journal/</loc>
+    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.evmodelers.org/authors/</loc>
+    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/author/claudio-ascione/</loc>
+    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/author/eugenio-valdano/</loc>
+    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/publication/26ascint/</loc>
+    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/publication_types/</loc>
+    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/publication/</loc>
+    <lastmod>2026-02-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/tag/announcement/</loc>
     <lastmod>2026-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -34,24 +58,8 @@
     <lastmod>2026-01-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.evmodelers.org/author/eugenio-valdano/</loc>
-    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/publication_types/</loc>
-    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/publication/</loc>
-    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.evmodelers.org/publication/26boxred/</loc>
     <lastmod>2026-01-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/publication-type/article-journal/</loc>
-    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.evmodelers.org/publication/26iacdis/</loc>
@@ -64,10 +72,6 @@
   </url><url>
     <loc>https://www.evmodelers.org/author/iacopo-iacopini/</loc>
     <lastmod>2026-01-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/author/claudio-ascione/</loc>
-    <lastmod>2025-10-30T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.evmodelers.org/event/2025ascionephd/</loc>
@@ -96,10 +100,6 @@
   </url><url>
     <loc>https://www.evmodelers.org/event/2025besafe/</loc>
     <lastmod>2025-09-04T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/publication/25ascint/</loc>
-    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.evmodelers.org/event/2025epinext/</loc>
