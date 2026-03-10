@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sahil Sartaj | EV / The modelers</title>
+    <link>https://www.evmodelers.org/author/sahil-sartaj/</link>
+      <atom:link href="https://www.evmodelers.org/author/sahil-sartaj/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sahil Sartaj</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://www.evmodelers.org/author/sahil-sartaj/avatar_hu06733553a786c9bb2db77dda54a11c04_15351_270x270_fill_lanczos_center_3.png</url>
+      <title>Sahil Sartaj</title>
+      <link>https://www.evmodelers.org/author/sahil-sartaj/</link>
+    </image>
+    
+    <item>
+      <title>Sahil Sartaj</title>
+      <link>https://www.evmodelers.org/author/sahil-sartaj/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/author/sahil-sartaj/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
