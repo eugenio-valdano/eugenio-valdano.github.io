@@ -5,7 +5,7 @@
     <link>https://www.evmodelers.org/author/suprabhath-kalahasti/</link>
       <atom:link href="https://www.evmodelers.org/author/suprabhath-kalahasti/index.xml" rel="self" type="application/rss+xml" />
     <description>Suprabhath Kalahasti</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 09:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Mar 2026 19:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.evmodelers.org/author/suprabhath-kalahasti/avatar_hu9d1c961de3da9d1c7fb2e6489a15e0b1_88267_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Suprabhath Kalahasti</title>
@@ -13,20 +13,28 @@
     </image>
     
     <item>
-      <title>International Conference on Complex Systems (CCS)</title>
-      <link>https://www.evmodelers.org/event/2025ccs/</link>
-      <pubDate>Mon, 01 Sep 2025 09:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/event/2025ccs/</guid>
-      <description>&lt;p&gt;Eugenio is invited speaker at the main conference, Suprabhath will give a contributed talk in the epidemic modeling track.&lt;/p&gt;
-</description>
+      <title>First lab dinner of 2026!</title>
+      <link>https://www.evmodelers.org/event/2026dinner1/</link>
+      <pubDate>Wed, 11 Mar 2026 19:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2026dinner1/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Suprabhath Kalahasti</title>
       <link>https://www.evmodelers.org/author/suprabhath-kalahasti/</link>
-      <pubDate>Mon, 01 Sep 2025 09:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 19:00:00 +0000</pubDate>
       <guid>https://www.evmodelers.org/author/suprabhath-kalahasti/</guid>
       <description>&lt;p&gt;Suprabhath is a PhD student in Public Health at Sorbonne Université and the Pierre Louis Institute of Epidemiology and Public Health (IPLESP). His research is focused on improving the knowledge and predictability of seasonal epidemic waves of airborne, directly transmitted pathogens by developing mathematical models using AI/ML techniques to inform public health decision making.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>International Conference on Complex Systems (CCS)</title>
+      <link>https://www.evmodelers.org/event/2025ccs/</link>
+      <pubDate>Mon, 01 Sep 2025 09:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2025ccs/</guid>
+      <description>&lt;p&gt;Eugenio is invited speaker at the main conference, Suprabhath will give a contributed talk in the epidemic modeling track.&lt;/p&gt;
 </description>
     </item>
     

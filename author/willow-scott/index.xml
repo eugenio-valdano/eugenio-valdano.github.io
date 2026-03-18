@@ -5,7 +5,7 @@
     <link>https://www.evmodelers.org/author/willow-scott/</link>
       <atom:link href="https://www.evmodelers.org/author/willow-scott/index.xml" rel="self" type="application/rss+xml" />
     <description>Willow Scott</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Mar 2026 19:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.evmodelers.org/author/willow-scott/avatar_hu4c095c3c7031487e3f110becf01e128b_134846_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Willow Scott</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>First lab dinner of 2026!</title>
+      <link>https://www.evmodelers.org/event/2026dinner1/</link>
+      <pubDate>Wed, 11 Mar 2026 19:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2026dinner1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Willow Scott</title>
       <link>https://www.evmodelers.org/author/willow-scott/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 19:00:00 +0000</pubDate>
       <guid>https://www.evmodelers.org/author/willow-scott/</guid>
       <description>&lt;p&gt;Willow is an intern working under the supervision of &lt;a href=&#34;https://ckassaad.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Charles Assaad&lt;/a&gt; and Eugenio Valdano, on causal inference applied to PrEP among MSM. She is working within the scope of the project PP-IMPACT.&lt;/p&gt;
 </description>

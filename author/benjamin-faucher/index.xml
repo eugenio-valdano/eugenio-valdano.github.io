@@ -5,7 +5,7 @@
     <link>https://www.evmodelers.org/author/benjamin-faucher/</link>
       <atom:link href="https://www.evmodelers.org/author/benjamin-faucher/index.xml" rel="self" type="application/rss+xml" />
     <description>Benjamin Faucher</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Mar 2026 19:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.evmodelers.org/author/benjamin-faucher/avatar_huc84e63f6dc77192f086a5c0ce1be1001_352001_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Benjamin Faucher</title>
@@ -13,21 +13,29 @@
     </image>
     
     <item>
+      <title>Benjamin Faucher</title>
+      <link>https://www.evmodelers.org/author/benjamin-faucher/</link>
+      <pubDate>Wed, 11 Mar 2026 19:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/author/benjamin-faucher/</guid>
+      <description>&lt;p&gt;Benjamin is a postdoctoral researcher in modeling in public health at INSERM and the Pierre Louis Institute of Epidemiology and Health (IPLESP). Biophysicist by training, he obtained a PhD in Biomathematics and Biostatistics from Sorbonne University in 2024, where he studied the surveillance and response to the spread of COVID-19. He is now interested in using deep learning techniques to model epidemics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Enrico Lorenzetti</title>
       <link>https://www.evmodelers.org/author/enrico-lorenzetti/</link>
-      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 19:00:00 +0000</pubDate>
       <guid>https://www.evmodelers.org/author/enrico-lorenzetti/</guid>
       <description>&lt;p&gt;Enrico is a postdoctoral researcher in public health modeling at INSERM and the Pierre Louis Institute of Epidemiology and Public Health (IPLESP). Physicist by training, he earned a PhD in Biophysics from École Polytechnique (IP Paris) in 2024, where he worked on mathematical models and inference methods for protein dynamics in living cells.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Benjamin Faucher</title>
-      <link>https://www.evmodelers.org/author/benjamin-faucher/</link>
-      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/author/benjamin-faucher/</guid>
-      <description>&lt;p&gt;Benjamin is a postdoctoral researcher in modeling in public health at INSERM and the Pierre Louis Institute of Epidemiology and Health (IPLESP). Biophysicist by training, he obtained a PhD in Biomathematics and Biostatistics from Sorbonne University in 2024, where he studied the surveillance and response to the spread of COVID-19. He is now interested in using deep learning techniques to model epidemics.&lt;/p&gt;
-</description>
+      <title>First lab dinner of 2026!</title>
+      <link>https://www.evmodelers.org/event/2026dinner1/</link>
+      <pubDate>Wed, 11 Mar 2026 19:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2026dinner1/</guid>
+      <description></description>
     </item>
     
     <item>

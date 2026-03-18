@@ -5,7 +5,7 @@
     <link>https://www.evmodelers.org/author/sahil-sartaj/</link>
       <atom:link href="https://www.evmodelers.org/author/sahil-sartaj/index.xml" rel="self" type="application/rss+xml" />
     <description>Sahil Sartaj</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Mar 2026 19:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.evmodelers.org/author/sahil-sartaj/avatar_hu28526610d120499d1f8081d5f04c152e_234173_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Sahil Sartaj</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>First lab dinner of 2026!</title>
+      <link>https://www.evmodelers.org/event/2026dinner1/</link>
+      <pubDate>Wed, 11 Mar 2026 19:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2026dinner1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sahil Sartaj</title>
       <link>https://www.evmodelers.org/author/sahil-sartaj/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 19:00:00 +0000</pubDate>
       <guid>https://www.evmodelers.org/author/sahil-sartaj/</guid>
       <description></description>
     </item>

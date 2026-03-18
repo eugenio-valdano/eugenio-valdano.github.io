@@ -5,7 +5,7 @@
     <link>https://www.evmodelers.org/author/sarah-semlali/</link>
       <atom:link href="https://www.evmodelers.org/author/sarah-semlali/index.xml" rel="self" type="application/rss+xml" />
     <description>Sarah Semlali</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Mar 2026 19:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.evmodelers.org/author/sarah-semlali/avatar_hufd8576756cf2bb54ebc818a69b8245c6_4839482_270x270_fill_q75_lanczos_center.JPEG</url>
       <title>Sarah Semlali</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>First lab dinner of 2026!</title>
+      <link>https://www.evmodelers.org/event/2026dinner1/</link>
+      <pubDate>Wed, 11 Mar 2026 19:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2026dinner1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sarah Semlali</title>
       <link>https://www.evmodelers.org/author/sarah-semlali/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 19:00:00 +0000</pubDate>
       <guid>https://www.evmodelers.org/author/sarah-semlali/</guid>
       <description>&lt;p&gt;Sarah is an intern working under the supervision of &lt;a href=&#34;https://ckassaad.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Charles Assaad&lt;/a&gt; and Eugenio Valdano, on causal inference applied to PrEP among MSM. She is working within the scope of the project PP-IMPACT.&lt;/p&gt;
 </description>
