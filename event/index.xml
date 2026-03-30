@@ -5,12 +5,21 @@
     <link>https://www.evmodelers.org/event/</link>
       <atom:link href="https://www.evmodelers.org/event/index.xml" rel="self" type="application/rss+xml" />
     <description>News &amp; Events - recent and upcoming</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Mar 2026 19:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Mar 2026 10:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>News &amp; Events - recent and upcoming</title>
       <link>https://www.evmodelers.org/event/</link>
     </image>
+    
+    <item>
+      <title>Eugenio Valdano gets his HDR</title>
+      <link>https://www.evmodelers.org/event/2026valdanohdr/</link>
+      <pubDate>Tue, 24 Mar 2026 10:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2026valdanohdr/</guid>
+      <description>&lt;p&gt;Eugenio successfully defended his HDR (Habilitation à Diriger des Recherches) in front of a jury composed of Laetitia Canini (ANSES, France), Luca Dall&amp;rsquo;Asta (Polytechnic of Turin, Italy), Rodolphe Thiébaut (University of Bordeaux, France), Pierre-Yves Boëlle (Sorbonne University, France), Simon Cauchemez (Pasteur Institute, France), Laetitia Gauvin (IRD, France).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>First lab dinner of 2026!</title>
