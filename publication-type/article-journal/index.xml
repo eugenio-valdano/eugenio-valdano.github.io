@@ -5,12 +5,20 @@
     <link>https://www.evmodelers.org/publication-type/article-journal/</link>
       <atom:link href="https://www.evmodelers.org/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Article-Journal</title>
       <link>https://www.evmodelers.org/publication-type/article-journal/</link>
     </image>
+    
+    <item>
+      <title>Foundation models for time series forecasting and policy evaluation in infectious disease epidemics</title>
+      <link>https://www.evmodelers.org/publication/26kalfou/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/publication/26kalfou/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Interplay of Generation Time and Spatial Structure in Epidemic Dynamics and the Reliability of Reproduction Ratio Estimates</title>
@@ -59,14 +67,6 @@
       <link>https://www.evmodelers.org/publication/25fiacol/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://www.evmodelers.org/publication/25fiacol/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Foundation time series models for forecasting and policy evaluation in infectious disease epidemics</title>
-      <link>https://www.evmodelers.org/publication/26kalfou/</link>
-      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/publication/26kalfou/</guid>
       <description></description>
     </item>
     
