@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Article-Journal | EV / The modelers</title>
+    <title>article-journal | EV / The modelers</title>
     <link>https://www.evmodelers.org/publication-type/article-journal/</link>
       <atom:link href="https://www.evmodelers.org/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
-    <description>Article-Journal</description>
+    <description>article-journal</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
-      <title>Article-Journal</title>
+      <title>article-journal</title>
       <link>https://www.evmodelers.org/publication-type/article-journal/</link>
     </image>
     
