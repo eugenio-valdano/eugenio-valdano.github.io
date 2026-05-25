@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suprabhath | EV / The modelers</title>
+    <link>http://localhost:1313/author/suprabhath/</link>
+      <atom:link href="http://localhost:1313/author/suprabhath/index.xml" rel="self" type="application/rss+xml" />
+    <description>Suprabhath</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <title>Suprabhath</title>
+      <link>http://localhost:1313/author/suprabhath/</link>
+    </image>
+    
+    <item>
+      <title>International Conference on Complex Systems (CCS)</title>
+      <link>http://localhost:1313/event/2025ccs/</link>
+      <pubDate>Mon, 01 Sep 2025 09:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2025ccs/</guid>
+      <description>&lt;p&gt;Eugenio is invited speaker at the main conference, Suprabhath will give a contributed talk in the epidemic modeling track.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

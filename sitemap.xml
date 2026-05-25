@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.evmodelers.org/publication-type/article/</loc>
+    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://www.evmodelers.org/authors/</loc>
     <lastmod>2026-05-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -31,10 +35,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.evmodelers.org/publication/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/publication-type/report/</loc>
     <lastmod>2026-05-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -154,10 +154,6 @@
     <lastmod>2026-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.evmodelers.org/publication-type/article/</loc>
-    <lastmod>2026-01-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.evmodelers.org/publication/26boxred/</loc>
     <lastmod>2026-01-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -175,6 +171,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.evmodelers.org/tag/dissemination/</loc>
+    <lastmod>2025-09-08T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/tag/keynote-talk-/-seminar/</loc>
     <lastmod>2025-09-08T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1222,6 +1222,10 @@
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://www.evmodelers.org/tag/doi10.1103/physrevlett.120.068302-urlhttps/doi/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://www.evmodelers.org/publication/18valepi/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1302,12 +1306,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.evmodelers.org/author/chiara-giaquinta/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/tag/doi10.1103/physrevlett.120.068302-urlhttps/doi/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/tag/keynote-talk-/-seminar/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.evmodelers.org/author/nada-ben-amor/</loc>
