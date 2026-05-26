@@ -5,12 +5,20 @@
     <link>https://www.evmodelers.org/publication-type/article/</link>
       <atom:link href="https://www.evmodelers.org/publication-type/article/index.xml" rel="self" type="application/rss+xml" />
     <description>Article</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Article</title>
       <link>https://www.evmodelers.org/publication-type/article/</link>
     </image>
+    
+    <item>
+      <title>Missing data and cluster graphs: cluster-level missingness vs variable-level missingness</title>
+      <link>https://www.evmodelers.org/publication/26scomis/</link>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/publication/26scomis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>International risk of secondary hantavirus clusters following MV Hondius outbreak</title>
@@ -25,6 +33,14 @@
       <link>https://www.evmodelers.org/publication/26boxred/</link>
       <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://www.evmodelers.org/publication/26boxred/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global dynamics of antibiotic resistance: a modeling study of the spread of endemic and emerging resistance in E. coli</title>
+      <link>https://www.evmodelers.org/publication/25rahglo/</link>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/publication/25rahglo/</guid>
       <description></description>
     </item>
     

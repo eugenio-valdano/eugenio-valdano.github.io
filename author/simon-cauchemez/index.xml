@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simon Cauchemez | EV / The modelers</title>
+    <link>https://www.evmodelers.org/author/simon-cauchemez/</link>
+      <atom:link href="https://www.evmodelers.org/author/simon-cauchemez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Simon Cauchemez</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
+      <title>Simon Cauchemez</title>
+      <link>https://www.evmodelers.org/author/simon-cauchemez/</link>
+    </image>
+    
+    <item>
+      <title>Global dynamics of antibiotic resistance: a modeling study of the spread of endemic and emerging resistance in E. coli</title>
+      <link>https://www.evmodelers.org/publication/25rahglo/</link>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/publication/25rahglo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
