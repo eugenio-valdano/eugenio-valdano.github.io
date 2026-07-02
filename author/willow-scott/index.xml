@@ -5,7 +5,7 @@
     <link>https://www.evmodelers.org/author/willow-scott/</link>
       <atom:link href="https://www.evmodelers.org/author/willow-scott/index.xml" rel="self" type="application/rss+xml" />
     <description>Willow Scott</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 May 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jul 2026 10:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.evmodelers.org/author/willow-scott/avatar_hu4c095c3c7031487e3f110becf01e128b_134846_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Willow Scott</title>
@@ -13,20 +13,29 @@
     </image>
     
     <item>
+      <title>Willow Scott</title>
+      <link>https://www.evmodelers.org/author/willow-scott/</link>
+      <pubDate>Thu, 02 Jul 2026 10:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/author/willow-scott/</guid>
+      <description>&lt;p&gt;Willow is an intern working under the supervision of &lt;a href=&#34;https://ckassaad.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Charles Assaad&lt;/a&gt; and Eugenio Valdano, on causal inference applied to PrEP among MSM. She is working within the scope of the project PP-IMPACT.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Willow Scott wins the Sorbonne PhD scholarship (contrat doctoral)</title>
+      <link>https://www.evmodelers.org/event/2026scottwin/</link>
+      <pubDate>Thu, 02 Jul 2026 10:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2026scottwin/</guid>
+      <description>&lt;p&gt;Willow Scott wins the Sorbonne PhD scholarship (contrat doctoral) and will stay in the lab as a PhD student starting Fall.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Missing data and cluster graphs: cluster-level missingness vs variable-level missingness</title>
       <link>https://www.evmodelers.org/publication/26scomis/</link>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
       <guid>https://www.evmodelers.org/publication/26scomis/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Willow Scott</title>
-      <link>https://www.evmodelers.org/author/willow-scott/</link>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/author/willow-scott/</guid>
-      <description>&lt;p&gt;Willow is an intern working under the supervision of &lt;a href=&#34;https://ckassaad.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Charles Assaad&lt;/a&gt; and Eugenio Valdano, on causal inference applied to PrEP among MSM. She is working within the scope of the project PP-IMPACT.&lt;/p&gt;
-</description>
     </item>
     
     <item>

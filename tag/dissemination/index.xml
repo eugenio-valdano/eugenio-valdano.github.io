@@ -5,12 +5,21 @@
     <link>https://www.evmodelers.org/tag/dissemination/</link>
       <atom:link href="https://www.evmodelers.org/tag/dissemination/index.xml" rel="self" type="application/rss+xml" />
     <description>Dissemination</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Sep 2025 09:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jul 2026 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Dissemination</title>
       <link>https://www.evmodelers.org/tag/dissemination/</link>
     </image>
+    
+    <item>
+      <title>14th European Conference on Mathematical &amp; Theoretical Biology</title>
+      <link>https://www.evmodelers.org/event/2026ecmtb/</link>
+      <pubDate>Mon, 13 Jul 2026 09:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2026ecmtb/</guid>
+      <description>&lt;p&gt;You will find Eugenio at &lt;a href=&#34;https://ecmtb2026.org/contributions/minisymposia/ms79&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this minisymposium&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Workshop on Advanced Computing and Analysis Techniques in Physics Research (ACAT)</title>

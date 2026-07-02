@@ -5,12 +5,30 @@
     <link>https://www.evmodelers.org/tag/event/</link>
       <atom:link href="https://www.evmodelers.org/tag/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Event</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Mar 2026 10:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jul 2026 10:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Event</title>
       <link>https://www.evmodelers.org/tag/event/</link>
     </image>
+    
+    <item>
+      <title>Willow Scott wins the Sorbonne PhD scholarship (contrat doctoral)</title>
+      <link>https://www.evmodelers.org/event/2026scottwin/</link>
+      <pubDate>Thu, 02 Jul 2026 10:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2026scottwin/</guid>
+      <description>&lt;p&gt;Willow Scott wins the Sorbonne PhD scholarship (contrat doctoral) and will stay in the lab as a PhD student starting Fall.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Complexity72h 2026 is over and it was great</title>
+      <link>https://www.evmodelers.org/event/2026c72h/</link>
+      <pubDate>Mon, 22 Jun 2026 10:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/event/2026c72h/</guid>
+      <description>&lt;p&gt;Complexity72h is now over and it was amazing. Thank you Northeastern University London for the amazing venue. Stay tuned and check &lt;a href=&#34;https://www.complexitynextgen.org/complexity72h/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;our website&lt;/a&gt; for news about the 2027 edition!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Eugenio Valdano gets his HDR</title>
