@@ -2,19 +2,83 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.evmodelers.org/publication-type/article/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/authors/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/author/boxuan-wang-%E7%8E%8B%E5%8D%9A%E7%8E%84/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/author/chiara-poletto/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/author/eugenio-valdano/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/author/federico-fanelli/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/author/francesco-parino/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/publication/26fanimp/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/author/maria-amalia-pelle/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/author/mosoka-fallah/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/author/placide-mbala/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/publication_types/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/publication/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/author/reagan-luvande-okingo/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/author/vincent-ronin/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/author/vittoria-colizza/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/author/yap-boum/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/author/yazdan-yazdapanah/</loc>
+    <lastmod>2026-07-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://www.evmodelers.org/event/2026ecmtb/</loc>
     <lastmod>2026-07-13T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.evmodelers.org/authors/</loc>
-    <lastmod>2026-07-13T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.evmodelers.org/tag/dissemination/</loc>
-    <lastmod>2026-07-13T09:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/author/eugenio-valdano/</loc>
     <lastmod>2026-07-13T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -46,18 +110,6 @@
     <lastmod>2026-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.evmodelers.org/author/boxuan-wang-%E7%8E%8B%E5%8D%9A%E7%8E%84/</loc>
-    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/publication_types/</loc>
-    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/publication/</loc>
-    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.evmodelers.org/publication/26boxred/</loc>
     <lastmod>2026-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -70,10 +122,6 @@
     <lastmod>2026-06-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.evmodelers.org/author/reagan-luvande-okingo/</loc>
-    <lastmod>2026-06-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.evmodelers.org/event/2026c72h/</loc>
     <lastmod>2026-06-22T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -82,20 +130,8 @@
     <lastmod>2026-06-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.evmodelers.org/author/francesco-parino/</loc>
-    <lastmod>2026-06-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.evmodelers.org/publication/26boxint/</loc>
     <lastmod>2026-06-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/author/vittoria-colizza/</loc>
-    <lastmod>2026-06-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/publication-type/article/</loc>
-    <lastmod>2026-05-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.evmodelers.org/author/charles-assaad/</loc>
@@ -580,10 +616,6 @@
   </url><url>
     <loc>https://www.evmodelers.org/tour/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/author/chiara-poletto/</loc>
-    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.evmodelers.org/author/davide-colombi/</loc>
