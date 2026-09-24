@@ -5,12 +5,20 @@
     <link>https://www.evmodelers.org/publication/</link>
       <atom:link href="https://www.evmodelers.org/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://www.evmodelers.org/publication/</link>
     </image>
+    
+    <item>
+      <title>Missing data and cluster graphs: cluster-level missingness vs variable-level missingness</title>
+      <link>https://www.evmodelers.org/publication/26scomis/</link>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/publication/26scomis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fragmented criticality of infectious disease epidemics</title>
@@ -49,14 +57,6 @@
       <link>https://www.evmodelers.org/publication/26boxint/</link>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://www.evmodelers.org/publication/26boxint/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Missing data and cluster graphs: cluster-level missingness vs variable-level missingness</title>
-      <link>https://www.evmodelers.org/publication/26scomis/</link>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.evmodelers.org/publication/26scomis/</guid>
       <description></description>
     </item>
     

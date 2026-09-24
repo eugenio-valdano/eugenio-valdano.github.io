@@ -2,11 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.evmodelers.org/publication-type/article/</loc>
-    <lastmod>2026-09-09T00:00:00+00:00</lastmod>
+    <loc>https://www.evmodelers.org/authors/</loc>
+    <lastmod>2026-09-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.evmodelers.org/authors/</loc>
+    <loc>https://www.evmodelers.org/author/charles-assaad/</loc>
+    <lastmod>2026-09-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/author/eugenio-valdano/</loc>
+    <lastmod>2026-09-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/publication/26scomis/</loc>
+    <lastmod>2026-09-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/publication-type/paper-conference/</loc>
+    <lastmod>2026-09-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/publication_types/</loc>
+    <lastmod>2026-09-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/publication/</loc>
+    <lastmod>2026-09-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/author/willow-scott/</loc>
+    <lastmod>2026-09-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.evmodelers.org/publication-type/article/</loc>
     <lastmod>2026-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -14,19 +42,7 @@
     <lastmod>2026-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.evmodelers.org/author/eugenio-valdano/</loc>
-    <lastmod>2026-09-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.evmodelers.org/publication/26boxfra/</loc>
-    <lastmod>2026-09-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/publication_types/</loc>
-    <lastmod>2026-09-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/publication/</loc>
     <lastmod>2026-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -102,10 +118,6 @@
     <lastmod>2026-07-02T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://www.evmodelers.org/author/willow-scott/</loc>
-    <lastmod>2026-07-02T10:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://www.evmodelers.org/event/2026scottwin/</loc>
     <lastmod>2026-07-02T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -136,14 +148,6 @@
   </url><url>
     <loc>https://www.evmodelers.org/publication/26boxint/</loc>
     <lastmod>2026-06-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/author/charles-assaad/</loc>
-    <lastmod>2026-05-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.evmodelers.org/publication/26scomis/</loc>
-    <lastmod>2026-05-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.evmodelers.org/author/andreia-sofia-teixeira/</loc>
