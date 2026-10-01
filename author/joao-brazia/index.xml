@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Joao Brazia | EV / The modelers</title>
+    <title>João Brázia | EV / The modelers</title>
     <link>https://www.evmodelers.org/author/joao-brazia/</link>
       <atom:link href="https://www.evmodelers.org/author/joao-brazia/index.xml" rel="self" type="application/rss+xml" />
-    <description>Joao Brazia</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 May 2026 00:00:00 +0000</lastBuildDate>
+    <description>João Brázia</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.evmodelers.org/media/icon_hu01cac6525d55afbbab85fa5aa9513d33_105925_512x512_fill_lanczos_center_3.png</url>
-      <title>Joao Brazia</title>
+      <title>João Brázia</title>
       <link>https://www.evmodelers.org/author/joao-brazia/</link>
     </image>
+    
+    <item>
+      <title>Comparing the cost-effectiveness of alternative policies for recommending and providing HIV pre-exposure prophylaxis to men who have sex with men in the EU</title>
+      <link>https://www.evmodelers.org/publication/25wancom/</link>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.evmodelers.org/publication/25wancom/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Assessment of knowledge and use of HIV primary and secondary prevention strategies in Portugal: a scoping review</title>
@@ -18,11 +26,6 @@
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
       <guid>https://www.evmodelers.org/publication/26braass/</guid>
       <description></description>
-    </item>
-    
-  </channel>
-</rss>
-escription>
     </item>
     
   </channel>
